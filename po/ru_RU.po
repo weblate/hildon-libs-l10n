@@ -1,0 +1,502 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: hildon-libs 20091109114411\n"
+"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"POT-Creation-Date: 2009.11.09 11:44+0200\n"
+"PO-Revision-Date: 2009.11.09 11:44+0200\n"
+"Last-Translator:\n"
+"Language-Team: ru_RU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2\n"
+
+msgid "ckct_ib_date_does_not_exist"
+msgstr "Неверная дата"
+
+msgid "ckct_ib_find_enter_the_text"
+msgstr "Введите текст для поиска"
+
+msgid "ckct_ib_find_no_matches"
+msgstr "Совпадений не найдено"
+
+msgid "ckct_ib_find_search_complete"
+msgstr "Поиск завершен"
+
+msgid "ckct_ib_max_allowed_duration_d"
+msgstr "Максимальная длительность %d"
+
+msgid "ckct_ib_max_allowed_duration_ddd"
+msgstr "Максимальная длительность %1$02d:%2$02d:%3$02d"
+
+msgid "ckct_ib_max_allowed_duration_hts"
+msgstr "Максимальная длительность %1$02d:%2$02d:%3$02d"
+
+msgid "ckct_ib_maximum_value"
+msgstr "Максимальное значение %d"
+
+msgid "ckct_ib_min_allowed_duration_d"
+msgstr "Минимальная длительность %d"
+
+msgid "ckct_ib_min_allowed_duration_ddd"
+msgstr "Минимальная длительность %1$02d:%2$02d:%3$02d"
+
+msgid "ckct_ib_min_allowed_duration_hts"
+msgstr "Минимальная длительность %1$02d:%2$02d:%3$02d"
+
+msgid "ckct_ib_minimum_value"
+msgstr "Минимальное значение %d"
+
+msgid "ckct_ib_set_a_value_within_range"
+msgstr "Значение должно быть от %1$d до %2$d"
+
+msgid "ckct_wi_grid_no_icons"
+msgstr "Нет значков"
+
+msgid "ckct_wi_grid_no_items"
+msgstr "Нет объектов"
+
+msgid "ckct_wi_range_separator"
+msgstr "–"
+
+msgid "ckdg_bd_rename_object_dialog_ok"
+msgstr "Переименовать"
+
+msgid "ckdg_fi_dialog_c_passwd_new_pwd"
+msgstr "Введите новый пароль:"
+
+msgid "ckdg_fi_dialog_c_passwd_pwd_protect"
+msgstr "Защита паролем:"
+
+msgid "ckdg_fi_dialog_c_passwd_ver_pwd"
+msgstr "Подтвердите пароль:"
+
+msgid "ckdg_fi_new_name"
+msgstr "Имя:"
+
+msgid "ckdg_fi_rename_name"
+msgstr "Имя:"
+
+msgid "ckdg_fi_sort_field"
+msgstr "Сортировать по:"
+
+msgid "ckdg_fi_sort_order"
+msgstr "Порядок:"
+
+msgid "ckdg_ti_dialog_c_passwd_change_password"
+msgstr "Сменить пароль"
+
+msgid "ckdg_ti_new_application"
+msgstr "Новое приложение"
+
+msgid "ckdg_ti_new_bookmark"
+msgstr "Создать закладку"
+
+msgid "ckdg_ti_new_certificate"
+msgstr "Новый сертификат"
+
+msgid "ckdg_ti_new_default"
+msgstr "Создать"
+
+msgid "ckdg_ti_new_document"
+msgstr "Новый документ"
+
+msgid "ckdg_ti_new_folder"
+msgstr "Создать папку"
+
+msgid "ckdg_ti_new_html"
+msgstr "Новый документ HTML"
+
+msgid "ckdg_ti_new_image"
+msgstr "Новое изображение"
+
+msgid "ckdg_ti_new_link"
+msgstr "Новый ярлык"
+
+msgid "ckdg_ti_new_message"
+msgstr "Новое сообщение"
+
+msgid "ckdg_ti_new_presentation"
+msgstr "Новая презентация"
+
+msgid "ckdg_ti_new_sound"
+msgstr "Новый аудиоклип"
+
+msgid "ckdg_ti_new_video"
+msgstr "Новый видеоклип"
+
+msgid "ckdg_ti_new_workbook"
+msgstr "Новая рабочая книга"
+
+msgid "ckdg_ti_new_xml"
+msgstr "Новый документ XML"
+
+msgid "ckdg_ti_rename_application"
+msgstr "Переименовать приложение"
+
+msgid "ckdg_ti_rename_bookmark"
+msgstr "Переименовать закладку"
+
+msgid "ckdg_ti_rename_certificate"
+msgstr "Переименовать сертификат"
+
+msgid "ckdg_ti_rename_default"
+msgstr "Переименовать"
+
+msgid "ckdg_ti_rename_document"
+msgstr "Переименовать документ"
+
+msgid "ckdg_ti_rename_folder"
+msgstr "Переименовать"
+
+msgid "ckdg_ti_rename_html"
+msgstr "Переименовать документ HTML"
+
+msgid "ckdg_ti_rename_image"
+msgstr "Переименовать изображение"
+
+msgid "ckdg_ti_rename_link"
+msgstr "Переименовать ярлык"
+
+msgid "ckdg_ti_rename_message"
+msgstr "Переименовать сообщение"
+
+msgid "ckdg_ti_rename_presentation"
+msgstr "Переименовать презентацию"
+
+msgid "ckdg_ti_rename_sound"
+msgstr "Переименовать аудиоклип"
+
+msgid "ckdg_ti_rename_video"
+msgstr "Переименовать видеоклип"
+
+msgid "ckdg_ti_rename_workbook"
+msgstr "Переименовать рабочую книгу"
+
+msgid "ckdg_ti_rename_xml"
+msgstr "Переименовать документ XML"
+
+msgid "ckdg_ti_sort"
+msgstr "Сортировать"
+
+msgid "ckdg_va_sort_ascending"
+msgstr "По возрастанию"
+
+msgid "ckdg_va_sort_date"
+msgstr "Дате"
+
+msgid "ckdg_va_sort_descending"
+msgstr "По убыванию"
+
+msgid "ckdg_va_sort_name"
+msgstr "Имени"
+
+msgid "ckdg_va_sort_size"
+msgstr "Размер"
+
+msgid "ecdg_bd_colour_selector_modify"
+msgstr "Изменить"
+
+msgid "ecdg_bd_font_dialog_preview"
+msgstr "Предварительный просмотр"
+
+msgid "ecdg_fi_5bit_colour_selector_blue"
+msgstr "Синий"
+
+msgid "ecdg_fi_5bit_colour_selector_green"
+msgstr "Зеленый"
+
+msgid "ecdg_fi_5bit_colour_selector_red"
+msgstr "Красный"
+
+msgid "ecdg_fi_font_bold"
+msgstr "Полужирный"
+
+msgid "ecdg_fi_font_colour_selector"
+msgstr "Цвет"
+
+msgid "ecdg_fi_font_font"
+msgstr "Шрифт"
+
+msgid "ecdg_fi_font_italic"
+msgstr "Курсив"
+
+msgid "ecdg_fi_font_size"
+msgstr "Размер шрифта"
+
+msgid "ecdg_fi_font_special"
+msgstr "Выравнивание"
+
+msgid "ecdg_fi_font_strikethrough"
+msgstr "Зачеркнутый"
+
+msgid "ecdg_fi_font_underline"
+msgstr "Подчеркнутый"
+
+msgid "ecdg_fi_get_old_pwd_enter_pwd"
+msgstr "Пароль:"
+
+msgid "ecdg_fi_preview_font_preview_reference"
+msgstr "Ссылка: "
+
+msgid "ecdg_fi_preview_font_preview_text"
+msgstr "Съешь ещё этих мягких французских булок да выпей же чаю"
+
+msgid "ecdg_fi_set_passwd_confirm"
+msgstr "Подтвердите пароль"
+
+msgid "ecdg_fi_set_passwd_enter_pwd"
+msgstr "Введите новый пароль"
+
+msgid "ecdg_fi_verify_pwd_enter_pwd"
+msgstr "Пароль:"
+
+msgid "ecdg_fi_wizard_description"
+msgstr ""
+"%s мастер позволяет %s.\n"
+"\n"
+"Для продолжения нажмите Далее."
+
+msgid "ecdg_ib_colour_selector_predefined"
+msgstr "Невозможно изменить цвет"
+
+msgid "ecdg_ti_5bit_colour_selector"
+msgstr "Изменить цвет"
+
+msgid "ecdg_ti_aboutdialog_title"
+msgstr "О приложении"
+
+msgid "ecdg_ti_caption_separator"
+msgstr ":"
+
+msgid "ecdg_ti_colour_selector"
+msgstr "Цветовая палитра"
+
+msgid "ecdg_ti_duration_editor_separator"
+msgstr ":"
+
+msgid "ecdg_ti_find_toolbar_label"
+msgstr "Найти:"
+
+msgid "ecdg_ti_font"
+msgstr "Шрифт"
+
+msgid "ecdg_ti_font_dialog_format"
+msgstr "Форматирование"
+
+msgid "ecdg_ti_font_dialog_other"
+msgstr "Другие"
+
+msgid "ecdg_ti_font_dialog_style"
+msgstr "Стиль"
+
+msgid "ecdg_ti_get_old_password"
+msgstr "Текущий пароль"
+
+msgid "ecdg_ti_preview_font"
+msgstr "Предварительный просмотр"
+
+msgid "ecdg_ti_set_password"
+msgstr "Задать пароль"
+
+msgid "ecdg_ti_time_picker_separator"
+msgstr ":"
+
+msgid "ecdg_ti_verify_password"
+msgstr "Необходимо ввести пароль"
+
+msgid "ecdg_ti_wizard_welcome"
+msgstr "%s: Приветствие"
+
+msgid "ecdg_va_font_printpos_1"
+msgstr "Обычный"
+
+msgid "ecdg_va_font_printpos_2"
+msgstr "Верхний индекс"
+
+msgid "ecdg_va_font_printpos_3"
+msgstr "Нижний индекс"
+
+msgid "ecdg_va_font_size_trailer"
+msgstr " pt"
+
+msgid "frw_ti_get_user_name_and_pwd"
+msgstr "Необходимо ввести пароль"
+
+msgid "frw_ti_get_user_name_and_pwd_enter_pwd"
+msgstr "Пароль:"
+
+msgid "frw_ti_get_user_name_and_pwd_enter_user_name"
+msgstr "Имя пользователя"
+
+msgid "wdgt_bd_add"
+msgstr "Еще"
+
+msgid "wdgt_bd_back"
+msgstr "Назад"
+
+msgid "wdgt_bd_delete"
+msgstr "Удалить"
+
+msgid "wdgt_bd_done"
+msgstr "Готово"
+
+msgid "wdgt_bd_edit"
+msgstr "Изменить"
+
+msgid "wdgt_bd_finish"
+msgstr "Готово"
+
+msgid "wdgt_bd_move"
+msgstr "Переместить"
+
+msgid "wdgt_bd_new"
+msgstr "Создать"
+
+msgid "wdgt_bd_next"
+msgstr "Далее"
+
+msgid "wdgt_bd_no"
+msgstr "Нет"
+
+msgid "wdgt_bd_previous"
+msgstr "Назад"
+
+msgid "wdgt_bd_rename"
+msgstr "Переименовать"
+
+msgid "wdgt_bd_save"
+msgstr "Сохранить"
+
+msgid "wdgt_bd_search"
+msgstr "Поиск"
+
+msgid "wdgt_bd_share"
+msgstr "Совм. доступ"
+
+msgid "wdgt_bd_sort"
+msgstr "Сортировать"
+
+msgid "wdgt_bd_stop"
+msgstr "Остановить"
+
+msgid "wdgt_bd_view"
+msgstr "Детали"
+
+msgid "wdgt_bd_yes"
+msgstr "Да"
+
+msgid "wdgt_ib_volume"
+msgstr "Громкость %d%%"
+
+msgid "wdgt_ib_zoom"
+msgstr "Масштаб %d%%"
+
+msgid "wdgt_ti_date"
+msgstr "Дата"
+
+msgid "wdgt_ti_time"
+msgstr "Время"
+
+msgid "wdgt_va_12h_hours"
+msgstr "%l"
+
+msgid "wdgt_va_12h_time_am"
+msgstr "%l:%M am"
+
+msgid "wdgt_va_12h_time_pm"
+msgstr "%l:%M pm"
+
+msgid "wdgt_va_24h_hours"
+msgstr "%H"
+
+msgid "wdgt_va_24h_time"
+msgstr "%H:%M"
+
+msgid "wdgt_va_ago_one_day"
+msgid_plural "wdgt_va_ago_days"
+msgstr[0] "1 день назад"
+msgstr[1] "%d дня назад"
+msgstr[2] "%d дней назад"
+
+msgid "wdgt_va_ago_one_hour"
+msgid_plural "wdgt_va_ago_hours"
+msgstr[0] "1 час назад"
+msgstr[1] "%d часа назад"
+msgstr[2] "%d часов назад"
+
+msgid "wdgt_va_ago_one_minute"
+msgid_plural "wdgt_va_ago_minutes"
+msgstr[0] "1 минуту назад"
+msgstr[1] "%d минуты назад"
+msgstr[2] "%d минут назад"
+
+msgid "wdgt_va_ago_one_year"
+msgid_plural "wdgt_va_ago_years"
+msgstr[0] "1 год назад"
+msgstr[1] "%d года назад"
+msgstr[2] "%d лет назад"
+
+msgid "wdgt_va_am"
+msgstr "AM"
+
+msgid "wdgt_va_date"
+msgstr "%d.%m.%Y"
+
+msgid "wdgt_va_date_day_name_short"
+msgstr "%a %d.%m."
+
+msgid "wdgt_va_date_long"
+msgstr "%a %d.%m.%y"
+
+msgid "wdgt_va_date_medium"
+msgstr "%d.%m.%Y"
+
+msgid "wdgt_va_date_short"
+msgstr "%d.%m"
+
+msgid "wdgt_va_day_numeric"
+msgstr "%e"
+
+msgid "wdgt_va_full_24h_time"
+msgstr "%T"
+
+msgid "wdgt_va_fulldate_day_name_short"
+msgstr "%a %d.%m.%y"
+
+msgid "wdgt_va_fullmonth_year"
+msgstr "%B %Y"
+
+msgid "wdgt_va_minutes"
+msgstr "%M"
+
+msgid "wdgt_va_minutes_seconds"
+msgstr "%M:%S"
+
+msgid "wdgt_va_month"
+msgstr "%B"
+
+msgid "wdgt_va_month_name_short"
+msgstr "%b"
+
+msgid "wdgt_va_pm"
+msgstr "PM"
+
+msgid "wdgt_va_seconds"
+msgstr "%S"
+
+msgid "wdgt_va_week"
+msgstr "%A"
+
+msgid "wdgt_va_week_name_short"
+msgstr "%a"
+
+msgid "wdgt_va_week_number"
+msgstr "%V"
+
+msgid "wdgt_va_week_number_sunday_first"
+msgstr "%U"
+
+msgid "wdgt_va_year"
+msgstr "%Y"

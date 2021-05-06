@@ -1,0 +1,497 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: hildon-libs 20091109114411\n"
+"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"POT-Creation-Date: 2009.11.09 11:44+0200\n"
+"PO-Revision-Date: 2009.11.09 11:44+0200\n"
+"Last-Translator:\n"
+"Language-Team: da_DK\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+
+msgid "ckct_ib_date_does_not_exist"
+msgstr "Ugyldig dato"
+
+msgid "ckct_ib_find_enter_the_text"
+msgstr "Indtast den tekst, der skal findes"
+
+msgid "ckct_ib_find_no_matches"
+msgstr "Ingen forekomster"
+
+msgid "ckct_ib_find_search_complete"
+msgstr "Søgning udført"
+
+msgid "ckct_ib_max_allowed_duration_d"
+msgstr "Maks. tilladt varighed er %d"
+
+msgid "ckct_ib_max_allowed_duration_ddd"
+msgstr "Maks. tilladt varighed er %1$02d:%2$02d:%3$02d"
+
+msgid "ckct_ib_max_allowed_duration_hts"
+msgstr "Maks. tilladt varighed er %1$02d:%2$02d:%3$02d"
+
+msgid "ckct_ib_maximum_value"
+msgstr "Maks. værdi er %d"
+
+msgid "ckct_ib_min_allowed_duration_d"
+msgstr "Min. tilladt varighed er %d"
+
+msgid "ckct_ib_min_allowed_duration_ddd"
+msgstr "Min. tilladt varighed er %1$02d:%2$02d:%3$02d"
+
+msgid "ckct_ib_min_allowed_duration_hts"
+msgstr "Min. tilladt varighed er %1$02d:%2$02d:%3$02d"
+
+msgid "ckct_ib_minimum_value"
+msgstr "Min. værdi er %d"
+
+msgid "ckct_ib_set_a_value_within_range"
+msgstr "Værdien skal være mellem %1$d og %2$d"
+
+msgid "ckct_wi_grid_no_icons"
+msgstr "Ingen ikoner"
+
+msgid "ckct_wi_grid_no_items"
+msgstr "Ingen elementer"
+
+msgid "ckct_wi_range_separator"
+msgstr "–"
+
+msgid "ckdg_bd_rename_object_dialog_ok"
+msgstr "Omdøb"
+
+msgid "ckdg_fi_dialog_c_passwd_new_pwd"
+msgstr "Indtast ny adgangskode:"
+
+msgid "ckdg_fi_dialog_c_passwd_pwd_protect"
+msgstr "Beskyttet med adgangskode:"
+
+msgid "ckdg_fi_dialog_c_passwd_ver_pwd"
+msgstr "Bekræft adgangskode:"
+
+msgid "ckdg_fi_new_name"
+msgstr "Navn:"
+
+msgid "ckdg_fi_rename_name"
+msgstr "Navn:"
+
+msgid "ckdg_fi_sort_field"
+msgstr "Sorter efter:"
+
+msgid "ckdg_fi_sort_order"
+msgstr "Rækkefølge:"
+
+msgid "ckdg_ti_dialog_c_passwd_change_password"
+msgstr "Skift adgangskode"
+
+msgid "ckdg_ti_new_application"
+msgstr "Nyt program"
+
+msgid "ckdg_ti_new_bookmark"
+msgstr "Nyt bogmærke"
+
+msgid "ckdg_ti_new_certificate"
+msgstr "Nyt certifikat"
+
+msgid "ckdg_ti_new_default"
+msgstr "Ny"
+
+msgid "ckdg_ti_new_document"
+msgstr "Nyt dokument"
+
+msgid "ckdg_ti_new_folder"
+msgstr "Ny mappe"
+
+msgid "ckdg_ti_new_html"
+msgstr "Nyt HTML-dokument"
+
+msgid "ckdg_ti_new_image"
+msgstr "Nyt billede"
+
+msgid "ckdg_ti_new_link"
+msgstr "Ny genvej"
+
+msgid "ckdg_ti_new_message"
+msgstr "Ny besked"
+
+msgid "ckdg_ti_new_presentation"
+msgstr "Ny præsentation"
+
+msgid "ckdg_ti_new_sound"
+msgstr "Nyt lydklip"
+
+msgid "ckdg_ti_new_video"
+msgstr "Nyt videoklip"
+
+msgid "ckdg_ti_new_workbook"
+msgstr "Ny projektmappe"
+
+msgid "ckdg_ti_new_xml"
+msgstr "Nyt XML-dokument"
+
+msgid "ckdg_ti_rename_application"
+msgstr "Omdøb program"
+
+msgid "ckdg_ti_rename_bookmark"
+msgstr "Omdøb bogmærke"
+
+msgid "ckdg_ti_rename_certificate"
+msgstr "Omdøb certifikat"
+
+msgid "ckdg_ti_rename_default"
+msgstr "Omdøb"
+
+msgid "ckdg_ti_rename_document"
+msgstr "Omdøb dokument"
+
+msgid "ckdg_ti_rename_folder"
+msgstr "Omdøb mappe"
+
+msgid "ckdg_ti_rename_html"
+msgstr "Omdøb HTML-dokument"
+
+msgid "ckdg_ti_rename_image"
+msgstr "Omdøb billede"
+
+msgid "ckdg_ti_rename_link"
+msgstr "Omdøb genvej"
+
+msgid "ckdg_ti_rename_message"
+msgstr "Omdøb besked"
+
+msgid "ckdg_ti_rename_presentation"
+msgstr "Omdøb præsentation"
+
+msgid "ckdg_ti_rename_sound"
+msgstr "Omdøb lydklip"
+
+msgid "ckdg_ti_rename_video"
+msgstr "Omdøb videoklip"
+
+msgid "ckdg_ti_rename_workbook"
+msgstr "Omdøb projektmappe"
+
+msgid "ckdg_ti_rename_xml"
+msgstr "Omdøb XML-dokument"
+
+msgid "ckdg_ti_sort"
+msgstr "Sorter"
+
+msgid "ckdg_va_sort_ascending"
+msgstr "Stigende"
+
+msgid "ckdg_va_sort_date"
+msgstr "Dato"
+
+msgid "ckdg_va_sort_descending"
+msgstr "Faldende"
+
+msgid "ckdg_va_sort_name"
+msgstr "Navn"
+
+msgid "ckdg_va_sort_size"
+msgstr "Størrelse"
+
+msgid "ecdg_bd_colour_selector_modify"
+msgstr "Rediger"
+
+msgid "ecdg_bd_font_dialog_preview"
+msgstr "Eksempel"
+
+msgid "ecdg_fi_5bit_colour_selector_blue"
+msgstr "Blå"
+
+msgid "ecdg_fi_5bit_colour_selector_green"
+msgstr "Grøn"
+
+msgid "ecdg_fi_5bit_colour_selector_red"
+msgstr "Rød"
+
+msgid "ecdg_fi_font_bold"
+msgstr "Fed"
+
+msgid "ecdg_fi_font_colour_selector"
+msgstr "Farve"
+
+msgid "ecdg_fi_font_font"
+msgstr "Skrifttype"
+
+msgid "ecdg_fi_font_italic"
+msgstr "Kursiv"
+
+msgid "ecdg_fi_font_size"
+msgstr "Skriftstørrelse"
+
+msgid "ecdg_fi_font_special"
+msgstr "Placering"
+
+msgid "ecdg_fi_font_strikethrough"
+msgstr "Gennemstreget"
+
+msgid "ecdg_fi_font_underline"
+msgstr "Understreget"
+
+msgid "ecdg_fi_get_old_pwd_enter_pwd"
+msgstr "Adgangskode:"
+
+msgid "ecdg_fi_preview_font_preview_reference"
+msgstr "Reference: "
+
+msgid "ecdg_fi_preview_font_preview_text"
+msgstr "Quizdeltagerne spiste jordbær med fløde"
+
+msgid "ecdg_fi_set_passwd_confirm"
+msgstr "Bekræft adgangskode"
+
+msgid "ecdg_fi_set_passwd_enter_pwd"
+msgstr "Indtast ny adgangskode"
+
+msgid "ecdg_fi_verify_pwd_enter_pwd"
+msgstr "Adgangskode:"
+
+msgid "ecdg_fi_wizard_description"
+msgstr ""
+"Med guiden %s kan du %s.\n"
+"\n"
+"Tryk på 'Næste' for at fortsætte."
+
+msgid "ecdg_ib_colour_selector_predefined"
+msgstr "Kan ikke redigere farve"
+
+msgid "ecdg_ti_5bit_colour_selector"
+msgstr "Rediger farve"
+
+msgid "ecdg_ti_aboutdialog_title"
+msgstr "Om programmet"
+
+msgid "ecdg_ti_caption_separator"
+msgstr ":"
+
+msgid "ecdg_ti_colour_selector"
+msgstr "Farvepalet"
+
+msgid "ecdg_ti_duration_editor_separator"
+msgstr ":"
+
+msgid "ecdg_ti_find_toolbar_label"
+msgstr "Find:"
+
+msgid "ecdg_ti_font"
+msgstr "Skrifttype"
+
+msgid "ecdg_ti_font_dialog_format"
+msgstr "Formatering"
+
+msgid "ecdg_ti_font_dialog_other"
+msgstr "Andet"
+
+msgid "ecdg_ti_font_dialog_style"
+msgstr "Typografi"
+
+msgid "ecdg_ti_get_old_password"
+msgstr "Aktuel adgangskode"
+
+msgid "ecdg_ti_preview_font"
+msgstr "Eksempel"
+
+msgid "ecdg_ti_set_password"
+msgstr "Angiv adgangskode"
+
+msgid "ecdg_ti_time_picker_separator"
+msgstr ":"
+
+msgid "ecdg_ti_verify_password"
+msgstr "Adgangskode kræves"
+
+msgid "ecdg_ti_wizard_welcome"
+msgstr "%s: Velkommen"
+
+msgid "ecdg_va_font_printpos_1"
+msgstr "Normal"
+
+msgid "ecdg_va_font_printpos_2"
+msgstr "Hævet skrift"
+
+msgid "ecdg_va_font_printpos_3"
+msgstr "Sænket skrift"
+
+msgid "ecdg_va_font_size_trailer"
+msgstr " pkt."
+
+msgid "frw_ti_get_user_name_and_pwd"
+msgstr "Adgangskode kræves"
+
+msgid "frw_ti_get_user_name_and_pwd_enter_pwd"
+msgstr "Adgangskode:"
+
+msgid "frw_ti_get_user_name_and_pwd_enter_user_name"
+msgstr "Brugernavn"
+
+msgid "wdgt_bd_add"
+msgstr "Tilføj"
+
+msgid "wdgt_bd_back"
+msgstr "Tilbage"
+
+msgid "wdgt_bd_delete"
+msgstr "Slet"
+
+msgid "wdgt_bd_done"
+msgstr "OK"
+
+msgid "wdgt_bd_edit"
+msgstr "Rediger"
+
+msgid "wdgt_bd_finish"
+msgstr "Afslut"
+
+msgid "wdgt_bd_move"
+msgstr "Flyt"
+
+msgid "wdgt_bd_new"
+msgstr "Ny"
+
+msgid "wdgt_bd_next"
+msgstr "Næste"
+
+msgid "wdgt_bd_no"
+msgstr "Nej"
+
+msgid "wdgt_bd_previous"
+msgstr "Forrige"
+
+msgid "wdgt_bd_rename"
+msgstr "Omdøb"
+
+msgid "wdgt_bd_save"
+msgstr "Gem"
+
+msgid "wdgt_bd_search"
+msgstr "Søg"
+
+msgid "wdgt_bd_share"
+msgstr "Del"
+
+msgid "wdgt_bd_sort"
+msgstr "Sorter"
+
+msgid "wdgt_bd_stop"
+msgstr "Stop"
+
+msgid "wdgt_bd_view"
+msgstr "Vis"
+
+msgid "wdgt_bd_yes"
+msgstr "Ja"
+
+msgid "wdgt_ib_volume"
+msgstr "Lydstyrke %d%%"
+
+msgid "wdgt_ib_zoom"
+msgstr "Zoom %d%%"
+
+msgid "wdgt_ti_date"
+msgstr "Dato"
+
+msgid "wdgt_ti_time"
+msgstr "Klokkeslæt"
+
+msgid "wdgt_va_12h_hours"
+msgstr "%l"
+
+msgid "wdgt_va_12h_time_am"
+msgstr "%l:%M am"
+
+msgid "wdgt_va_12h_time_pm"
+msgstr "%l:%M pm"
+
+msgid "wdgt_va_24h_hours"
+msgstr "%H"
+
+msgid "wdgt_va_24h_time"
+msgstr "%H:%M"
+
+msgid "wdgt_va_ago_one_day"
+msgid_plural "wdgt_va_ago_days"
+msgstr[0] "1 dag siden"
+msgstr[1] "%d dage siden"
+
+msgid "wdgt_va_ago_one_hour"
+msgid_plural "wdgt_va_ago_hours"
+msgstr[0] "1 time siden"
+msgstr[1] "%d timer siden"
+
+msgid "wdgt_va_ago_one_minute"
+msgid_plural "wdgt_va_ago_minutes"
+msgstr[0] "1 minut siden"
+msgstr[1] "%d minutter siden"
+
+msgid "wdgt_va_ago_one_year"
+msgid_plural "wdgt_va_ago_years"
+msgstr[0] "1 år siden"
+msgstr[1] "%d år siden"
+
+msgid "wdgt_va_am"
+msgstr "AM"
+
+msgid "wdgt_va_date"
+msgstr "%d.%m.%Y"
+
+msgid "wdgt_va_date_day_name_short"
+msgstr "%a %d.%m."
+
+msgid "wdgt_va_date_long"
+msgstr "%A %e %B %Y"
+
+msgid "wdgt_va_date_medium"
+msgstr "%e %B %Y"
+
+msgid "wdgt_va_date_short"
+msgstr "%d.%m"
+
+msgid "wdgt_va_day_numeric"
+msgstr "%e"
+
+msgid "wdgt_va_full_24h_time"
+msgstr "%T"
+
+msgid "wdgt_va_fulldate_day_name_short"
+msgstr "%a %d.%m.%y"
+
+msgid "wdgt_va_fullmonth_year"
+msgstr "%B %Y"
+
+msgid "wdgt_va_minutes"
+msgstr "%M"
+
+msgid "wdgt_va_minutes_seconds"
+msgstr "%M:%S"
+
+msgid "wdgt_va_month"
+msgstr "%B"
+
+msgid "wdgt_va_month_name_short"
+msgstr "%b"
+
+msgid "wdgt_va_pm"
+msgstr "PM"
+
+msgid "wdgt_va_seconds"
+msgstr "%S"
+
+msgid "wdgt_va_week"
+msgstr "%A"
+
+msgid "wdgt_va_week_name_short"
+msgstr "%a"
+
+msgid "wdgt_va_week_number"
+msgstr "%V"
+
+msgid "wdgt_va_week_number_sunday_first"
+msgstr "%U"
+
+msgid "wdgt_va_year"
+msgstr "%Y"

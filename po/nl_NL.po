@@ -1,0 +1,497 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: hildon-libs 20091109114411\n"
+"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"POT-Creation-Date: 2009.11.09 11:44+0200\n"
+"PO-Revision-Date: 2009.11.09 11:44+0200\n"
+"Last-Translator:\n"
+"Language-Team: nl_NL\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+
+msgid "ckct_ib_date_does_not_exist"
+msgstr "Ongeldige datum"
+
+msgid "ckct_ib_find_enter_the_text"
+msgstr "Voer de zoektekst in"
+
+msgid "ckct_ib_find_no_matches"
+msgstr "Geen treffers gevonden"
+
+msgid "ckct_ib_find_search_complete"
+msgstr "Zoeken voltooid"
+
+msgid "ckct_ib_max_allowed_duration_d"
+msgstr "Maximum toegestane duur is %d"
+
+msgid "ckct_ib_max_allowed_duration_ddd"
+msgstr "Maximum toegestane duur is %1$02d:%2$02d:%3$02d"
+
+msgid "ckct_ib_max_allowed_duration_hts"
+msgstr "Maximum toegestane duur is %1$02d:%2$02d:%3$02d"
+
+msgid "ckct_ib_maximum_value"
+msgstr "Maximumwaarde is %d"
+
+msgid "ckct_ib_min_allowed_duration_d"
+msgstr "Minimum toegestane duur is %d"
+
+msgid "ckct_ib_min_allowed_duration_ddd"
+msgstr "Minimum toegestane duur is %1$02d:%2$02d:%3$02d"
+
+msgid "ckct_ib_min_allowed_duration_hts"
+msgstr "Minimum toegestane duur is %1$02d:%2$02d:%3$02d"
+
+msgid "ckct_ib_minimum_value"
+msgstr "Minimumwaarde is %d"
+
+msgid "ckct_ib_set_a_value_within_range"
+msgstr "Waarde moet tussen %1$d en %2$d liggen"
+
+msgid "ckct_wi_grid_no_icons"
+msgstr "Geen pictogrammen"
+
+msgid "ckct_wi_grid_no_items"
+msgstr "Geen items"
+
+msgid "ckct_wi_range_separator"
+msgstr "–"
+
+msgid "ckdg_bd_rename_object_dialog_ok"
+msgstr "Wijzig naam"
+
+msgid "ckdg_fi_dialog_c_passwd_new_pwd"
+msgstr "Nieuw wachtwoord invoeren:"
+
+msgid "ckdg_fi_dialog_c_passwd_pwd_protect"
+msgstr "Met wachtwoord beveiligd:"
+
+msgid "ckdg_fi_dialog_c_passwd_ver_pwd"
+msgstr "Wachtwoord controleren:"
+
+msgid "ckdg_fi_new_name"
+msgstr "Naam:"
+
+msgid "ckdg_fi_rename_name"
+msgstr "Naam:"
+
+msgid "ckdg_fi_sort_field"
+msgstr "Sorteren op:"
+
+msgid "ckdg_fi_sort_order"
+msgstr "Volgorde:"
+
+msgid "ckdg_ti_dialog_c_passwd_change_password"
+msgstr "Wachtwoord wijzigen"
+
+msgid "ckdg_ti_new_application"
+msgstr "Nieuwe toepassing"
+
+msgid "ckdg_ti_new_bookmark"
+msgstr "Nieuwe favoriet"
+
+msgid "ckdg_ti_new_certificate"
+msgstr "Nieuw certificaat"
+
+msgid "ckdg_ti_new_default"
+msgstr "Nieuw"
+
+msgid "ckdg_ti_new_document"
+msgstr "Nieuw document"
+
+msgid "ckdg_ti_new_folder"
+msgstr "Nieuwe map"
+
+msgid "ckdg_ti_new_html"
+msgstr "Nieuw HTML-document"
+
+msgid "ckdg_ti_new_image"
+msgstr "Nieuwe afbeelding"
+
+msgid "ckdg_ti_new_link"
+msgstr "Nieuwe snelkoppeling"
+
+msgid "ckdg_ti_new_message"
+msgstr "Nieuw bericht"
+
+msgid "ckdg_ti_new_presentation"
+msgstr "Nieuwe presentatie"
+
+msgid "ckdg_ti_new_sound"
+msgstr "Nieuwe geluidsclip"
+
+msgid "ckdg_ti_new_video"
+msgstr "Nieuwe videoclip"
+
+msgid "ckdg_ti_new_workbook"
+msgstr "Nieuwe werkmap"
+
+msgid "ckdg_ti_new_xml"
+msgstr "Nieuw XML-document"
+
+msgid "ckdg_ti_rename_application"
+msgstr "Naam van toepassing wijzigen"
+
+msgid "ckdg_ti_rename_bookmark"
+msgstr "Naam van favoriet wijzigen"
+
+msgid "ckdg_ti_rename_certificate"
+msgstr "Naam van certificaat wijzigen"
+
+msgid "ckdg_ti_rename_default"
+msgstr "Wijzig naam"
+
+msgid "ckdg_ti_rename_document"
+msgstr "Naam van document wijzigen"
+
+msgid "ckdg_ti_rename_folder"
+msgstr "Naam wijzigen"
+
+msgid "ckdg_ti_rename_html"
+msgstr "Naam van HTML-document wijzigen"
+
+msgid "ckdg_ti_rename_image"
+msgstr "Naam van afbeelding wijzigen"
+
+msgid "ckdg_ti_rename_link"
+msgstr "Naam van snelkoppeling wijzigen"
+
+msgid "ckdg_ti_rename_message"
+msgstr "Naam van bericht wijzigen"
+
+msgid "ckdg_ti_rename_presentation"
+msgstr "Naam van presentatie wijzigen"
+
+msgid "ckdg_ti_rename_sound"
+msgstr "Naam van geluidsclip wijzigen"
+
+msgid "ckdg_ti_rename_video"
+msgstr "Naam van videoclip wijzigen"
+
+msgid "ckdg_ti_rename_workbook"
+msgstr "Naam van werkmap wijzigen"
+
+msgid "ckdg_ti_rename_xml"
+msgstr "Naam van XML-document wijzigen"
+
+msgid "ckdg_ti_sort"
+msgstr "Sorteren"
+
+msgid "ckdg_va_sort_ascending"
+msgstr "Oplopend"
+
+msgid "ckdg_va_sort_date"
+msgstr "Datum"
+
+msgid "ckdg_va_sort_descending"
+msgstr "Aflopend"
+
+msgid "ckdg_va_sort_name"
+msgstr "Naam"
+
+msgid "ckdg_va_sort_size"
+msgstr "Grootte"
+
+msgid "ecdg_bd_colour_selector_modify"
+msgstr "Wijzigen"
+
+msgid "ecdg_bd_font_dialog_preview"
+msgstr "Voorbeeld"
+
+msgid "ecdg_fi_5bit_colour_selector_blue"
+msgstr "Blauw"
+
+msgid "ecdg_fi_5bit_colour_selector_green"
+msgstr "Groen"
+
+msgid "ecdg_fi_5bit_colour_selector_red"
+msgstr "Rood"
+
+msgid "ecdg_fi_font_bold"
+msgstr "Vet"
+
+msgid "ecdg_fi_font_colour_selector"
+msgstr "Kleur"
+
+msgid "ecdg_fi_font_font"
+msgstr "Lettertype"
+
+msgid "ecdg_fi_font_italic"
+msgstr "Cursief"
+
+msgid "ecdg_fi_font_size"
+msgstr "Tekengrootte"
+
+msgid "ecdg_fi_font_special"
+msgstr "Plaatsing"
+
+msgid "ecdg_fi_font_strikethrough"
+msgstr "Doorhalen"
+
+msgid "ecdg_fi_font_underline"
+msgstr "Onderstreept"
+
+msgid "ecdg_fi_get_old_pwd_enter_pwd"
+msgstr "Wachtwoord:"
+
+msgid "ecdg_fi_preview_font_preview_reference"
+msgstr "Referentie: "
+
+msgid "ecdg_fi_preview_font_preview_text"
+msgstr "Pa's wijze lynx bezag vroom het fikse aquaduct"
+
+msgid "ecdg_fi_set_passwd_confirm"
+msgstr "Wachtwoord controleren"
+
+msgid "ecdg_fi_set_passwd_enter_pwd"
+msgstr "Nieuw wachtwoord invoeren"
+
+msgid "ecdg_fi_verify_pwd_enter_pwd"
+msgstr "Wachtwoord:"
+
+msgid "ecdg_fi_wizard_description"
+msgstr ""
+"met de wizard %s kunt u %s.\n"
+"\n"
+"Tik op 'Volgende' om door te gaan."
+
+msgid "ecdg_ib_colour_selector_predefined"
+msgstr "Kan kleur niet wijzigen"
+
+msgid "ecdg_ti_5bit_colour_selector"
+msgstr "Kleur wijzigen"
+
+msgid "ecdg_ti_aboutdialog_title"
+msgstr "Over de toepassing"
+
+msgid "ecdg_ti_caption_separator"
+msgstr ":"
+
+msgid "ecdg_ti_colour_selector"
+msgstr "Kleurenpalet"
+
+msgid "ecdg_ti_duration_editor_separator"
+msgstr ":"
+
+msgid "ecdg_ti_find_toolbar_label"
+msgstr "Zoeken:"
+
+msgid "ecdg_ti_font"
+msgstr "Lettertype"
+
+msgid "ecdg_ti_font_dialog_format"
+msgstr "Opmaak"
+
+msgid "ecdg_ti_font_dialog_other"
+msgstr "Overige"
+
+msgid "ecdg_ti_font_dialog_style"
+msgstr "Stijl"
+
+msgid "ecdg_ti_get_old_password"
+msgstr "Huidig wachtwoord"
+
+msgid "ecdg_ti_preview_font"
+msgstr "Voorbeeld"
+
+msgid "ecdg_ti_set_password"
+msgstr "Wachtwoord instellen"
+
+msgid "ecdg_ti_time_picker_separator"
+msgstr ":"
+
+msgid "ecdg_ti_verify_password"
+msgstr "Wachtwoord vereist"
+
+msgid "ecdg_ti_wizard_welcome"
+msgstr "%s: Welkom"
+
+msgid "ecdg_va_font_printpos_1"
+msgstr "Normaal"
+
+msgid "ecdg_va_font_printpos_2"
+msgstr "Superscript"
+
+msgid "ecdg_va_font_printpos_3"
+msgstr "Subscript"
+
+msgid "ecdg_va_font_size_trailer"
+msgstr " pt"
+
+msgid "frw_ti_get_user_name_and_pwd"
+msgstr "Wachtwoord vereist"
+
+msgid "frw_ti_get_user_name_and_pwd_enter_pwd"
+msgstr "Wachtwoord:"
+
+msgid "frw_ti_get_user_name_and_pwd_enter_user_name"
+msgstr "Gebruikersnaam"
+
+msgid "wdgt_bd_add"
+msgstr "Meer"
+
+msgid "wdgt_bd_back"
+msgstr "Vorige"
+
+msgid "wdgt_bd_delete"
+msgstr "Verwijder"
+
+msgid "wdgt_bd_done"
+msgstr "Voltooid"
+
+msgid "wdgt_bd_edit"
+msgstr "Bewerken"
+
+msgid "wdgt_bd_finish"
+msgstr "Voltooien"
+
+msgid "wdgt_bd_move"
+msgstr "Verplaatsen"
+
+msgid "wdgt_bd_new"
+msgstr "Nieuw"
+
+msgid "wdgt_bd_next"
+msgstr "Volgende"
+
+msgid "wdgt_bd_no"
+msgstr "Nee"
+
+msgid "wdgt_bd_previous"
+msgstr "Vorige"
+
+msgid "wdgt_bd_rename"
+msgstr "Wijzig naam"
+
+msgid "wdgt_bd_save"
+msgstr "Opslaan"
+
+msgid "wdgt_bd_search"
+msgstr "Zoeken"
+
+msgid "wdgt_bd_share"
+msgstr "Delen"
+
+msgid "wdgt_bd_sort"
+msgstr "Sorteren"
+
+msgid "wdgt_bd_stop"
+msgstr "Stoppen"
+
+msgid "wdgt_bd_view"
+msgstr "Beeld"
+
+msgid "wdgt_bd_yes"
+msgstr "Ja"
+
+msgid "wdgt_ib_volume"
+msgstr "Volume %d%%"
+
+msgid "wdgt_ib_zoom"
+msgstr "Zoomen %d%%"
+
+msgid "wdgt_ti_date"
+msgstr "Datum"
+
+msgid "wdgt_ti_time"
+msgstr "Tijd"
+
+msgid "wdgt_va_12h_hours"
+msgstr "%l"
+
+msgid "wdgt_va_12h_time_am"
+msgstr "%l:%M am"
+
+msgid "wdgt_va_12h_time_pm"
+msgstr "%l:%M pm"
+
+msgid "wdgt_va_24h_hours"
+msgstr "%H"
+
+msgid "wdgt_va_24h_time"
+msgstr "%H:%M"
+
+msgid "wdgt_va_ago_one_day"
+msgid_plural "wdgt_va_ago_days"
+msgstr[0] "1 dag geleden"
+msgstr[1] "%d dagen geleden"
+
+msgid "wdgt_va_ago_one_hour"
+msgid_plural "wdgt_va_ago_hours"
+msgstr[0] "1 uur geleden"
+msgstr[1] "%d uur geleden"
+
+msgid "wdgt_va_ago_one_minute"
+msgid_plural "wdgt_va_ago_minutes"
+msgstr[0] "1 minuut geleden"
+msgstr[1] "%d minuten geleden"
+
+msgid "wdgt_va_ago_one_year"
+msgid_plural "wdgt_va_ago_years"
+msgstr[0] "1 jaar geleden"
+msgstr[1] "%d jaar geleden"
+
+msgid "wdgt_va_am"
+msgstr "am"
+
+msgid "wdgt_va_date"
+msgstr "%d-%m-%Y"
+
+msgid "wdgt_va_date_day_name_short"
+msgstr "%a %d-%m"
+
+msgid "wdgt_va_date_long"
+msgstr "%A %e %B %Y"
+
+msgid "wdgt_va_date_medium"
+msgstr "%e %B %Y"
+
+msgid "wdgt_va_date_short"
+msgstr "%d-%m"
+
+msgid "wdgt_va_day_numeric"
+msgstr "%e"
+
+msgid "wdgt_va_full_24h_time"
+msgstr "%T"
+
+msgid "wdgt_va_fulldate_day_name_short"
+msgstr "%a %d-%m-%y"
+
+msgid "wdgt_va_fullmonth_year"
+msgstr "%B %Y"
+
+msgid "wdgt_va_minutes"
+msgstr "%M"
+
+msgid "wdgt_va_minutes_seconds"
+msgstr "%M:%S"
+
+msgid "wdgt_va_month"
+msgstr "%B"
+
+msgid "wdgt_va_month_name_short"
+msgstr "%b"
+
+msgid "wdgt_va_pm"
+msgstr "pm"
+
+msgid "wdgt_va_seconds"
+msgstr "%S"
+
+msgid "wdgt_va_week"
+msgstr "%A"
+
+msgid "wdgt_va_week_name_short"
+msgstr "%a"
+
+msgid "wdgt_va_week_number"
+msgstr "%V"
+
+msgid "wdgt_va_week_number_sunday_first"
+msgstr "%U"
+
+msgid "wdgt_va_year"
+msgstr "%Y"

@@ -1,0 +1,497 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: hildon-libs 20091109114411\n"
+"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"POT-Creation-Date: 2009.11.09 11:44+0200\n"
+"PO-Revision-Date: 2009.11.09 11:44+0200\n"
+"Last-Translator:\n"
+"Language-Team: de_DE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+
+msgid "ckct_ib_date_does_not_exist"
+msgstr "Ungültiges Datum"
+
+msgid "ckct_ib_find_enter_the_text"
+msgstr "Zu suchenden Text eingeben"
+
+msgid "ckct_ib_find_no_matches"
+msgstr "Keine Treffer gefunden"
+
+msgid "ckct_ib_find_search_complete"
+msgstr "Suche abgeschlossen"
+
+msgid "ckct_ib_max_allowed_duration_d"
+msgstr "Zulässige Höchstdauer beträgt %d"
+
+msgid "ckct_ib_max_allowed_duration_ddd"
+msgstr "Zulässige Höchstdauer beträgt %1$02d:%2$02d:%3$02d"
+
+msgid "ckct_ib_max_allowed_duration_hts"
+msgstr "Zulässige Höchstdauer beträgt %1$02d:%2$02d:%3$02d"
+
+msgid "ckct_ib_maximum_value"
+msgstr "Höchstwert ist %d"
+
+msgid "ckct_ib_min_allowed_duration_d"
+msgstr "Zulässige Mindestdauer beträgt %d"
+
+msgid "ckct_ib_min_allowed_duration_ddd"
+msgstr "Zulässige Mindestdauer beträgt %1$02d:%2$02d:%3$02d"
+
+msgid "ckct_ib_min_allowed_duration_hts"
+msgstr "Zulässige Mindestdauer beträgt %1$02d:%2$02d:%3$02d"
+
+msgid "ckct_ib_minimum_value"
+msgstr "Mindestwert ist %d"
+
+msgid "ckct_ib_set_a_value_within_range"
+msgstr "Wert muss zwischen %1$d und %2$d liegen"
+
+msgid "ckct_wi_grid_no_icons"
+msgstr "Keine Symbole"
+
+msgid "ckct_wi_grid_no_items"
+msgstr "Keine Objekte"
+
+msgid "ckct_wi_range_separator"
+msgstr "–"
+
+msgid "ckdg_bd_rename_object_dialog_ok"
+msgstr "Umbenennen"
+
+msgid "ckdg_fi_dialog_c_passwd_new_pwd"
+msgstr "Neues Kennwort eingeben:"
+
+msgid "ckdg_fi_dialog_c_passwd_pwd_protect"
+msgstr "Kennwortgeschützt:"
+
+msgid "ckdg_fi_dialog_c_passwd_ver_pwd"
+msgstr "Kennwort bestätigen:"
+
+msgid "ckdg_fi_new_name"
+msgstr "Name:"
+
+msgid "ckdg_fi_rename_name"
+msgstr "Name:"
+
+msgid "ckdg_fi_sort_field"
+msgstr "Sortieren nach:"
+
+msgid "ckdg_fi_sort_order"
+msgstr "Sortierfolge:"
+
+msgid "ckdg_ti_dialog_c_passwd_change_password"
+msgstr "Kennwort ändern"
+
+msgid "ckdg_ti_new_application"
+msgstr "Neues Programm"
+
+msgid "ckdg_ti_new_bookmark"
+msgstr "Neues Lesezeichen"
+
+msgid "ckdg_ti_new_certificate"
+msgstr "Neues Zertifikat"
+
+msgid "ckdg_ti_new_default"
+msgstr "Neu"
+
+msgid "ckdg_ti_new_document"
+msgstr "Neues Dokument"
+
+msgid "ckdg_ti_new_folder"
+msgstr "Neuer Ordner"
+
+msgid "ckdg_ti_new_html"
+msgstr "Neues HTML-Dokument"
+
+msgid "ckdg_ti_new_image"
+msgstr "Neues Bild"
+
+msgid "ckdg_ti_new_link"
+msgstr "Neuer Shortcut"
+
+msgid "ckdg_ti_new_message"
+msgstr "Neue Mitteilung"
+
+msgid "ckdg_ti_new_presentation"
+msgstr "Neue Präsentation"
+
+msgid "ckdg_ti_new_sound"
+msgstr "Neuer Audioclip"
+
+msgid "ckdg_ti_new_video"
+msgstr "Neuer Videoclip"
+
+msgid "ckdg_ti_new_workbook"
+msgstr "Neue Mappe"
+
+msgid "ckdg_ti_new_xml"
+msgstr "Neues XML-Dokument"
+
+msgid "ckdg_ti_rename_application"
+msgstr "Programm umbenennen"
+
+msgid "ckdg_ti_rename_bookmark"
+msgstr "Lesezeichen umbenennen"
+
+msgid "ckdg_ti_rename_certificate"
+msgstr "Zertifikat umbenennen"
+
+msgid "ckdg_ti_rename_default"
+msgstr "Umbenennen"
+
+msgid "ckdg_ti_rename_document"
+msgstr "Dokument umbenennen"
+
+msgid "ckdg_ti_rename_folder"
+msgstr "Ordner umbenennen"
+
+msgid "ckdg_ti_rename_html"
+msgstr "HTML-Dokument umbenennen"
+
+msgid "ckdg_ti_rename_image"
+msgstr "Bild umbenennen"
+
+msgid "ckdg_ti_rename_link"
+msgstr "Schnellzugriff umbenennen"
+
+msgid "ckdg_ti_rename_message"
+msgstr "Mitteilung umbenennen"
+
+msgid "ckdg_ti_rename_presentation"
+msgstr "Präsentation umbenennen"
+
+msgid "ckdg_ti_rename_sound"
+msgstr "Audioclip umbenennen"
+
+msgid "ckdg_ti_rename_video"
+msgstr "Videoclip umbenennen"
+
+msgid "ckdg_ti_rename_workbook"
+msgstr "Mappe umbenennen"
+
+msgid "ckdg_ti_rename_xml"
+msgstr "XML-Dokument umbenennen"
+
+msgid "ckdg_ti_sort"
+msgstr "Sortieren"
+
+msgid "ckdg_va_sort_ascending"
+msgstr "Aufsteigend"
+
+msgid "ckdg_va_sort_date"
+msgstr "Datum"
+
+msgid "ckdg_va_sort_descending"
+msgstr "Absteigend"
+
+msgid "ckdg_va_sort_name"
+msgstr "Name"
+
+msgid "ckdg_va_sort_size"
+msgstr "Größe"
+
+msgid "ecdg_bd_colour_selector_modify"
+msgstr "Ändern"
+
+msgid "ecdg_bd_font_dialog_preview"
+msgstr "Vorschau"
+
+msgid "ecdg_fi_5bit_colour_selector_blue"
+msgstr "Blau"
+
+msgid "ecdg_fi_5bit_colour_selector_green"
+msgstr "Grün"
+
+msgid "ecdg_fi_5bit_colour_selector_red"
+msgstr "Rot"
+
+msgid "ecdg_fi_font_bold"
+msgstr "Fett"
+
+msgid "ecdg_fi_font_colour_selector"
+msgstr "Farbe"
+
+msgid "ecdg_fi_font_font"
+msgstr "Schriftart"
+
+msgid "ecdg_fi_font_italic"
+msgstr "Kursiv"
+
+msgid "ecdg_fi_font_size"
+msgstr "Schriftgrad"
+
+msgid "ecdg_fi_font_special"
+msgstr "Positionierung"
+
+msgid "ecdg_fi_font_strikethrough"
+msgstr "Durchstreichen"
+
+msgid "ecdg_fi_font_underline"
+msgstr "Unterstreichen"
+
+msgid "ecdg_fi_get_old_pwd_enter_pwd"
+msgstr "Kennwort:"
+
+msgid "ecdg_fi_preview_font_preview_reference"
+msgstr "Referenz: "
+
+msgid "ecdg_fi_preview_font_preview_text"
+msgstr "Zwölf Boxkämpfer jagten Victor quer über den großen Sylter Deich"
+
+msgid "ecdg_fi_set_passwd_confirm"
+msgstr "Kennwort bestätigen"
+
+msgid "ecdg_fi_set_passwd_enter_pwd"
+msgstr "Neues Kennwort eingeben"
+
+msgid "ecdg_fi_verify_pwd_enter_pwd"
+msgstr "Kennwort:"
+
+msgid "ecdg_fi_wizard_description"
+msgstr ""
+"%s-Assistent ermöglicht %s.\n"
+"\n"
+"Zum Fortfahren auf 'Weiter' tippen."
+
+msgid "ecdg_ib_colour_selector_predefined"
+msgstr "Farbänderung nicht möglich"
+
+msgid "ecdg_ti_5bit_colour_selector"
+msgstr "Farbe ändern"
+
+msgid "ecdg_ti_aboutdialog_title"
+msgstr "Info über Programm"
+
+msgid "ecdg_ti_caption_separator"
+msgstr ":"
+
+msgid "ecdg_ti_colour_selector"
+msgstr "Farbpalette"
+
+msgid "ecdg_ti_duration_editor_separator"
+msgstr ":"
+
+msgid "ecdg_ti_find_toolbar_label"
+msgstr "Suche:"
+
+msgid "ecdg_ti_font"
+msgstr "Schriftart"
+
+msgid "ecdg_ti_font_dialog_format"
+msgstr "Formatierung"
+
+msgid "ecdg_ti_font_dialog_other"
+msgstr "Andere"
+
+msgid "ecdg_ti_font_dialog_style"
+msgstr "Stil"
+
+msgid "ecdg_ti_get_old_password"
+msgstr "Aktuelles Kennwort"
+
+msgid "ecdg_ti_preview_font"
+msgstr "Vorschau"
+
+msgid "ecdg_ti_set_password"
+msgstr "Kennwort festlegen"
+
+msgid "ecdg_ti_time_picker_separator"
+msgstr ":"
+
+msgid "ecdg_ti_verify_password"
+msgstr "Kennwort erforderlich"
+
+msgid "ecdg_ti_wizard_welcome"
+msgstr "%s: Willkommen"
+
+msgid "ecdg_va_font_printpos_1"
+msgstr "Normal"
+
+msgid "ecdg_va_font_printpos_2"
+msgstr "Hochstellung"
+
+msgid "ecdg_va_font_printpos_3"
+msgstr "Tiefstellung"
+
+msgid "ecdg_va_font_size_trailer"
+msgstr " pt"
+
+msgid "frw_ti_get_user_name_and_pwd"
+msgstr "Kennwort erforderlich"
+
+msgid "frw_ti_get_user_name_and_pwd_enter_pwd"
+msgstr "Kennwort:"
+
+msgid "frw_ti_get_user_name_and_pwd_enter_user_name"
+msgstr "Benutzername"
+
+msgid "wdgt_bd_add"
+msgstr "Mehr"
+
+msgid "wdgt_bd_back"
+msgstr "Zurück"
+
+msgid "wdgt_bd_delete"
+msgstr "Löschen"
+
+msgid "wdgt_bd_done"
+msgstr "Fertig"
+
+msgid "wdgt_bd_edit"
+msgstr "Bearbeiten"
+
+msgid "wdgt_bd_finish"
+msgstr "Fertig stellen"
+
+msgid "wdgt_bd_move"
+msgstr "Verschieben"
+
+msgid "wdgt_bd_new"
+msgstr "Neu"
+
+msgid "wdgt_bd_next"
+msgstr "Weiter"
+
+msgid "wdgt_bd_no"
+msgstr "Nein"
+
+msgid "wdgt_bd_previous"
+msgstr "Zurück"
+
+msgid "wdgt_bd_rename"
+msgstr "Umbenennen"
+
+msgid "wdgt_bd_save"
+msgstr "Speichern"
+
+msgid "wdgt_bd_search"
+msgstr "Suche"
+
+msgid "wdgt_bd_share"
+msgstr "Freigeben"
+
+msgid "wdgt_bd_sort"
+msgstr "Sortieren"
+
+msgid "wdgt_bd_stop"
+msgstr "Stopp"
+
+msgid "wdgt_bd_view"
+msgstr "Ansicht"
+
+msgid "wdgt_bd_yes"
+msgstr "Ja"
+
+msgid "wdgt_ib_volume"
+msgstr "Lautstärke %d%%"
+
+msgid "wdgt_ib_zoom"
+msgstr "Zoom %d%%"
+
+msgid "wdgt_ti_date"
+msgstr "Datum"
+
+msgid "wdgt_ti_time"
+msgstr "Uhrzeit"
+
+msgid "wdgt_va_12h_hours"
+msgstr "%l"
+
+msgid "wdgt_va_12h_time_am"
+msgstr "%l:%M a.m."
+
+msgid "wdgt_va_12h_time_pm"
+msgstr "%l:%M p.m."
+
+msgid "wdgt_va_24h_hours"
+msgstr "%H"
+
+msgid "wdgt_va_24h_time"
+msgstr "%H:%M"
+
+msgid "wdgt_va_ago_one_day"
+msgid_plural "wdgt_va_ago_days"
+msgstr[0] "Vor 1 Tag"
+msgstr[1] "Vor %d Tagen"
+
+msgid "wdgt_va_ago_one_hour"
+msgid_plural "wdgt_va_ago_hours"
+msgstr[0] "Vor 1 Stunde"
+msgstr[1] "Vor %d Stunden"
+
+msgid "wdgt_va_ago_one_minute"
+msgid_plural "wdgt_va_ago_minutes"
+msgstr[0] "Vor 1 Minute"
+msgstr[1] "Vor %d Minuten"
+
+msgid "wdgt_va_ago_one_year"
+msgid_plural "wdgt_va_ago_years"
+msgstr[0] "Vor 1 Jahr"
+msgstr[1] "Vor %d Jahren"
+
+msgid "wdgt_va_am"
+msgstr "a.m."
+
+msgid "wdgt_va_date"
+msgstr "%d.%m.%Y"
+
+msgid "wdgt_va_date_day_name_short"
+msgstr "%a %d.%m."
+
+msgid "wdgt_va_date_long"
+msgstr "%A, %e. %B %Y"
+
+msgid "wdgt_va_date_medium"
+msgstr "%e. %B. %Y"
+
+msgid "wdgt_va_date_short"
+msgstr "%d.%m."
+
+msgid "wdgt_va_day_numeric"
+msgstr "%e"
+
+msgid "wdgt_va_full_24h_time"
+msgstr "%T"
+
+msgid "wdgt_va_fulldate_day_name_short"
+msgstr "%a %d.%m.%y"
+
+msgid "wdgt_va_fullmonth_year"
+msgstr "%B %Y"
+
+msgid "wdgt_va_minutes"
+msgstr "%M"
+
+msgid "wdgt_va_minutes_seconds"
+msgstr "%M:%S"
+
+msgid "wdgt_va_month"
+msgstr "%B"
+
+msgid "wdgt_va_month_name_short"
+msgstr "%b"
+
+msgid "wdgt_va_pm"
+msgstr "p.m."
+
+msgid "wdgt_va_seconds"
+msgstr "%S"
+
+msgid "wdgt_va_week"
+msgstr "%A"
+
+msgid "wdgt_va_week_name_short"
+msgstr "%a"
+
+msgid "wdgt_va_week_number"
+msgstr "%V"
+
+msgid "wdgt_va_week_number_sunday_first"
+msgstr "%U"
+
+msgid "wdgt_va_year"
+msgstr "%Y"

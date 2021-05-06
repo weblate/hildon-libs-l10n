@@ -1,0 +1,497 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: hildon-libs 20091109114411\n"
+"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"POT-Creation-Date: 2009.11.09 11:44+0200\n"
+"PO-Revision-Date: 2009.11.09 11:44+0200\n"
+"Last-Translator:\n"
+"Language-Team: pt_PT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+
+msgid "ckct_ib_date_does_not_exist"
+msgstr "Data inválida"
+
+msgid "ckct_ib_find_enter_the_text"
+msgstr "Introduza o texto a localizar"
+
+msgid "ckct_ib_find_no_matches"
+msgstr "Não foram encontrados resultados"
+
+msgid "ckct_ib_find_search_complete"
+msgstr "Pesquisa concluída"
+
+msgid "ckct_ib_max_allowed_duration_d"
+msgstr "A duração máxima permitida é %d"
+
+msgid "ckct_ib_max_allowed_duration_ddd"
+msgstr "A duração máxima permitida é %1$02d:%2$02d:%3$02d"
+
+msgid "ckct_ib_max_allowed_duration_hts"
+msgstr "A duração máxima permitida é %1$02d:%2$02d:%3$02d"
+
+msgid "ckct_ib_maximum_value"
+msgstr "O valor máximo é %d"
+
+msgid "ckct_ib_min_allowed_duration_d"
+msgstr "A duração mínima permitida é %d"
+
+msgid "ckct_ib_min_allowed_duration_ddd"
+msgstr "A duração mínima permitida é %1$02d:%2$02d:%3$02d"
+
+msgid "ckct_ib_min_allowed_duration_hts"
+msgstr "A duração mínima permitida é %1$02d:%2$02d:%3$02d"
+
+msgid "ckct_ib_minimum_value"
+msgstr "O valor mínimo é %d"
+
+msgid "ckct_ib_set_a_value_within_range"
+msgstr "O valor tem de estar entre %1$d e %2$d"
+
+msgid "ckct_wi_grid_no_icons"
+msgstr "Sem ícones"
+
+msgid "ckct_wi_grid_no_items"
+msgstr "Sem itens"
+
+msgid "ckct_wi_range_separator"
+msgstr "–"
+
+msgid "ckdg_bd_rename_object_dialog_ok"
+msgstr "Renomear"
+
+msgid "ckdg_fi_dialog_c_passwd_new_pwd"
+msgstr "Introduzir uma nova palavra-passe"
+
+msgid "ckdg_fi_dialog_c_passwd_pwd_protect"
+msgstr "Protegido por palavra-passe:"
+
+msgid "ckdg_fi_dialog_c_passwd_ver_pwd"
+msgstr "Confirmar palavra-passe:"
+
+msgid "ckdg_fi_new_name"
+msgstr "Nome:"
+
+msgid "ckdg_fi_rename_name"
+msgstr "Nome:"
+
+msgid "ckdg_fi_sort_field"
+msgstr "Ordenar por:"
+
+msgid "ckdg_fi_sort_order"
+msgstr "Ordem:"
+
+msgid "ckdg_ti_dialog_c_passwd_change_password"
+msgstr "Alterar palavra-passe"
+
+msgid "ckdg_ti_new_application"
+msgstr "Nova aplicação"
+
+msgid "ckdg_ti_new_bookmark"
+msgstr "Novo marcador"
+
+msgid "ckdg_ti_new_certificate"
+msgstr "Novo certificado"
+
+msgid "ckdg_ti_new_default"
+msgstr "Nova"
+
+msgid "ckdg_ti_new_document"
+msgstr "Novo documento"
+
+msgid "ckdg_ti_new_folder"
+msgstr "Nova pasta"
+
+msgid "ckdg_ti_new_html"
+msgstr "Novo documento HTML"
+
+msgid "ckdg_ti_new_image"
+msgstr "Nova imagem"
+
+msgid "ckdg_ti_new_link"
+msgstr "Novo atalho"
+
+msgid "ckdg_ti_new_message"
+msgstr "Nova mensagem"
+
+msgid "ckdg_ti_new_presentation"
+msgstr "Nova apresentação"
+
+msgid "ckdg_ti_new_sound"
+msgstr "Novo clip de áudio"
+
+msgid "ckdg_ti_new_video"
+msgstr "Novo clip de vídeo"
+
+msgid "ckdg_ti_new_workbook"
+msgstr "Novo livro"
+
+msgid "ckdg_ti_new_xml"
+msgstr "Novo documento XML"
+
+msgid "ckdg_ti_rename_application"
+msgstr "Renomear a aplicação"
+
+msgid "ckdg_ti_rename_bookmark"
+msgstr "Renomear o marcador"
+
+msgid "ckdg_ti_rename_certificate"
+msgstr "Renomear o certificado"
+
+msgid "ckdg_ti_rename_default"
+msgstr "Renomear"
+
+msgid "ckdg_ti_rename_document"
+msgstr "Renomear o documento"
+
+msgid "ckdg_ti_rename_folder"
+msgstr "Renomear pasta"
+
+msgid "ckdg_ti_rename_html"
+msgstr "Renomear o documento HTML"
+
+msgid "ckdg_ti_rename_image"
+msgstr "Renomear a imagem"
+
+msgid "ckdg_ti_rename_link"
+msgstr "Renomear o atalho"
+
+msgid "ckdg_ti_rename_message"
+msgstr "Renomear a mensagem"
+
+msgid "ckdg_ti_rename_presentation"
+msgstr "Renomear a apresentação"
+
+msgid "ckdg_ti_rename_sound"
+msgstr "Renomear o clip de áudio"
+
+msgid "ckdg_ti_rename_video"
+msgstr "Renomear o clip de vídeo"
+
+msgid "ckdg_ti_rename_workbook"
+msgstr "Renomear o livro"
+
+msgid "ckdg_ti_rename_xml"
+msgstr "Renomear o documento XML"
+
+msgid "ckdg_ti_sort"
+msgstr "Ordenar"
+
+msgid "ckdg_va_sort_ascending"
+msgstr "Ascendente"
+
+msgid "ckdg_va_sort_date"
+msgstr "Data"
+
+msgid "ckdg_va_sort_descending"
+msgstr "Descendente"
+
+msgid "ckdg_va_sort_name"
+msgstr "Nome"
+
+msgid "ckdg_va_sort_size"
+msgstr "Tamanho"
+
+msgid "ecdg_bd_colour_selector_modify"
+msgstr "Modificar"
+
+msgid "ecdg_bd_font_dialog_preview"
+msgstr "Pré-visualizar"
+
+msgid "ecdg_fi_5bit_colour_selector_blue"
+msgstr "Azul"
+
+msgid "ecdg_fi_5bit_colour_selector_green"
+msgstr "Verde"
+
+msgid "ecdg_fi_5bit_colour_selector_red"
+msgstr "Vermelho"
+
+msgid "ecdg_fi_font_bold"
+msgstr "Negrito"
+
+msgid "ecdg_fi_font_colour_selector"
+msgstr "Cor"
+
+msgid "ecdg_fi_font_font"
+msgstr "Tipo de letra"
+
+msgid "ecdg_fi_font_italic"
+msgstr "Itálico"
+
+msgid "ecdg_fi_font_size"
+msgstr "Tamanho do tipo de letra"
+
+msgid "ecdg_fi_font_special"
+msgstr "Posição"
+
+msgid "ecdg_fi_font_strikethrough"
+msgstr "Rasurado"
+
+msgid "ecdg_fi_font_underline"
+msgstr "Sublinhado"
+
+msgid "ecdg_fi_get_old_pwd_enter_pwd"
+msgstr "Palavra-passe:"
+
+msgid "ecdg_fi_preview_font_preview_reference"
+msgstr "Referência: "
+
+msgid "ecdg_fi_preview_font_preview_text"
+msgstr "A rápida raposa castanha salta por cima do cão lento"
+
+msgid "ecdg_fi_set_passwd_confirm"
+msgstr "Confirmar palavra-passe"
+
+msgid "ecdg_fi_set_passwd_enter_pwd"
+msgstr "Introduzir uma nova palavra-passe"
+
+msgid "ecdg_fi_verify_pwd_enter_pwd"
+msgstr "Palavra-passe:"
+
+msgid "ecdg_fi_wizard_description"
+msgstr ""
+"O assistente de %s permite %s.\n"
+"\n"
+"Toque em 'Seguinte' para continuar."
+
+msgid "ecdg_ib_colour_selector_predefined"
+msgstr "Não foi possível modificar a cor"
+
+msgid "ecdg_ti_5bit_colour_selector"
+msgstr "Modificar cor"
+
+msgid "ecdg_ti_aboutdialog_title"
+msgstr "Acerca da aplicação"
+
+msgid "ecdg_ti_caption_separator"
+msgstr ":"
+
+msgid "ecdg_ti_colour_selector"
+msgstr "Paleta de cores"
+
+msgid "ecdg_ti_duration_editor_separator"
+msgstr ":"
+
+msgid "ecdg_ti_find_toolbar_label"
+msgstr "Localizar:"
+
+msgid "ecdg_ti_font"
+msgstr "Tipo de letra"
+
+msgid "ecdg_ti_font_dialog_format"
+msgstr "Formatação"
+
+msgid "ecdg_ti_font_dialog_other"
+msgstr "Outros"
+
+msgid "ecdg_ti_font_dialog_style"
+msgstr "Estilo"
+
+msgid "ecdg_ti_get_old_password"
+msgstr "Palavra-passe actual"
+
+msgid "ecdg_ti_preview_font"
+msgstr "Pré-visualizar"
+
+msgid "ecdg_ti_set_password"
+msgstr "Definir palavra-passe"
+
+msgid "ecdg_ti_time_picker_separator"
+msgstr ":"
+
+msgid "ecdg_ti_verify_password"
+msgstr "Palavra-passe necessária"
+
+msgid "ecdg_ti_wizard_welcome"
+msgstr "%s: Bem-vindo"
+
+msgid "ecdg_va_font_printpos_1"
+msgstr "Normal"
+
+msgid "ecdg_va_font_printpos_2"
+msgstr "Superior à linha"
+
+msgid "ecdg_va_font_printpos_3"
+msgstr "Inferior à linha"
+
+msgid "ecdg_va_font_size_trailer"
+msgstr " pt"
+
+msgid "frw_ti_get_user_name_and_pwd"
+msgstr "Palavra-passe necessária"
+
+msgid "frw_ti_get_user_name_and_pwd_enter_pwd"
+msgstr "Palavra-passe:"
+
+msgid "frw_ti_get_user_name_and_pwd_enter_user_name"
+msgstr "Nome de utilizador"
+
+msgid "wdgt_bd_add"
+msgstr "Mais"
+
+msgid "wdgt_bd_back"
+msgstr "Anterior"
+
+msgid "wdgt_bd_delete"
+msgstr "Eliminar"
+
+msgid "wdgt_bd_done"
+msgstr "Concluído"
+
+msgid "wdgt_bd_edit"
+msgstr "Editar"
+
+msgid "wdgt_bd_finish"
+msgstr "Terminar"
+
+msgid "wdgt_bd_move"
+msgstr "Mover"
+
+msgid "wdgt_bd_new"
+msgstr "Nova"
+
+msgid "wdgt_bd_next"
+msgstr "Seguinte"
+
+msgid "wdgt_bd_no"
+msgstr "Não"
+
+msgid "wdgt_bd_previous"
+msgstr "Anterior"
+
+msgid "wdgt_bd_rename"
+msgstr "Renomear"
+
+msgid "wdgt_bd_save"
+msgstr "Guardar"
+
+msgid "wdgt_bd_search"
+msgstr "Pesquisar"
+
+msgid "wdgt_bd_share"
+msgstr "Partilhar"
+
+msgid "wdgt_bd_sort"
+msgstr "Ordenar"
+
+msgid "wdgt_bd_stop"
+msgstr "Parar"
+
+msgid "wdgt_bd_view"
+msgstr "Ver"
+
+msgid "wdgt_bd_yes"
+msgstr "Sim"
+
+msgid "wdgt_ib_volume"
+msgstr "Volume %d%%"
+
+msgid "wdgt_ib_zoom"
+msgstr "Zoom %d%%"
+
+msgid "wdgt_ti_date"
+msgstr "Data"
+
+msgid "wdgt_ti_time"
+msgstr "Hora"
+
+msgid "wdgt_va_12h_hours"
+msgstr "%l"
+
+msgid "wdgt_va_12h_time_am"
+msgstr "%l:%M am"
+
+msgid "wdgt_va_12h_time_pm"
+msgstr "%l:%M pm"
+
+msgid "wdgt_va_24h_hours"
+msgstr "%H"
+
+msgid "wdgt_va_24h_time"
+msgstr "%H:%M"
+
+msgid "wdgt_va_ago_one_day"
+msgid_plural "wdgt_va_ago_days"
+msgstr[0] "Há 1 dia"
+msgstr[1] "Há %d dias"
+
+msgid "wdgt_va_ago_one_hour"
+msgid_plural "wdgt_va_ago_hours"
+msgstr[0] "Há 1 hora"
+msgstr[1] "Há %d horas"
+
+msgid "wdgt_va_ago_one_minute"
+msgid_plural "wdgt_va_ago_minutes"
+msgstr[0] "Há 1 minuto"
+msgstr[1] "Há %d minutos"
+
+msgid "wdgt_va_ago_one_year"
+msgid_plural "wdgt_va_ago_years"
+msgstr[0] "Há 1 ano"
+msgstr[1] "Há %d anos"
+
+msgid "wdgt_va_am"
+msgstr "am"
+
+msgid "wdgt_va_date"
+msgstr "%d-%m-%Y"
+
+msgid "wdgt_va_date_day_name_short"
+msgstr "%a %d-%m."
+
+msgid "wdgt_va_date_long"
+msgstr "%A, %e de %B %Y"
+
+msgid "wdgt_va_date_medium"
+msgstr "%e %B %Y"
+
+msgid "wdgt_va_date_short"
+msgstr "%d-%m"
+
+msgid "wdgt_va_day_numeric"
+msgstr "%e"
+
+msgid "wdgt_va_full_24h_time"
+msgstr "%T"
+
+msgid "wdgt_va_fulldate_day_name_short"
+msgstr "%a %d-%m-%y"
+
+msgid "wdgt_va_fullmonth_year"
+msgstr "%B %Y"
+
+msgid "wdgt_va_minutes"
+msgstr "%M"
+
+msgid "wdgt_va_minutes_seconds"
+msgstr "%M:%S"
+
+msgid "wdgt_va_month"
+msgstr "%B"
+
+msgid "wdgt_va_month_name_short"
+msgstr "%b"
+
+msgid "wdgt_va_pm"
+msgstr "pm"
+
+msgid "wdgt_va_seconds"
+msgstr "%S"
+
+msgid "wdgt_va_week"
+msgstr "%A"
+
+msgid "wdgt_va_week_name_short"
+msgstr "%a"
+
+msgid "wdgt_va_week_number"
+msgstr "%V"
+
+msgid "wdgt_va_week_number_sunday_first"
+msgstr "%U"
+
+msgid "wdgt_va_year"
+msgstr "%Y"
