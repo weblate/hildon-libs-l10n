@@ -33,13 +33,16 @@ msgstr ""
 "Project-Id-Version: hildon-libs 20091109114411\n"
 "Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
 "POT-Creation-Date: 2009.06.29 14:11+0300\n"
-"PO-Revision-Date: 2010-02-02 08:56+0200\n"
-"Last-Translator: Aranel Surion <aranel@aranelsurion.org>\n"
-"Language-Team: tr_TR\n"
+"PO-Revision-Date: 2021-05-26 13:33+0000\n"
+"Last-Translator: Oğuz Ersen <oguzersen@protonmail.com>\n"
+"Language-Team: Turkish <https://hosted.weblate.org/projects/maemo-leste/"
+"hildon-libs-l10n/tr/>\n"
+"Language: tr_TR\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=n != 1\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 4.7-dev\n"
 
 # Button label
 msgid "wdgt_bd_done"
@@ -138,7 +141,7 @@ msgstr "%A %e %B %Y"
 
 # Localized date with day name - in shortened form (e.g. "Thu 31.03."). The date format is "XXX dd.mm.", where XXX is the up to three first characters of the weekday, dd the number of the day, mm the number of the month.  Use this logical string with strftime function.
 msgid "wdgt_va_date_day_name_short"
-msgstr "%a %d/%m."
+msgstr "%a %d/%m"
 
 # Localized full date with day name - in shortened form (e.g. "Thu 31.03.08"). The date format is "XXX dd.mm.yy", where XXX is the up to three first characters of the weekday, dd the number of the day, mm the number of the month, and yy the short form of year.  Use this logical string with strftime function.
 msgid "wdgt_va_fulldate_day_name_short"
@@ -401,15 +404,15 @@ msgstr "Adlandır"
 
 #  Title for Rename <object> dialog
 msgid "ckdg_ti_rename_document"
-msgstr "Dökümanı adlandır"
+msgstr "Belgeyi yeniden adlandır"
 
 #  Title for Rename <object> dialog
 msgid "ckdg_ti_rename_html"
-msgstr "HTML dökümanı adlandır"
+msgstr "HTML belgesini yeniden adlandır"
 
 #  Title for Rename <object> dialog
 msgid "ckdg_ti_rename_xml"
-msgstr "XML dökümanı adlandır"
+msgstr "XML belgesini yeniden adlandır"
 
 #  Title for Rename <object> dialog
 msgid "ckdg_ti_rename_message"
@@ -469,15 +472,15 @@ msgstr "Yeni"
 
 # Title for New <object> dialog
 msgid "ckdg_ti_new_document"
-msgstr "Yeni döküman"
+msgstr "Yeni belge"
 
 # Title for New <object> dialog
 msgid "ckdg_ti_new_html"
-msgstr "Yeni HTML dökümanı"
+msgstr "Yeni HTML belgesi"
 
 # Title for New <object> dialog
 msgid "ckdg_ti_new_xml"
-msgstr "Yeni XML dökümanı"
+msgstr "Yeni XML belgesi"
 
 # Title for New <object> dialog
 msgid "ckdg_ti_new_message"
@@ -533,11 +536,11 @@ msgstr "Parolayı ayarla"
 
 # Secret Editor field in "Set Password" dialog for the new password
 msgid "ecdg_fi_set_passwd_enter_pwd"
-msgstr "Yeni parola gir:"
+msgstr "Yeni parola gir"
 
 #  Secret Editor field in "Set Password" dialog to verify the new password
 msgid "ecdg_fi_set_passwd_confirm"
-msgstr "Parolayı doğrula:"
+msgstr "Parolayı doğrula"
 
 #  Title text in "Change Password" dialog
 msgid "ckdg_ti_dialog_c_passwd_change_password"
@@ -617,7 +620,7 @@ msgstr "Azalarak"
 
 #  Title for "Font" dialog
 msgid "ecdg_ti_font"
-msgstr "Font"
+msgstr "Yazı tipi"
 
 #  Style - Page on Font dialog
 msgid "ecdg_ti_font_dialog_style"
@@ -629,11 +632,11 @@ msgstr "Önizleme"
 
 #  Choice List in Font - dialog
 msgid "ecdg_fi_font_font"
-msgstr "Font yüzü:"
+msgstr "Yazı tipi yüzü"
 
 #  Choice List in Font - dialog
 msgid "ecdg_fi_font_size"
-msgstr "Font boyutu:"
+msgstr "Yazı tipi boyutu"
 
 #  Trailer text for Choicelist in Font - dialog
 msgid "ecdg_va_font_size_trailer"
@@ -641,7 +644,7 @@ msgstr " pt"
 
 #  Colour Selector in Font - dialog
 msgid "ecdg_fi_font_colour_selector"
-msgstr "Renk:"
+msgstr "Renk"
 
 #  Formatting - Page on Font dialog
 msgid "ecdg_ti_font_dialog_format"
@@ -649,15 +652,15 @@ msgstr "Biçimlendirme"
 
 #  Choicelist in Font - dialog
 msgid "ecdg_fi_font_bold"
-msgstr "Kalın:"
+msgstr "Kalın"
 
 #  Choicelist in Font - dialog
 msgid "ecdg_fi_font_italic"
-msgstr "İtalik:"
+msgstr "Eğik"
 
 #  Choicelist in Font - dialog
 msgid "ecdg_fi_font_underline"
-msgstr "Altı çizili:"
+msgstr "Altı çizili"
 
 #  Other - Page on Font dialog
 msgid "ecdg_ti_font_dialog_other"
@@ -677,11 +680,11 @@ msgstr "Altbetik"
 
 #  Choicelist in Font - dialog
 msgid "ecdg_fi_font_strikethrough"
-msgstr "Üstüçizili:"
+msgstr "Üstü çizili"
 
 #  Choicelist in Font - dialog
 msgid "ecdg_fi_font_special"
-msgstr "Konumlama:"
+msgstr "Konumlandırma"
 
 # Title for "Preview" dialog
 msgid "ecdg_ti_preview_font"
@@ -694,5 +697,4 @@ msgstr "Pijamalı hasta yağız şoföre çabucak güvendi"
 
 # Reference text string for sub- and superscripted textst
 msgid "ecdg_fi_preview_font_preview_reference"
-msgstr "Referans:"
-
+msgstr "Referans: "
