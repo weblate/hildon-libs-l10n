@@ -1,0 +1,698 @@
+#
+# This file is part of hildon-libs-l10n-public
+#
+# Copyright (C) 2006-2007 Nokia Corporation. All rights reserved.
+#
+# Contact: Mohammed Hassan <mohammed.2.hassan@nokia.com>
+#
+# Redistribution and use in source and binary forms, with or without modification,
+# are permitted provided that the following conditions are met:
+#
+#     Redistributions of source code must retain the above copyright notice,
+#     this list of conditions and the following disclaimer.
+#     Redistributions in binary form must reproduce the above copyright notice,
+#     this list of conditions and the following disclaimer in the documentation and/or
+#     other materials provided with the distribution.
+#     Neither the name of Nokia Corporation nor the names of its contributors may be used
+#     to endorse or promote products derived from this software without specific prior written
+#     permission.
+#
+# THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS" AND ANY EXPRESS OR
+# IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY
+# AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT OWNER
+# OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR
+# CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR
+# SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY
+# THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR
+# OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE
+# POSSIBILITY OF SUCH DAMAGE.
+#
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: hildon-libs 20091109114411\n"
+"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"POT-Creation-Date: 2009.06.29 14:11+0300\n"
+"PO-Revision-Date: 2010-02-02 08:56+0200\n"
+"Last-Translator: Aranel Surion <aranel@aranelsurion.org>\n"
+"Language-Team: tr_TR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+
+# Button label
+msgid "wdgt_bd_done"
+msgstr "Bitti"
+
+# Button label
+msgid "wdgt_bd_save"
+msgstr "Kaydet"
+
+# Button label
+msgid "wdgt_bd_yes"
+msgstr "Evet"
+
+# Button label
+msgid "wdgt_bd_no"
+msgstr "Hayır"
+
+# Button label
+msgid "wdgt_bd_new"
+msgstr "Yeni"
+
+# Button label - feminine congrugation (localization) of the "new" string
+msgid "wdgt_bd_new_feminine"
+msgstr "Yeni"
+
+# Button label
+msgid "wdgt_bd_edit"
+msgstr "Düzenle"
+
+# Button label
+msgid "wdgt_bd_move"
+msgstr "Taşı"
+
+# Button label
+msgid "wdgt_bd_delete"
+msgstr "Sil"
+
+# Button label
+msgid "wdgt_bd_add"
+msgstr "Ekle"
+
+# Button label
+msgid "wdgt_bd_view"
+msgstr "Göster"
+
+# Button label
+msgid "wdgt_bd_search"
+msgstr "Ara"
+
+# Button label
+msgid "wdgt_bd_sort"
+msgstr "Sırala"
+
+# Button label
+msgid "wdgt_bd_share"
+msgstr "Paylaş"
+
+# Button label
+msgid "wdgt_bd_rename"
+msgstr "Adlandır"
+
+# Button label
+msgid "wdgt_bd_stop"
+msgstr "Dur"
+
+# Button label. Using this is not recommended. However, if it is absolutely necessary to have a button for just closing a dialog, use this string.
+msgid "wdgt_bd_back"
+msgstr "Geri"
+
+# Wizard Button label
+msgid "wdgt_bd_finish"
+msgstr "Tamamla"
+
+# Wizard Button label
+msgid "wdgt_bd_previous"
+msgstr "Önceki"
+
+# Wizard Button label
+msgid "wdgt_bd_next"
+msgstr "Sonraki"
+
+# Default descriptive text string for wizard’s welcome screen, where first %s is the name of the wizard and second the summary.
+msgid "ecdg_fi_wizard_description"
+msgstr ""
+"%s sihirbazı size %s konusunda yardım eder.\n"
+"\n"
+"Devam etmek için 'Sonraki'."
+
+# Default title text for wizard’s welcome screen, where %s is the name of the wizard
+msgid "ecdg_ti_wizard_welcome"
+msgstr "%s: Hoşgeldiniz"
+
+# Localized long format date. The default date format is "XXXXXXX dd. mmmmmm yyyy", where XXXXXXX is the name of the weekday, dd the number of the day, mmmmmm the full name of the month and yyyy the full number of the year, for example "Monday 21. June 2008".  Use this logical string with strftime function.
+msgid "wdgt_va_date_long"
+msgstr "%A %e %B %Y"
+
+# Localized date with day name - in shortened form (e.g. "Thu 31.03."). The date format is "XXX dd.mm.", where XXX is the up to three first characters of the weekday, dd the number of the day, mm the number of the month.  Use this logical string with strftime function.
+msgid "wdgt_va_date_day_name_short"
+msgstr "%a %d/%m."
+
+# Localized full date with day name - in shortened form (e.g. "Thu 31.03.08"). The date format is "XXX dd.mm.yy", where XXX is the up to three first characters of the weekday, dd the number of the day, mm the number of the month, and yy the short form of year.  Use this logical string with strftime function.
+msgid "wdgt_va_fulldate_day_name_short"
+msgstr "%a %d/%m/%y"
+
+# Localized full date (e.g. "21. June 2008"). The date format is "dd. mmmmmm yyyy", where dd the number of the day, mmmmmm the full name of the month and yyyy the full number of the year.
+# Use this logical string with strftime function.
+msgid "wdgt_va_date_medium"
+msgstr "%e %B %Y"
+
+# The localized numeric form of the date. E.g. "12.03.2008" for 12th March 2008.  Use this logical string with strftime function.
+msgid "wdgt_va_date"
+msgstr "%d/%m/%Y"
+
+# The localized short numeric form of the date without year. E.g. "12.03." for 12th March 2008.  Use this logical string with strftime function.
+msgid "wdgt_va_date_short"
+msgstr "%d/%m"
+
+# Month and year date format. E.g. "January 2008".  Use this logical string with strftime function.
+msgid "wdgt_va_fullmonth_year"
+msgstr "%B %Y"
+
+# Localized full numeric form of a year. E.g. "2008" . Use this logical string with strftime function.
+msgid "wdgt_va_year"
+msgstr "%Y"
+
+# Localized full name of a month. E.g. "January" . Use this logical string with strftime function.
+msgid "wdgt_va_month"
+msgstr "%B"
+
+# The localized short form of the name for month. E.g. "mar" for March.  Use this logical string with strftime function.
+msgid "wdgt_va_month_name_short"
+msgstr "%b"
+
+# The localized full name for weekday. E.g. "Wednesday".  Use this logical string with strftime function.
+msgid "wdgt_va_week"
+msgstr "%A"
+
+# The localized short form of the name for weekday. E.g. "Wed" for wednesday.  Use this logical string with strftime function.
+msgid "wdgt_va_week_name_short"
+msgstr "%a"
+
+# Week number (ISO 8601). E.g. "11" for the week 11. Use this logical string with strftime function.
+msgid "wdgt_va_week_number"
+msgstr "%V"
+
+# Week number (ISO 8601) when sunday is the first day of the week. E.g. "11" for the week 11. Use this logical string with strftime function.
+msgid "wdgt_va_week_number_sunday_first"
+msgstr "%U"
+
+# Localized numeric form of a day.  Use this logical string with strftime function.
+msgid "wdgt_va_day_numeric"
+msgstr "%e"
+
+# The localized 24h time. E.g. "23:00".
+# Use this logical string with strftime function. See 12h/24h implementation note for details.
+msgid "wdgt_va_24h_time"
+msgstr "%H:%M"
+
+# The localized 12h time, ante meridiem. E.g. "11:00 am". Note: "am" needs to be localized as in S60.
+# Use this logical string with strftime function. See 12h/24h implementation note for details.
+msgid "wdgt_va_12h_time_am"
+msgstr "%l:%M am"
+
+# The localized 12h time, post meridiem. E.g. "11:00 pm". Note: "pm" needs to be localized as in S60.  Use this logical string with strftime function. See 12h/24h implementation note for details.
+msgid "wdgt_va_12h_time_pm"
+msgstr "%l:%M pm"
+
+# The full localized 24h time, including seconds. E.g. "23:00:04".  Use this logical string with strftime function. See 12h/24h implementation note for details.
+msgid "wdgt_va_full_24h_time"
+msgstr "%T"
+
+# The full localized 12h time, including seconds. E.g. "11:00:04 pm".  Use this logical string with strftime function. See 12h/24h implementation note for details.
+msgid "wdgt_va_full_12h_time"
+msgstr "%r"
+
+# Localized hours in 24h clock. Use this logical string with strftime function. See 12h/24h implementation note for details.
+msgid "wdgt_va_24h_hours"
+msgstr "%H"
+
+# Localized hours in 12h clock. Use this logical string with strftime function. See 12h/24h implementation note for details.
+msgid "wdgt_va_12h_hours"
+msgstr "%l"
+
+# Localized full numeric form of minutes and seconds.  Use this logical string with strftime function.
+msgid "wdgt_va_minutes_seconds"
+msgstr "%M:%S"
+
+# Localized full numeric form of minutes.  Use this logical string with strftime function.
+msgid "wdgt_va_minutes"
+msgstr "%M"
+
+# Localized full numeric form of seconds.  Use this logical string with strftime function.
+msgid "wdgt_va_seconds"
+msgstr "%S"
+
+# Localized name of ante meridiem. E.g. "am". Note: this needs to be localized as in S60. See 12h/24h implementation note for details.
+msgid "wdgt_va_am"
+msgstr "am"
+
+# Localized name of post meridiem. E.g. "pm". Note: this needs to be localized as in S60. See 12h/24h implementation note for details.
+msgid "wdgt_va_pm"
+msgstr "pm"
+
+# This Information banner is shown when hardware button + or - is pressed for adjusting volume e.g. during a call. Volume level is shown by numbers 1 - 100 (percentage). The change in volume level should be updated realtime in the banner. See '''Sound interaction UI specification''' for volume default levels and adjustment range.
+msgid "wdgt_ib_volume"
+msgstr "Ses düzeyi %d%%"
+
+# This Information banner is shown when hardware button + or - is pressed is pressed for adjusting zoom level e.g. in image viewer. Volume level is shown by numbers (percentage). Valid values are defined by each application. The change in zoom level should be updated realtime in the banner.
+msgid "wdgt_ib_zoom"
+msgstr "Yakınlaştır %d%%"
+
+# Title
+msgid "wdgt_ti_date"
+msgstr "Tarih"
+
+# Title
+msgid "wdgt_ti_time"
+msgstr "Zaman"
+
+#  String for relative time of less than two minutes
+msgid "wdgt_va_ago_one_minute"
+msgid_plural "wdgt_va_ago_minutes"
+msgstr[0] "1 dakika önce"
+msgstr[1] "%d dakika önce"
+
+#  String for relative time of less than two hours
+msgid "wdgt_va_ago_one_hour"
+msgid_plural "wdgt_va_ago_hours"
+msgstr[0] "1 saat önce"
+msgstr[1] "%d saat önce"
+
+#  String for relative time of less than two days
+msgid "wdgt_va_ago_one_day"
+msgid_plural "wdgt_va_ago_days"
+msgstr[0] "1 gün önce"
+msgstr[1] "%d gün önce"
+
+#  String for relative time of less than two years
+msgid "wdgt_va_ago_one_year"
+msgid_plural "wdgt_va_ago_years"
+msgstr[0] "1 yıl önce"
+msgstr[1] "%d yıl önce"
+
+# Default title text for GtkAboutDialog
+msgid "ecdg_ti_aboutdialog_title"
+msgstr "Uygulama hakkında"
+
+# Title for dialog
+msgid "ecdg_ti_colour_selector"
+msgstr "Renk paleti"
+
+# Information banner displayed when user taps on dimmed Color selection area
+msgid "ecdg_ib_colour_selector_predefined"
+msgstr "Renk değiştirilemiyor"
+
+# Separator character for time string
+msgid "ecdg_ti_time_picker_separator"
+msgstr ":"
+
+# Shown when there are no items in the list.
+msgid "ckct_wi_grid_no_items"
+msgstr "Öğe yok"
+
+# Shown when there are no icons for the items in the list.
+msgid "ckct_wi_grid_no_icons"
+msgstr "Simge yok"
+
+# The notification informs the user of the minimum and maximum values acceptable for the field.
+msgid "ckct_ib_set_a_value_within_range"
+msgstr "Değet mutlaka %1$d ve %2$d arasında olmalıdır"
+
+# Displayed if the user tries to input too large a value to a number-based field, such as Integer Field or Date Field.
+msgid "ckct_ib_maximum_value"
+msgstr "Maksimum değer %d"
+
+# Displayed if the user tries to input too small a value to a number-based field, such as Integer Field or Date Field.
+msgid "ckct_ib_minimum_value"
+msgstr "Minimum değer %d"
+
+# Separator text string
+msgid "ckct_wi_range_separator"
+msgstr "–"
+
+# Displayed if the user attempts to enter a duration that is smaller than the minimum value of a Date Editor widget.
+msgid "ckct_ib_min_allowed_duration_hts"
+msgstr "Minimum izin verilen süre %1$02d:%2$02d:%3$02d"
+
+# Displayed if the user attempts to enter a duration that is larger than the maximum value of a Date Editor widget.
+msgid "ckct_ib_max_allowed_duration_hts"
+msgstr "Maksimum izin verilen süre %1$02d:%2$02d:%3$02d"
+
+# Displayed if the user attempts to enter a duration that is smaller than the minimum value of a Date Editor widget.
+msgid "ckct_ib_min_allowed_duration_ddd"
+msgstr "Minimum izin verilen süre %1$02d:%2$02d:%3$02d"
+
+# Displayed if the user attempts to enter a duration that is larger than the maximum value of a Date Editor widget.
+msgid "ckct_ib_max_allowed_duration_ddd"
+msgstr "Maksimum izin verilen süre %1$02d:%2$02d:%3$02d"
+
+# Displayed if the user attempts to enter a duration that is smaller than the minimum value of a Date Editor widget.
+msgid "ckct_ib_min_allowed_duration_d"
+msgstr "Minimum izin verilen süre %d"
+
+# Displayed if the user attempts to enter a duration that is larger than the maximum value of a Date Editor widget.
+msgid "ckct_ib_max_allowed_duration_d"
+msgstr "Maksimum izin verilen süre %d"
+
+# Separator character for time string
+msgid "ecdg_ti_duration_editor_separator"
+msgstr ":"
+
+# Displayed when the user enters a date where the values of the fields of the Date Field are all within their value range, but the combination does not exist as a date, e.g. 31.02.2002. Focus is returned to the first date ‘fieldlet’ (i.e. day number in UK date format) and characters in the field are highlighted. Field contents are reset to the nearest valid value to what the user input.
+msgid "ckct_ib_date_does_not_exist"
+msgstr "Geçersiz tarih"
+
+# Text string for the "Find" label
+msgid "ecdg_ti_find_toolbar_label"
+msgstr "Bul:"
+
+# Information banner for empty field
+msgid "ckct_ib_find_enter_the_text"
+msgstr "Bulunacak metni yazın"
+
+# No matches found
+msgid "ckct_ib_find_no_matches"
+msgstr "Eşleştirme bulunamadı"
+
+# Search completed
+msgid "ckct_ib_find_search_complete"
+msgstr "Arama tamamlandı"
+
+# Separator character
+msgid "ecdg_ti_caption_separator"
+msgstr ":"
+
+# 5-bit palette opening button
+msgid "ecdg_bd_colour_selector_modify"
+msgstr "Değiştir"
+
+# Title for 5-bit palette
+msgid "ecdg_ti_5bit_colour_selector"
+msgstr "Rengi değiştir"
+
+# R indicator text for 5-bit palette
+msgid "ecdg_fi_5bit_colour_selector_red"
+msgstr "Kırmızı"
+
+# G indicator text for 5-bit palette
+msgid "ecdg_fi_5bit_colour_selector_green"
+msgstr "Yeşil"
+
+# B indicator text for 5-bit palette
+msgid "ecdg_fi_5bit_colour_selector_blue"
+msgstr "Mavi"
+
+#  Title for Rename <object> dialog
+msgid "ckdg_ti_rename_default"
+msgstr "Adlandır"
+
+#  Title for Rename <object> dialog
+msgid "ckdg_ti_rename_document"
+msgstr "Dökümanı adlandır"
+
+#  Title for Rename <object> dialog
+msgid "ckdg_ti_rename_html"
+msgstr "HTML dökümanı adlandır"
+
+#  Title for Rename <object> dialog
+msgid "ckdg_ti_rename_xml"
+msgstr "XML dökümanı adlandır"
+
+#  Title for Rename <object> dialog
+msgid "ckdg_ti_rename_message"
+msgstr "Mesajı adlandır"
+
+#  Title for Rename <object> dialog
+msgid "ckdg_ti_rename_image"
+msgstr "Resmi adlandır"
+
+#  Title for Rename <object> dialog
+msgid "ckdg_ti_rename_application"
+msgstr "Uygulamayı adlandır"
+
+#  Title for Rename <object> dialog
+msgid "ckdg_ti_rename_link"
+msgstr "Kısayolu adlandır"
+
+#  Title for Rename <object> dialog
+msgid "ckdg_ti_rename_presentation"
+msgstr "Sunuyu adlandır"
+
+#  Title for Rename <object> dialog
+msgid "ckdg_ti_rename_bookmark"
+msgstr "Yer imini adlandır"
+
+#  Title for Rename <object> dialog
+msgid "ckdg_ti_rename_certificate"
+msgstr "Sertifikayı adlandır"
+
+#  Title for Rename <object> dialog
+msgid "ckdg_ti_rename_video"
+msgstr "Video klibini adlandır"
+
+#  Title for Rename <object> dialog
+msgid "ckdg_ti_rename_sound"
+msgstr "Ses klibini adlandır"
+
+#  Title for Rename <object> dialog
+msgid "ckdg_ti_rename_workbook"
+msgstr "Çalışma kitabını adlandır"
+
+# Title for Rename <object> dialog
+msgid "ckdg_ti_rename_folder"
+msgstr "Klasörü adlandır"
+
+# Rename <object> dialog OK button.  hd-app-menu-dialog.c
+msgid "ckdg_bd_rename_object_dialog_ok"
+msgstr "Adlandır"
+
+#  Name field label for Rename <object> dialog
+msgid "ckdg_fi_rename_name"
+msgstr "Adı:"
+
+# Title for New <object> dialog
+msgid "ckdg_ti_new_default"
+msgstr "Yeni"
+
+# Title for New <object> dialog
+msgid "ckdg_ti_new_document"
+msgstr "Yeni döküman"
+
+# Title for New <object> dialog
+msgid "ckdg_ti_new_html"
+msgstr "Yeni HTML dökümanı"
+
+# Title for New <object> dialog
+msgid "ckdg_ti_new_xml"
+msgstr "Yeni XML dökümanı"
+
+# Title for New <object> dialog
+msgid "ckdg_ti_new_message"
+msgstr "Yeni mesaj"
+
+# Title for New <object> dialog
+msgid "ckdg_ti_new_image"
+msgstr "Yeni resim"
+
+# Title for New <object> dialog
+msgid "ckdg_ti_new_application"
+msgstr "Yeni uygulama"
+
+# Title for New <object> dialog
+msgid "ckdg_ti_new_link"
+msgstr "Yeni kısayol"
+
+# Title for New <object> dialog
+msgid "ckdg_ti_new_presentation"
+msgstr "Yeni sunu"
+
+# Title for New <object> dialog
+msgid "ckdg_ti_new_bookmark"
+msgstr "Yeni yer imi"
+
+# Title for New <object> dialog
+msgid "ckdg_ti_new_certificate"
+msgstr "Yeni sertifika"
+
+# Title for New <object> dialog
+msgid "ckdg_ti_new_video"
+msgstr "Yeni video klibi"
+
+# Title for New <object> dialog
+msgid "ckdg_ti_new_sound"
+msgstr "Yeni ses klibi"
+
+# Title for New <object> dialog
+msgid "ckdg_ti_new_workbook"
+msgstr "Yeni çalışma kitabı"
+
+# Title for New <object> dialog
+msgid "ckdg_ti_new_folder"
+msgstr "Yeni klasör"
+
+#  Name field label for New <object> dialog
+msgid "ckdg_fi_new_name"
+msgstr "Adı:"
+
+#  Title for the "Set Password" dialog
+msgid "ecdg_ti_set_password"
+msgstr "Parolayı ayarla"
+
+# Secret Editor field in "Set Password" dialog for the new password
+msgid "ecdg_fi_set_passwd_enter_pwd"
+msgstr "Yeni parola gir:"
+
+#  Secret Editor field in "Set Password" dialog to verify the new password
+msgid "ecdg_fi_set_passwd_confirm"
+msgstr "Parolayı doğrula:"
+
+#  Title text in "Change Password" dialog
+msgid "ckdg_ti_dialog_c_passwd_change_password"
+msgstr "Parola değiştir"
+
+#  "Password Protected" field in "Change Password" dialog
+msgid "ckdg_fi_dialog_c_passwd_pwd_protect"
+msgstr "Parola korumalı:"
+
+#  "New password" field in "Change Password" dialog
+msgid "ckdg_fi_dialog_c_passwd_new_pwd"
+msgstr "Yeni parola gir:"
+
+#  Verify password - field in Change Password - dialog
+msgid "ckdg_fi_dialog_c_passwd_ver_pwd"
+msgstr "Parolayı doğrula:"
+
+#  Title for "get password" dialog
+msgid "ecdg_ti_verify_password"
+msgstr "Parola gerekiyor"
+
+#  Secret Editor field in "Get Password" dialog for the password
+msgid "ecdg_fi_verify_pwd_enter_pwd"
+msgstr "Parola:"
+
+#  Title for "Get Old Password" dialog
+msgid "ecdg_ti_get_old_password"
+msgstr "Geçerli parola"
+
+# Secret Editor field in "Get Old Password" dialog
+msgid "ecdg_fi_get_old_pwd_enter_pwd"
+msgstr "Parola:"
+
+#  Title for "get user name and password" dialog
+msgid "frw_ti_get_user_name_and_pwd"
+msgstr "Parola gerekiyor"
+
+#  Secret Editor field in " get user name and password"  dialog for the password
+msgid "frw_ti_get_user_name_and_pwd_enter_pwd"
+msgstr "Parola:"
+
+#  Editor field in " get user name and password"  dialog for the user name
+msgid "frw_ti_get_user_name_and_pwd_enter_user_name"
+msgstr "Kullanıcı adı"
+
+#  Title for sort dialog
+msgid "ckdg_ti_sort"
+msgstr "Sırala"
+
+#  Label text for sort field choice list in Sort dialog
+msgid "ckdg_fi_sort_field"
+msgstr "Sırala:"
+
+#  Label text for sort order choice list in Sort dialog
+msgid "ckdg_fi_sort_order"
+msgstr "Sıra:"
+
+#  Field text for sort field "date" in Sort dialog
+msgid "ckdg_va_sort_date"
+msgstr "Tarih"
+
+#  Field text for sort field "name" in Sort dialog
+msgid "ckdg_va_sort_name"
+msgstr "Adı"
+
+#  Field text for sort field "size" in Sort dialog
+msgid "ckdg_va_sort_size"
+msgstr "Boyut"
+
+#  Field text for sort field "size" in Sort dialog
+msgid "ckdg_va_sort_ascending"
+msgstr "Artarak"
+
+#  Field text for sort field "size" in Sort dialog
+msgid "ckdg_va_sort_descending"
+msgstr "Azalarak"
+
+#  Title for "Font" dialog
+msgid "ecdg_ti_font"
+msgstr "Font"
+
+#  Style - Page on Font dialog
+msgid "ecdg_ti_font_dialog_style"
+msgstr "Stil"
+
+#  Preview button in "Font" dialog
+msgid "ecdg_bd_font_dialog_preview"
+msgstr "Önizleme"
+
+#  Choice List in Font - dialog
+msgid "ecdg_fi_font_font"
+msgstr "Font yüzü:"
+
+#  Choice List in Font - dialog
+msgid "ecdg_fi_font_size"
+msgstr "Font boyutu:"
+
+#  Trailer text for Choicelist in Font - dialog
+msgid "ecdg_va_font_size_trailer"
+msgstr " pt"
+
+#  Colour Selector in Font - dialog
+msgid "ecdg_fi_font_colour_selector"
+msgstr "Renk:"
+
+#  Formatting - Page on Font dialog
+msgid "ecdg_ti_font_dialog_format"
+msgstr "Biçimlendirme"
+
+#  Choicelist in Font - dialog
+msgid "ecdg_fi_font_bold"
+msgstr "Kalın:"
+
+#  Choicelist in Font - dialog
+msgid "ecdg_fi_font_italic"
+msgstr "İtalik:"
+
+#  Choicelist in Font - dialog
+msgid "ecdg_fi_font_underline"
+msgstr "Altı çizili:"
+
+#  Other - Page on Font dialog
+msgid "ecdg_ti_font_dialog_other"
+msgstr "Diğer"
+
+#  Choice list item in Font - dialog
+msgid "ecdg_va_font_printpos_1"
+msgstr "Normal"
+
+#  Choice list item in Font - dialog
+msgid "ecdg_va_font_printpos_2"
+msgstr "Süperbetik"
+
+#  Choice list item in Font - dialog
+msgid "ecdg_va_font_printpos_3"
+msgstr "Altbetik"
+
+#  Choicelist in Font - dialog
+msgid "ecdg_fi_font_strikethrough"
+msgstr "Üstüçizili:"
+
+#  Choicelist in Font - dialog
+msgid "ecdg_fi_font_special"
+msgstr "Konumlama:"
+
+# Title for "Preview" dialog
+msgid "ecdg_ti_preview_font"
+msgstr "Önizleme"
+
+# Preview string for "Preview" dialog
+# Türkçe notu: Önemli olan birebir çevirisi değil, 29 harfi yansıtan bir "pangram" oluşmasıdır. Birebir çeviri yapmak hatadır.
+msgid "ecdg_fi_preview_font_preview_text"
+msgstr "Pijamalı hasta yağız şoföre çabucak güvendi"
+
+# Reference text string for sub- and superscripted textst
+msgid "ecdg_fi_preview_font_preview_reference"
+msgstr "Referans:"
+
