@@ -1,0 +1,498 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: hildon-libs 20091109114411\n"
+"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"POT-Creation-Date: 2009.11.09 11:44+0200\n"
+"PO-Revision-Date: 2010-02-24 11:43+0100\n"
+"Last-Translator: attilaposa <laposa@pannongsm.hu>\n"
+"Language-Team: hu_HU <andy1210@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+
+msgid "ckct_ib_date_does_not_exist"
+msgstr "Helyetelen dátum"
+
+msgid "ckct_ib_find_enter_the_text"
+msgstr "Add meg a keresendő szót"
+
+msgid "ckct_ib_find_no_matches"
+msgstr "Nincs találat"
+
+msgid "ckct_ib_find_search_complete"
+msgstr "Keresés kész"
+
+msgid "ckct_ib_max_allowed_duration_d"
+msgstr "Maximum engedélyezett hossz %d"
+
+msgid "ckct_ib_max_allowed_duration_ddd"
+msgstr "Maximum engedélyezett hossz %1$02d:%2$02d:%3$02d"
+
+msgid "ckct_ib_max_allowed_duration_hts"
+msgstr "Maximum engedélyezett hossz %1$02d:%2$02d:%3$02d"
+
+msgid "ckct_ib_maximum_value"
+msgstr "Maximum érték %d"
+
+msgid "ckct_ib_min_allowed_duration_d"
+msgstr "Minimum engedélyezett hossz %d"
+
+msgid "ckct_ib_min_allowed_duration_ddd"
+msgstr "Minimum engedélyezett hossz %1$02d:%2$02d:%3$02d"
+
+msgid "ckct_ib_min_allowed_duration_hts"
+msgstr "Minimum engedélyezett hossz %1$02d:%2$02d:%3$02d"
+
+msgid "ckct_ib_minimum_value"
+msgstr "Minimum érték %d"
+
+msgid "ckct_ib_set_a_value_within_range"
+msgstr "Az értéknek %1$d és %2$d közt kell lennie"
+
+msgid "ckct_wi_grid_no_icons"
+msgstr "Nincsenek ikonok"
+
+msgid "ckct_wi_grid_no_items"
+msgstr "Nincsenek elemek"
+
+msgid "ckct_wi_range_separator"
+msgstr "–"
+
+msgid "ckdg_bd_rename_object_dialog_ok"
+msgstr "Átnevezés"
+
+msgid "ckdg_fi_dialog_c_passwd_new_pwd"
+msgstr "Add meg az új jelszót:"
+
+msgid "ckdg_fi_dialog_c_passwd_pwd_protect"
+msgstr "Jelszó védett:"
+
+msgid "ckdg_fi_dialog_c_passwd_ver_pwd"
+msgstr "Jelszó megerősítése:"
+
+msgid "ckdg_fi_new_name"
+msgstr "Név:"
+
+msgid "ckdg_fi_rename_name"
+msgstr "Név:"
+
+msgid "ckdg_fi_sort_field"
+msgstr "Rendezés:"
+
+msgid "ckdg_fi_sort_order"
+msgstr "Sorrend:"
+
+msgid "ckdg_ti_dialog_c_passwd_change_password"
+msgstr "Jelszó megváltoztatása"
+
+msgid "ckdg_ti_new_application"
+msgstr "Új alkalmazás"
+
+msgid "ckdg_ti_new_bookmark"
+msgstr "Új könyvjelző"
+
+msgid "ckdg_ti_new_certificate"
+msgstr "Új tanúsítvány"
+
+msgid "ckdg_ti_new_default"
+msgstr "Új"
+
+msgid "ckdg_ti_new_document"
+msgstr "Új dokumentum"
+
+msgid "ckdg_ti_new_folder"
+msgstr "Új mappa"
+
+msgid "ckdg_ti_new_html"
+msgstr "Új HTML dokumentum"
+
+msgid "ckdg_ti_new_image"
+msgstr "Új kép"
+
+msgid "ckdg_ti_new_link"
+msgstr "Új parancsikon"
+
+msgid "ckdg_ti_new_message"
+msgstr "Új üzenet"
+
+msgid "ckdg_ti_new_presentation"
+msgstr "Új prezentáció"
+
+msgid "ckdg_ti_new_sound"
+msgstr "Új hang fájl"
+
+msgid "ckdg_ti_new_video"
+msgstr "Új videó klipp"
+
+msgid "ckdg_ti_new_workbook"
+msgstr "Új munkafüzet"
+
+msgid "ckdg_ti_new_xml"
+msgstr "Új XML dokumentum"
+
+msgid "ckdg_ti_rename_application"
+msgstr "Alkalmazás átnevezése"
+
+msgid "ckdg_ti_rename_bookmark"
+msgstr "Könyvjelző átnevezése"
+
+msgid "ckdg_ti_rename_certificate"
+msgstr "Tanúsítvány átnevezése"
+
+msgid "ckdg_ti_rename_default"
+msgstr "Átnevezés"
+
+msgid "ckdg_ti_rename_document"
+msgstr "Dokumentum átnevezése"
+
+msgid "ckdg_ti_rename_folder"
+msgstr "Mappa átnevezése"
+
+msgid "ckdg_ti_rename_html"
+msgstr "HTML dokumentum átnevezése"
+
+msgid "ckdg_ti_rename_image"
+msgstr "Kép átnevezése"
+
+msgid "ckdg_ti_rename_link"
+msgstr "Parancsikon átnevezése"
+
+msgid "ckdg_ti_rename_message"
+msgstr "Üzenet átnevezése"
+
+msgid "ckdg_ti_rename_presentation"
+msgstr "Prezentáció átnevezése"
+
+msgid "ckdg_ti_rename_sound"
+msgstr "Hang fájl átnevezése"
+
+msgid "ckdg_ti_rename_video"
+msgstr "Videó klipp átnevezése"
+
+msgid "ckdg_ti_rename_workbook"
+msgstr "Munkafüzet átnevezése"
+
+msgid "ckdg_ti_rename_xml"
+msgstr "XML dokumentum átnevezése"
+
+msgid "ckdg_ti_sort"
+msgstr "Rendezés"
+
+msgid "ckdg_va_sort_ascending"
+msgstr "Növekvő"
+
+msgid "ckdg_va_sort_date"
+msgstr "Dátum"
+
+msgid "ckdg_va_sort_descending"
+msgstr "Csökkenő"
+
+msgid "ckdg_va_sort_name"
+msgstr "Név"
+
+msgid "ckdg_va_sort_size"
+msgstr "Méret"
+
+msgid "ecdg_bd_colour_selector_modify"
+msgstr "Módosítás"
+
+msgid "ecdg_bd_font_dialog_preview"
+msgstr "Előnézet"
+
+msgid "ecdg_fi_5bit_colour_selector_blue"
+msgstr "Kék"
+
+msgid "ecdg_fi_5bit_colour_selector_green"
+msgstr "Zöld"
+
+msgid "ecdg_fi_5bit_colour_selector_red"
+msgstr "Piros"
+
+msgid "ecdg_fi_font_bold"
+msgstr "Félkövér:"
+
+msgid "ecdg_fi_font_colour_selector"
+msgstr "Szín:"
+
+msgid "ecdg_fi_font_font"
+msgstr "Betűtípus:"
+
+msgid "ecdg_fi_font_italic"
+msgstr "Dőlt:"
+
+msgid "ecdg_fi_font_size"
+msgstr "Betű méret:"
+
+msgid "ecdg_fi_font_special"
+msgstr "Pozícionálás:"
+
+msgid "ecdg_fi_font_strikethrough"
+msgstr "Áthúzás:"
+
+msgid "ecdg_fi_font_underline"
+msgstr "Aláhúzás:"
+
+msgid "ecdg_fi_get_old_pwd_enter_pwd"
+msgstr "Jelszó:"
+
+msgid "ecdg_fi_preview_font_preview_reference"
+msgstr "Referencia: "
+
+msgid "ecdg_fi_preview_font_preview_text"
+msgstr "A gyors barna róka átugrik a lusta kutya felett"
+
+msgid "ecdg_fi_set_passwd_confirm"
+msgstr "Jelszó megerősítése"
+
+msgid "ecdg_fi_set_passwd_enter_pwd"
+msgstr "Add meg az új jelszót"
+
+msgid "ecdg_fi_verify_pwd_enter_pwd"
+msgstr "Jelszó:"
+
+msgid "ecdg_fi_wizard_description"
+msgstr ""
+"%s varázsló engedélyezi neked ezt: %s.\n"
+"\n"
+"Érintsd meg a 'Tovább' gombot a folytatáshoz."
+
+msgid "ecdg_ib_colour_selector_predefined"
+msgstr "Nem lehet módosítani a színt"
+
+msgid "ecdg_ti_5bit_colour_selector"
+msgstr "Szín módosítása"
+
+msgid "ecdg_ti_aboutdialog_title"
+msgstr "Névjegy"
+
+msgid "ecdg_ti_caption_separator"
+msgstr ":"
+
+msgid "ecdg_ti_colour_selector"
+msgstr "Szín paletta"
+
+msgid "ecdg_ti_duration_editor_separator"
+msgstr ":"
+
+msgid "ecdg_ti_find_toolbar_label"
+msgstr "Keresés:"
+
+msgid "ecdg_ti_font"
+msgstr "Betű"
+
+msgid "ecdg_ti_font_dialog_format"
+msgstr "Formázás"
+
+msgid "ecdg_ti_font_dialog_other"
+msgstr "Egyéb"
+
+msgid "ecdg_ti_font_dialog_style"
+msgstr "Stílus"
+
+msgid "ecdg_ti_get_old_password"
+msgstr "Jelenlegi jelszó"
+
+msgid "ecdg_ti_preview_font"
+msgstr "Előnézet"
+
+msgid "ecdg_ti_set_password"
+msgstr "Jelszó beállítása"
+
+msgid "ecdg_ti_time_picker_separator"
+msgstr ":"
+
+msgid "ecdg_ti_verify_password"
+msgstr "Jelszó szükséges"
+
+msgid "ecdg_ti_wizard_welcome"
+msgstr "%s: Üdvözöllek"
+
+msgid "ecdg_va_font_printpos_1"
+msgstr "Normál"
+
+msgid "ecdg_va_font_printpos_2"
+msgstr "Felső index"
+
+msgid "ecdg_va_font_printpos_3"
+msgstr "Alsó index"
+
+msgid "ecdg_va_font_size_trailer"
+msgstr " pt"
+
+msgid "frw_ti_get_user_name_and_pwd"
+msgstr "Jelszó szükséges"
+
+msgid "frw_ti_get_user_name_and_pwd_enter_pwd"
+msgstr "Jelszó:"
+
+msgid "frw_ti_get_user_name_and_pwd_enter_user_name"
+msgstr "Felhasználónév"
+
+msgid "wdgt_bd_add"
+msgstr "Több"
+
+msgid "wdgt_bd_back"
+msgstr "Vissza"
+
+msgid "wdgt_bd_delete"
+msgstr "Törlés"
+
+msgid "wdgt_bd_done"
+msgstr "Kész"
+
+msgid "wdgt_bd_edit"
+msgstr "Szerkesztés"
+
+msgid "wdgt_bd_finish"
+msgstr "Befejez"
+
+msgid "wdgt_bd_move"
+msgstr "Áthelyezés"
+
+msgid "wdgt_bd_new"
+msgstr "Új"
+
+msgid "wdgt_bd_next"
+msgstr "Következő"
+
+msgid "wdgt_bd_no"
+msgstr "Nem"
+
+msgid "wdgt_bd_previous"
+msgstr "Előző"
+
+msgid "wdgt_bd_rename"
+msgstr "Átnevezés"
+
+msgid "wdgt_bd_save"
+msgstr "Mentés"
+
+msgid "wdgt_bd_search"
+msgstr "Keresés"
+
+msgid "wdgt_bd_share"
+msgstr "Megosztás"
+
+msgid "wdgt_bd_sort"
+msgstr "Rendezés"
+
+msgid "wdgt_bd_stop"
+msgstr "Leállítás"
+
+msgid "wdgt_bd_view"
+msgstr "Megtekintés"
+
+msgid "wdgt_bd_yes"
+msgstr "Igen"
+
+msgid "wdgt_ib_volume"
+msgstr "Hangerő %d%%"
+
+msgid "wdgt_ib_zoom"
+msgstr "Zoom %d%%"
+
+msgid "wdgt_ti_date"
+msgstr "Dátum"
+
+msgid "wdgt_ti_time"
+msgstr "Idő"
+
+msgid "wdgt_va_12h_hours"
+msgstr "%l"
+
+msgid "wdgt_va_12h_time_am"
+msgstr "%l:%M De"
+
+msgid "wdgt_va_12h_time_pm"
+msgstr "%l:%M Du"
+
+msgid "wdgt_va_24h_hours"
+msgstr "%H"
+
+msgid "wdgt_va_24h_time"
+msgstr "%H:%M"
+
+msgid "wdgt_va_ago_one_day"
+msgid_plural "wdgt_va_ago_days"
+msgstr[0] "1 napja"
+msgstr[1] "%d napja"
+
+msgid "wdgt_va_ago_one_hour"
+msgid_plural "wdgt_va_ago_hours"
+msgstr[0] "1 órája"
+msgstr[1] "%d órája"
+
+msgid "wdgt_va_ago_one_minute"
+msgid_plural "wdgt_va_ago_minutes"
+msgstr[0] "1 perce"
+msgstr[1] "%d perce"
+
+msgid "wdgt_va_ago_one_year"
+msgid_plural "wdgt_va_ago_years"
+msgstr[0] "1 éve"
+msgstr[1] "%d éve"
+
+msgid "wdgt_va_am"
+msgstr "De"
+
+msgid "wdgt_va_date"
+msgstr "%Y/%m/%d"
+
+msgid "wdgt_va_date_day_name_short"
+msgstr "%m/%d %a"
+
+msgid "wdgt_va_date_long"
+msgstr "%Y %B %e %A "
+
+msgid "wdgt_va_date_medium"
+msgstr "%Y %B %e "
+
+msgid "wdgt_va_date_short"
+msgstr "%m/%d"
+
+msgid "wdgt_va_day_numeric"
+msgstr "%e"
+
+msgid "wdgt_va_full_24h_time"
+msgstr "%T"
+
+msgid "wdgt_va_fulldate_day_name_short"
+msgstr "%y/%m/%d %a"
+
+msgid "wdgt_va_fullmonth_year"
+msgstr "%Y %B"
+
+msgid "wdgt_va_minutes"
+msgstr "%M"
+
+msgid "wdgt_va_minutes_seconds"
+msgstr "%M:%S"
+
+msgid "wdgt_va_month"
+msgstr "%B"
+
+msgid "wdgt_va_month_name_short"
+msgstr "%b"
+
+msgid "wdgt_va_pm"
+msgstr "Du"
+
+msgid "wdgt_va_seconds"
+msgstr "%S"
+
+msgid "wdgt_va_week"
+msgstr "%A"
+
+msgid "wdgt_va_week_name_short"
+msgstr "%a"
+
+msgid "wdgt_va_week_number"
+msgstr "%V"
+
+msgid "wdgt_va_week_number_sunday_first"
+msgstr "%U"
+
+msgid "wdgt_va_year"
+msgstr "%Y"
+
