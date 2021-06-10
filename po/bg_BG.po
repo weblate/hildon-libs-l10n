@@ -1,0 +1,497 @@
+# 
+# Translators:
+msgid ""
+msgstr ""
+"Project-Id-Version: n900 extra translations\n"
+"Report-Msgid-Bugs-To: http://code.google.com/p/n900-extra-translations/issues/list\n"
+"POT-Creation-Date: 2009.11.09 11:44+0200\n"
+"PO-Revision-Date: 2010-11-30 11:30+0000\n"
+"Last-Translator: \n"
+"Language-Team: Bulgarian (http://www.transifex.net/projects/p/n900-extra-translations/language/bg/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: bg\n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+
+msgid "ckct_ib_date_does_not_exist"
+msgstr "Невалидна дата"
+
+msgid "ckct_ib_find_enter_the_text"
+msgstr "Въвеждане на текст за търсене"
+
+msgid "ckct_ib_find_no_matches"
+msgstr "Не са открити съвпадения"
+
+msgid "ckct_ib_find_search_complete"
+msgstr "Търсенето приключи"
+
+msgid "ckct_ib_max_allowed_duration_d"
+msgstr "Максимално разрешената продължителност е %d"
+
+msgid "ckct_ib_max_allowed_duration_ddd"
+msgstr "Максимално разрешената продължителност е %1$02d:%2$02d:%3$02d"
+
+msgid "ckct_ib_max_allowed_duration_hts"
+msgstr "Максимално разрешената продължителност е %1$02d:%2$02d:%3$02d"
+
+msgid "ckct_ib_maximum_value"
+msgstr "Максималната стойност е %d"
+
+msgid "ckct_ib_min_allowed_duration_d"
+msgstr "Минимално разрешената продължителност е %d"
+
+msgid "ckct_ib_min_allowed_duration_ddd"
+msgstr "Минимално разрешената продължителност е %1$02d:%2$02d:%3$02d"
+
+msgid "ckct_ib_min_allowed_duration_hts"
+msgstr "Минимално разрешената продължителност е %1$02d:%2$02d:%3$02d"
+
+msgid "ckct_ib_minimum_value"
+msgstr "Минималната стойност е %d"
+
+msgid "ckct_ib_set_a_value_within_range"
+msgstr "Стойността трябва да бъде между %1$d и %2$d"
+
+msgid "ckct_wi_grid_no_icons"
+msgstr "Няма икони"
+
+msgid "ckct_wi_grid_no_items"
+msgstr "Няма елементи"
+
+msgid "ckct_wi_range_separator"
+msgstr "–"
+
+msgid "ckdg_bd_rename_object_dialog_ok"
+msgstr "Преименуване"
+
+msgid "ckdg_fi_dialog_c_passwd_new_pwd"
+msgstr "Въвеждане на нова парола:"
+
+msgid "ckdg_fi_dialog_c_passwd_pwd_protect"
+msgstr "Защитено с парола:"
+
+msgid "ckdg_fi_dialog_c_passwd_ver_pwd"
+msgstr "Потвърждаване на паролата:"
+
+msgid "ckdg_fi_new_name"
+msgstr "Име:"
+
+msgid "ckdg_fi_rename_name"
+msgstr "Име:"
+
+msgid "ckdg_fi_sort_field"
+msgstr "Сортиране по:"
+
+msgid "ckdg_fi_sort_order"
+msgstr "Ред:"
+
+msgid "ckdg_ti_dialog_c_passwd_change_password"
+msgstr "Промяна на парола"
+
+msgid "ckdg_ti_new_application"
+msgstr "Ново приложение"
+
+msgid "ckdg_ti_new_bookmark"
+msgstr "Нова отметка"
+
+msgid "ckdg_ti_new_certificate"
+msgstr "Ново удостоверение"
+
+msgid "ckdg_ti_new_default"
+msgstr "Нов"
+
+msgid "ckdg_ti_new_document"
+msgstr "Нов документ"
+
+msgid "ckdg_ti_new_folder"
+msgstr "Нова папка"
+
+msgid "ckdg_ti_new_html"
+msgstr "Нов HTML документ"
+
+msgid "ckdg_ti_new_image"
+msgstr "Ново изображение"
+
+msgid "ckdg_ti_new_link"
+msgstr "Нов пряк път"
+
+msgid "ckdg_ti_new_message"
+msgstr "Ново съобщение"
+
+msgid "ckdg_ti_new_presentation"
+msgstr "Нова презентация"
+
+msgid "ckdg_ti_new_sound"
+msgstr "Нов аудио файл"
+
+msgid "ckdg_ti_new_video"
+msgstr "Нов видео файл"
+
+msgid "ckdg_ti_new_workbook"
+msgstr "Нова книга"
+
+msgid "ckdg_ti_new_xml"
+msgstr "Нов XML документ"
+
+msgid "ckdg_ti_rename_application"
+msgstr "Преименуване на приложение"
+
+msgid "ckdg_ti_rename_bookmark"
+msgstr "Преименуване на отметка"
+
+msgid "ckdg_ti_rename_certificate"
+msgstr "Преименуване на удостоверение"
+
+msgid "ckdg_ti_rename_default"
+msgstr "Преименуване"
+
+msgid "ckdg_ti_rename_document"
+msgstr "Преименуване на документ"
+
+msgid "ckdg_ti_rename_folder"
+msgstr "Преименуване на папка"
+
+msgid "ckdg_ti_rename_html"
+msgstr "Преименуване на HTML документ"
+
+msgid "ckdg_ti_rename_image"
+msgstr "Преименуване на изображение"
+
+msgid "ckdg_ti_rename_link"
+msgstr "Преименуване на пряк път"
+
+msgid "ckdg_ti_rename_message"
+msgstr "Преименуване на съобщение"
+
+msgid "ckdg_ti_rename_presentation"
+msgstr "Преименуване на презентация"
+
+msgid "ckdg_ti_rename_sound"
+msgstr "Преименуване на аудио файл"
+
+msgid "ckdg_ti_rename_video"
+msgstr "Преименуване на видео файл"
+
+msgid "ckdg_ti_rename_workbook"
+msgstr "Преименуване на книга"
+
+msgid "ckdg_ti_rename_xml"
+msgstr "Преименуване на XML документ"
+
+msgid "ckdg_ti_sort"
+msgstr "Подреждане"
+
+msgid "ckdg_va_sort_ascending"
+msgstr "Възходящ"
+
+msgid "ckdg_va_sort_date"
+msgstr "Дата"
+
+msgid "ckdg_va_sort_descending"
+msgstr "Низходящ"
+
+msgid "ckdg_va_sort_name"
+msgstr "Име"
+
+msgid "ckdg_va_sort_size"
+msgstr "Размер"
+
+msgid "ecdg_bd_colour_selector_modify"
+msgstr "Промяна"
+
+msgid "ecdg_bd_font_dialog_preview"
+msgstr "Преглед"
+
+msgid "ecdg_fi_5bit_colour_selector_blue"
+msgstr "Синьо"
+
+msgid "ecdg_fi_5bit_colour_selector_green"
+msgstr "Зелено"
+
+msgid "ecdg_fi_5bit_colour_selector_red"
+msgstr "Червено"
+
+msgid "ecdg_fi_font_bold"
+msgstr "Получер"
+
+msgid "ecdg_fi_font_colour_selector"
+msgstr "Цвят"
+
+msgid "ecdg_fi_font_font"
+msgstr "Шрифт"
+
+msgid "ecdg_fi_font_italic"
+msgstr "Курсив"
+
+msgid "ecdg_fi_font_size"
+msgstr "Размер на шрифт"
+
+msgid "ecdg_fi_font_special"
+msgstr "Позициониране"
+
+msgid "ecdg_fi_font_strikethrough"
+msgstr "Зачертаване"
+
+msgid "ecdg_fi_font_underline"
+msgstr "Подчертаване"
+
+msgid "ecdg_fi_get_old_pwd_enter_pwd"
+msgstr "Парова:"
+
+msgid "ecdg_fi_preview_font_preview_reference"
+msgstr "Връзка: "
+
+msgid "ecdg_fi_preview_font_preview_text"
+msgstr "Ах, чудна българска земьо, полюшвай цъфтящи жита!"
+
+msgid "ecdg_fi_set_passwd_confirm"
+msgstr "Потвърждаване на парола"
+
+msgid "ecdg_fi_set_passwd_enter_pwd"
+msgstr "Въвеждане на нова парола"
+
+msgid "ecdg_fi_verify_pwd_enter_pwd"
+msgstr "Парола:"
+
+msgid "ecdg_fi_wizard_description"
+msgstr "Помощника на %s позволява да се %s.\n\nНатиснете 'Следващ' за да продължите."
+
+msgid "ecdg_ib_colour_selector_predefined"
+msgstr "Неуспешна промяна на цвета"
+
+msgid "ecdg_ti_5bit_colour_selector"
+msgstr "Промяна на цвета"
+
+msgid "ecdg_ti_aboutdialog_title"
+msgstr "Относно приложение"
+
+msgid "ecdg_ti_caption_separator"
+msgstr ":"
+
+msgid "ecdg_ti_colour_selector"
+msgstr "Цветна палитра"
+
+msgid "ecdg_ti_duration_editor_separator"
+msgstr ":"
+
+msgid "ecdg_ti_find_toolbar_label"
+msgstr "Търсене:"
+
+msgid "ecdg_ti_font"
+msgstr "Шрифт"
+
+msgid "ecdg_ti_font_dialog_format"
+msgstr "Оформление"
+
+msgid "ecdg_ti_font_dialog_other"
+msgstr "Друго"
+
+msgid "ecdg_ti_font_dialog_style"
+msgstr "Стил"
+
+msgid "ecdg_ti_get_old_password"
+msgstr "Текуща парола"
+
+msgid "ecdg_ti_preview_font"
+msgstr "Преглед"
+
+msgid "ecdg_ti_set_password"
+msgstr "Задаване на парола"
+
+msgid "ecdg_ti_time_picker_separator"
+msgstr ":"
+
+msgid "ecdg_ti_verify_password"
+msgstr "Необходима е парола"
+
+msgid "ecdg_ti_wizard_welcome"
+msgstr "%s: Начало"
+
+msgid "ecdg_va_font_printpos_1"
+msgstr "Нормално"
+
+msgid "ecdg_va_font_printpos_2"
+msgstr "суперскрипт"
+
+msgid "ecdg_va_font_printpos_3"
+msgstr "Субскрипт"
+
+msgid "ecdg_va_font_size_trailer"
+msgstr " точки"
+
+msgid "frw_ti_get_user_name_and_pwd"
+msgstr "Необходина е парола"
+
+msgid "frw_ti_get_user_name_and_pwd_enter_pwd"
+msgstr "Парола:"
+
+msgid "frw_ti_get_user_name_and_pwd_enter_user_name"
+msgstr "Потребителско име"
+
+msgid "wdgt_bd_add"
+msgstr "Добавяне"
+
+msgid "wdgt_bd_back"
+msgstr "Назад"
+
+msgid "wdgt_bd_delete"
+msgstr "Изтриване"
+
+msgid "wdgt_bd_done"
+msgstr "Готово"
+
+msgid "wdgt_bd_edit"
+msgstr "Редактиране"
+
+msgid "wdgt_bd_finish"
+msgstr "Край"
+
+msgid "wdgt_bd_move"
+msgstr "Преместване"
+
+msgid "wdgt_bd_new"
+msgstr "Ново"
+
+msgid "wdgt_bd_next"
+msgstr "Следващ"
+
+msgid "wdgt_bd_no"
+msgstr "Не"
+
+msgid "wdgt_bd_previous"
+msgstr "Предишен"
+
+msgid "wdgt_bd_rename"
+msgstr "Преименуване"
+
+msgid "wdgt_bd_save"
+msgstr "Запазване"
+
+msgid "wdgt_bd_search"
+msgstr "Търсене"
+
+msgid "wdgt_bd_share"
+msgstr "Споделяне"
+
+msgid "wdgt_bd_sort"
+msgstr "Подреждане"
+
+msgid "wdgt_bd_stop"
+msgstr "Спиране"
+
+msgid "wdgt_bd_view"
+msgstr "Показване"
+
+msgid "wdgt_bd_yes"
+msgstr "Да"
+
+msgid "wdgt_ib_volume"
+msgstr "Сила %d%%"
+
+msgid "wdgt_ib_zoom"
+msgstr "Увеличение %d%%"
+
+msgid "wdgt_ti_date"
+msgstr "Дата"
+
+msgid "wdgt_ti_time"
+msgstr "Време"
+
+msgid "wdgt_va_12h_hours"
+msgstr "%l"
+
+msgid "wdgt_va_12h_time_am"
+msgstr "%l:%M am"
+
+msgid "wdgt_va_12h_time_pm"
+msgstr "%l:%M pm"
+
+msgid "wdgt_va_24h_hours"
+msgstr "%H"
+
+msgid "wdgt_va_24h_time"
+msgstr "%H:%M"
+
+msgid "wdgt_va_ago_one_day"
+msgid_plural "wdgt_va_ago_days"
+msgstr[0] "преди 1 ден"
+msgstr[1] "преди %d дни"
+
+msgid "wdgt_va_ago_one_hour"
+msgid_plural "wdgt_va_ago_hours"
+msgstr[0] "преди 1 час"
+msgstr[1] "преди %d часа"
+
+msgid "wdgt_va_ago_one_minute"
+msgid_plural "wdgt_va_ago_minutes"
+msgstr[0] "преди 1 минута"
+msgstr[1] "преди %d минути"
+
+msgid "wdgt_va_ago_one_year"
+msgid_plural "wdgt_va_ago_years"
+msgstr[0] "преди 1 година"
+msgstr[1] "преди %d години"
+
+msgid "wdgt_va_am"
+msgstr "am"
+
+msgid "wdgt_va_date"
+msgstr "%d.%m.%Y"
+
+msgid "wdgt_va_date_day_name_short"
+msgstr "%a %d.%m"
+
+msgid "wdgt_va_date_long"
+msgstr "%A %e %B %Y"
+
+msgid "wdgt_va_date_medium"
+msgstr "%e %B %Y"
+
+msgid "wdgt_va_date_short"
+msgstr "%d.%m"
+
+msgid "wdgt_va_day_numeric"
+msgstr "%e"
+
+msgid "wdgt_va_full_24h_time"
+msgstr "%T"
+
+msgid "wdgt_va_fulldate_day_name_short"
+msgstr "%a %d.%m.%y"
+
+msgid "wdgt_va_fullmonth_year"
+msgstr "%B %Y"
+
+msgid "wdgt_va_minutes"
+msgstr "%M"
+
+msgid "wdgt_va_minutes_seconds"
+msgstr "%M:%S"
+
+msgid "wdgt_va_month"
+msgstr "%B"
+
+msgid "wdgt_va_month_name_short"
+msgstr "%b"
+
+msgid "wdgt_va_pm"
+msgstr "pm"
+
+msgid "wdgt_va_seconds"
+msgstr "%S"
+
+msgid "wdgt_va_week"
+msgstr "%A"
+
+msgid "wdgt_va_week_name_short"
+msgstr "%a"
+
+msgid "wdgt_va_week_number"
+msgstr "%V"
+
+msgid "wdgt_va_week_number_sunday_first"
+msgstr "%U"
+
+msgid "wdgt_va_year"
+msgstr "%Y"
