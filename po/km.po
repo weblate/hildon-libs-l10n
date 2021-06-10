@@ -1,0 +1,493 @@
+# 
+# Translators:
+msgid ""
+msgstr ""
+"Project-Id-Version: n900 extra translations\n"
+"Report-Msgid-Bugs-To: http://code.google.com/p/n900-extra-translations/issues/list\n"
+"POT-Creation-Date: 2009.11.09 11:44+0200\n"
+"PO-Revision-Date: 2012-05-30 14:34+0000\n"
+"Last-Translator: firstfan <firstfan@gmail.com>\n"
+"Language-Team: Khmer (http://www.transifex.net/projects/p/n900-extra-translations/language/km/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: km\n"
+"Plural-Forms: nplurals=1; plural=0\n"
+
+msgid "ckct_ib_date_does_not_exist"
+msgstr "ថ្ងៃខែមិនត្រឹមត្រូវ"
+
+msgid "ckct_ib_find_enter_the_text"
+msgstr "បញ្ចូលអក្សរដើម្បីរកឃើញ"
+
+msgid "ckct_ib_find_no_matches"
+msgstr "រកមិនឃើញ"
+
+msgid "ckct_ib_find_search_complete"
+msgstr "ស្វែងរកបានបញ្ចប់"
+
+msgid "ckct_ib_max_allowed_duration_d"
+msgstr "ថេរវេលាអតិបរមាបានអនុញ្ញាតិគឺ %d"
+
+msgid "ckct_ib_max_allowed_duration_ddd"
+msgstr "ថេរវេលាអតិបរមាបានអនុញ្ញាតិគឺ %1$02d:%2$02d:%3$02d"
+
+msgid "ckct_ib_max_allowed_duration_hts"
+msgstr "ថេរវេលាអតិបរមាបានអនុញ្ញាតិគឺ %1$02d:%2$02d:%3$02d"
+
+msgid "ckct_ib_maximum_value"
+msgstr "តំលៃអតិបរមាគឺ %d"
+
+msgid "ckct_ib_min_allowed_duration_d"
+msgstr "ថេរវេលាអតិបរមាបានអនុញ្ញាតិគឺ %d"
+
+msgid "ckct_ib_min_allowed_duration_ddd"
+msgstr "ថេរវេលាអតិបរមាបានអនុញ្ញាតិគឺ %1$02d:%2$02d:%3$02d"
+
+msgid "ckct_ib_min_allowed_duration_hts"
+msgstr "ថេរវេលាអតិបរមាបានអនុញ្ញាតិគឺ %1$02d:%2$02d:%3$02d"
+
+msgid "ckct_ib_minimum_value"
+msgstr "តំលៃអតិបរមាគឺ %d"
+
+msgid "ckct_ib_set_a_value_within_range"
+msgstr "តំលៃត្រូវតែនៅចន្លោះពី %1$d និង %2$d"
+
+msgid "ckct_wi_grid_no_icons"
+msgstr "គ្មានរូបសញ្ញា"
+
+msgid "ckct_wi_grid_no_items"
+msgstr "គ្មានមុខរបស់"
+
+msgid "ckct_wi_range_separator"
+msgstr "-"
+
+msgid "ckdg_bd_rename_object_dialog_ok"
+msgstr "កែឈ្មោះ"
+
+msgid "ckdg_fi_dialog_c_passwd_new_pwd"
+msgstr "បញ្ចូលលេខសំងាត់:"
+
+msgid "ckdg_fi_dialog_c_passwd_pwd_protect"
+msgstr "លេខសំងាត់ត្រូវបានការពារ:"
+
+msgid "ckdg_fi_dialog_c_passwd_ver_pwd"
+msgstr "ផ្ទៀងភ្ទាត់លេខសំងាត់:"
+
+msgid "ckdg_fi_new_name"
+msgstr "ឈ្មោះ:"
+
+msgid "ckdg_fi_rename_name"
+msgstr "ឈ្មោះ:"
+
+msgid "ckdg_fi_sort_field"
+msgstr "លំដាប់ដោយ:"
+
+msgid "ckdg_fi_sort_order"
+msgstr "លំដាប់:"
+
+msgid "ckdg_ti_dialog_c_passwd_change_password"
+msgstr "ប្តូរលេខសំងាត់"
+
+msgid "ckdg_ti_new_application"
+msgstr "កម្មវិធីថ្មី"
+
+msgid "ckdg_ti_new_bookmark"
+msgstr "សៀវភៅចំណាំថ្មី"
+
+msgid "ckdg_ti_new_certificate"
+msgstr "លិខិតបញ្ជាក់ថ្មី"
+
+msgid "ckdg_ti_new_default"
+msgstr "ថ្មី"
+
+msgid "ckdg_ti_new_document"
+msgstr "ឯកសារថ្មី"
+
+msgid "ckdg_ti_new_folder"
+msgstr "ថតឯកសារថ្មី"
+
+msgid "ckdg_ti_new_html"
+msgstr "ឯកសារ HTML ថ្មី"
+
+msgid "ckdg_ti_new_image"
+msgstr "រូបភាពថ្មី"
+
+msgid "ckdg_ti_new_link"
+msgstr "ផ្លូវកាត់ថ្មី"
+
+msgid "ckdg_ti_new_message"
+msgstr "សារថ្មី"
+
+msgid "ckdg_ti_new_presentation"
+msgstr "ការឧទ្ទេសនាមថ្មី"
+
+msgid "ckdg_ti_new_sound"
+msgstr "កំណាត់សំលេងថ្មី"
+
+msgid "ckdg_ti_new_video"
+msgstr "កំណាត់ភាពយន្តងថ្មី"
+
+msgid "ckdg_ti_new_workbook"
+msgstr "សៀវភៅការងារថ្មី"
+
+msgid "ckdg_ti_new_xml"
+msgstr "ឯកសារ XML ថ្មី"
+
+msgid "ckdg_ti_rename_application"
+msgstr "ប្តូរឈ្មោះកម្មវិធី"
+
+msgid "ckdg_ti_rename_bookmark"
+msgstr "ប្តូរឈ្មោះសៀវភៅចំណាំ"
+
+msgid "ckdg_ti_rename_certificate"
+msgstr "ប្តូរឈ្មោះលិខិតបញ្ជាក់"
+
+msgid "ckdg_ti_rename_default"
+msgstr "ប្តូរឈ្មោះ"
+
+msgid "ckdg_ti_rename_document"
+msgstr "ប្តូរឈ្មោះឯកសារ"
+
+msgid "ckdg_ti_rename_folder"
+msgstr "ប្តូរឈ្មោះថតឯកសារ"
+
+msgid "ckdg_ti_rename_html"
+msgstr "ប្តូរឈ្មោះឯកសារ HTML"
+
+msgid "ckdg_ti_rename_image"
+msgstr "ប្តូរឈ្មោះរូបភាព"
+
+msgid "ckdg_ti_rename_link"
+msgstr "ប្តូរឈ្មោះផ្លូវកាត់"
+
+msgid "ckdg_ti_rename_message"
+msgstr "ប្តូរឈ្មោះសារ"
+
+msgid "ckdg_ti_rename_presentation"
+msgstr "ប្តូរឈ្មោះឧទ្ទេសនាម"
+
+msgid "ckdg_ti_rename_sound"
+msgstr "ប្តូរឈ្មោះកំណាត់សំលេង"
+
+msgid "ckdg_ti_rename_video"
+msgstr "ប្តូរឈ្មោះកំណាត់ភាពយន្ត"
+
+msgid "ckdg_ti_rename_workbook"
+msgstr "ប្តូរឈ្មោះសៀវភៅការងារ"
+
+msgid "ckdg_ti_rename_xml"
+msgstr "ប្តូរឈ្មោះឯកសារ XML"
+
+msgid "ckdg_ti_sort"
+msgstr "លំដាប់"
+
+msgid "ckdg_va_sort_ascending"
+msgstr "លំដាប់ឡើង"
+
+msgid "ckdg_va_sort_date"
+msgstr "ថ្ងៃខែ"
+
+msgid "ckdg_va_sort_descending"
+msgstr "លំដាប់ចុះ"
+
+msgid "ckdg_va_sort_name"
+msgstr "ឈ្មោះ"
+
+msgid "ckdg_va_sort_size"
+msgstr "ទំហំ"
+
+msgid "ecdg_bd_colour_selector_modify"
+msgstr "កែប្រែ"
+
+msgid "ecdg_bd_font_dialog_preview"
+msgstr "មើលជាមុន"
+
+msgid "ecdg_fi_5bit_colour_selector_blue"
+msgstr "ខៀវ"
+
+msgid "ecdg_fi_5bit_colour_selector_green"
+msgstr "បៃតង"
+
+msgid "ecdg_fi_5bit_colour_selector_red"
+msgstr "ក្រហម"
+
+msgid "ecdg_fi_font_bold"
+msgstr "ដិត:"
+
+msgid "ecdg_fi_font_colour_selector"
+msgstr "ពណ៌"
+
+msgid "ecdg_fi_font_font"
+msgstr "ផ្ទៃអក្សរ:"
+
+msgid "ecdg_fi_font_italic"
+msgstr "ផ្តេក:"
+
+msgid "ecdg_fi_font_size"
+msgstr "ទំហំអក្សរ:"
+
+msgid "ecdg_fi_font_special"
+msgstr "ទីតាំង:"
+
+msgid "ecdg_fi_font_strikethrough"
+msgstr "បន្ទាត់ឆូត:"
+
+msgid "ecdg_fi_font_underline"
+msgstr "បន្ទាត់ពីក្រោម:"
+
+msgid "ecdg_fi_get_old_pwd_enter_pwd"
+msgstr "លេខសំងាត់:"
+
+msgid "ecdg_fi_preview_font_preview_reference"
+msgstr "យោងតាម: "
+
+msgid "ecdg_fi_preview_font_preview_text"
+msgstr "ចចកខ្មៅមួយបានលោតរំលងឆ្កែកំជិល"
+
+msgid "ecdg_fi_set_passwd_confirm"
+msgstr "ផ្ទៀងផ្ទាត់លេខសំងាត់"
+
+msgid "ecdg_fi_set_passwd_enter_pwd"
+msgstr "បញ្ចូលលេខសំងាត់ថ្មី"
+
+msgid "ecdg_fi_verify_pwd_enter_pwd"
+msgstr "លេខសំងាត់ៈ"
+
+msgid "ecdg_fi_wizard_description"
+msgstr "%s ផ្ទាំងអនុញ្ញាតិអោយអ្នកទៅ %s.\n\nចុច 'បន្ទាប់' ដើម្បីបន្ត។"
+
+msgid "ecdg_ib_colour_selector_predefined"
+msgstr "មិនអាចកែប្រែពណ៌"
+
+msgid "ecdg_ti_5bit_colour_selector"
+msgstr "កែប្រែពណ៌"
+
+msgid "ecdg_ti_aboutdialog_title"
+msgstr "អំពីកម្មវិធី"
+
+msgid "ecdg_ti_caption_separator"
+msgstr ":"
+
+msgid "ecdg_ti_colour_selector"
+msgstr "បន្ទះពណ៌"
+
+msgid "ecdg_ti_duration_editor_separator"
+msgstr ":"
+
+msgid "ecdg_ti_find_toolbar_label"
+msgstr "រក:"
+
+msgid "ecdg_ti_font"
+msgstr "ពុម្ផអក្សរ"
+
+msgid "ecdg_ti_font_dialog_format"
+msgstr "ទ្រង់ទ្រាយ"
+
+msgid "ecdg_ti_font_dialog_other"
+msgstr "ផ្សេងទៀត"
+
+msgid "ecdg_ti_font_dialog_style"
+msgstr "រចនាបទ"
+
+msgid "ecdg_ti_get_old_password"
+msgstr "លេខសងាត់បច្ចុប្បន្ន"
+
+msgid "ecdg_ti_preview_font"
+msgstr "មើលជាមុន"
+
+msgid "ecdg_ti_set_password"
+msgstr "កំណត់លេខសំងាត់"
+
+msgid "ecdg_ti_time_picker_separator"
+msgstr ":"
+
+msgid "ecdg_ti_verify_password"
+msgstr "ត្រូវការលេខសំងាត់"
+
+msgid "ecdg_ti_wizard_welcome"
+msgstr "%s: ស្វាគមន៍"
+
+msgid "ecdg_va_font_printpos_1"
+msgstr "ធម្មតា"
+
+msgid "ecdg_va_font_printpos_2"
+msgstr "អក្សរតូចលើ"
+
+msgid "ecdg_va_font_printpos_3"
+msgstr "អក្សរតូចក្រោម"
+
+msgid "ecdg_va_font_size_trailer"
+msgstr " pt"
+
+msgid "frw_ti_get_user_name_and_pwd"
+msgstr "ត្រូវការលេខសំងាត់"
+
+msgid "frw_ti_get_user_name_and_pwd_enter_pwd"
+msgstr "លេខសំងាត់:"
+
+msgid "frw_ti_get_user_name_and_pwd_enter_user_name"
+msgstr "ឈ្មោះអ្នកប្រើ"
+
+msgid "wdgt_bd_add"
+msgstr "បន្ថែមទៀត"
+
+msgid "wdgt_bd_back"
+msgstr "ត្រលប់"
+
+msgid "wdgt_bd_delete"
+msgstr "លុបចេញ"
+
+msgid "wdgt_bd_done"
+msgstr "ធ្វើរួច"
+
+msgid "wdgt_bd_edit"
+msgstr "កំណែប្រែ"
+
+msgid "wdgt_bd_finish"
+msgstr "បញ្ចប់"
+
+msgid "wdgt_bd_move"
+msgstr "ផ្លាស់ទី"
+
+msgid "wdgt_bd_new"
+msgstr "ថ្មី"
+
+msgid "wdgt_bd_next"
+msgstr "បន្ទាប់"
+
+msgid "wdgt_bd_no"
+msgstr "ទេ"
+
+msgid "wdgt_bd_previous"
+msgstr "មុននេះ"
+
+msgid "wdgt_bd_rename"
+msgstr "ប្តូរឈ្មោះ"
+
+msgid "wdgt_bd_save"
+msgstr "រក្សា"
+
+msgid "wdgt_bd_search"
+msgstr "ស្វែងរក"
+
+msgid "wdgt_bd_share"
+msgstr "ចែកចាយ"
+
+msgid "wdgt_bd_sort"
+msgstr "តំរៀប"
+
+msgid "wdgt_bd_stop"
+msgstr "ផ្អាក"
+
+msgid "wdgt_bd_view"
+msgstr "មើល"
+
+msgid "wdgt_bd_yes"
+msgstr "បាទ/ចាស៎"
+
+msgid "wdgt_ib_volume"
+msgstr "កំរិតសំលេង %d%%"
+
+msgid "wdgt_ib_zoom"
+msgstr "ពង្រីកបង្រួម %d%%"
+
+msgid "wdgt_ti_date"
+msgstr "ថ្ងៃខែ"
+
+msgid "wdgt_ti_time"
+msgstr "ពេល"
+
+msgid "wdgt_va_12h_hours"
+msgstr "%l"
+
+msgid "wdgt_va_12h_time_am"
+msgstr "%l:%M am"
+
+msgid "wdgt_va_12h_time_pm"
+msgstr "%l:%M pm"
+
+msgid "wdgt_va_24h_hours"
+msgstr "%H"
+
+msgid "wdgt_va_24h_time"
+msgstr "%H:%M"
+
+msgid "wdgt_va_ago_one_day"
+msgid_plural "wdgt_va_ago_days"
+msgstr[0] "1 ថ្ងៃកន្លង"
+
+msgid "wdgt_va_ago_one_hour"
+msgid_plural "wdgt_va_ago_hours"
+msgstr[0] "1 ម៉ោងកន្លង"
+
+msgid "wdgt_va_ago_one_minute"
+msgid_plural "wdgt_va_ago_minutes"
+msgstr[0] "1 នាទីកន្លង"
+
+msgid "wdgt_va_ago_one_year"
+msgid_plural "wdgt_va_ago_years"
+msgstr[0] "1 ឆ្នាំកន្លង"
+
+msgid "wdgt_va_am"
+msgstr "am"
+
+msgid "wdgt_va_date"
+msgstr "%m/%d/%Y"
+
+msgid "wdgt_va_date_day_name_short"
+msgstr "%a %m/%d"
+
+msgid "wdgt_va_date_long"
+msgstr "%A, %B %e, %Y"
+
+msgid "wdgt_va_date_medium"
+msgstr "%B %e, %Y"
+
+msgid "wdgt_va_date_short"
+msgstr "%m/%d"
+
+msgid "wdgt_va_day_numeric"
+msgstr "%e"
+
+msgid "wdgt_va_full_24h_time"
+msgstr "%T"
+
+msgid "wdgt_va_fulldate_day_name_short"
+msgstr "%a %m/%d/%y"
+
+msgid "wdgt_va_fullmonth_year"
+msgstr "%B %Y"
+
+msgid "wdgt_va_minutes"
+msgstr "%M"
+
+msgid "wdgt_va_minutes_seconds"
+msgstr "%M:%S"
+
+msgid "wdgt_va_month"
+msgstr "%B"
+
+msgid "wdgt_va_month_name_short"
+msgstr "%b"
+
+msgid "wdgt_va_pm"
+msgstr "pm"
+
+msgid "wdgt_va_seconds"
+msgstr "%S"
+
+msgid "wdgt_va_week"
+msgstr "%A"
+
+msgid "wdgt_va_week_name_short"
+msgstr "%a"
+
+msgid "wdgt_va_week_number"
+msgstr "%V"
+
+msgid "wdgt_va_week_number_sunday_first"
+msgstr "%U"
+
+msgid "wdgt_va_year"
+msgstr "%Y"
