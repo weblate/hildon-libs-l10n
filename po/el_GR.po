@@ -1,0 +1,497 @@
+# 
+# Translators:
+msgid ""
+msgstr ""
+"Project-Id-Version: n900 extra translations\n"
+"Report-Msgid-Bugs-To: http://code.google.com/p/n900-extra-translations/issues/list\n"
+"POT-Creation-Date: 2009.11.09 11:44+0200\n"
+"PO-Revision-Date: 2010-11-30 11:30+0000\n"
+"Last-Translator: \n"
+"Language-Team: Greek (http://www.transifex.net/projects/p/n900-extra-translations/language/el/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: el\n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+
+msgid "ckct_ib_date_does_not_exist"
+msgstr "Μη έγκυρη ημερομηνία"
+
+msgid "ckct_ib_find_enter_the_text"
+msgstr "Εισάγετε το κείμενο για εύρεση"
+
+msgid "ckct_ib_find_no_matches"
+msgstr "Δεν βρέθηκαν αντιστοιχίες"
+
+msgid "ckct_ib_find_search_complete"
+msgstr "Η αναζήτηση ολοκληρώθηκε"
+
+msgid "ckct_ib_max_allowed_duration_d"
+msgstr "Η μέγιστη επιτρεπόμενη διάρκεια είναι %d"
+
+msgid "ckct_ib_max_allowed_duration_ddd"
+msgstr "Η μέγιστη επιτρεπόμενη διάρκεια είναι %1$02d:%2$02d:%3$02d"
+
+msgid "ckct_ib_max_allowed_duration_hts"
+msgstr "Η μέγιστη επιτρεπόμενη διάρκεια είναι %1$02d:%2$02d:%3$02d"
+
+msgid "ckct_ib_maximum_value"
+msgstr "Η μέγιστη τιμή είναι %d"
+
+msgid "ckct_ib_min_allowed_duration_d"
+msgstr "Η ελάχιστη επιτρεπόμενη διάρκεια είναι %d"
+
+msgid "ckct_ib_min_allowed_duration_ddd"
+msgstr "Η ελάχιστη επιτρεπόμενη διάρκεια είναι %1$02d:%2$02d:%3$02d"
+
+msgid "ckct_ib_min_allowed_duration_hts"
+msgstr "Η ελάχιστη επιτρεπόμενη διάρκεια είναι %1$02d:%2$02d:%3$02d"
+
+msgid "ckct_ib_minimum_value"
+msgstr "Η ελάχιστη τιμή είναι %d"
+
+msgid "ckct_ib_set_a_value_within_range"
+msgstr "Η τιμή πρέπει να είναι μεταξύ %1$d και %2$d"
+
+msgid "ckct_wi_grid_no_icons"
+msgstr "Δεν  υπάρχουν εικονίδια"
+
+msgid "ckct_wi_grid_no_items"
+msgstr "Δεν υπάρχουν στοιχεία"
+
+msgid "ckct_wi_range_separator"
+msgstr "-"
+
+msgid "ckdg_bd_rename_object_dialog_ok"
+msgstr "Μετονομασία"
+
+msgid "ckdg_fi_dialog_c_passwd_new_pwd"
+msgstr "Εισάγετε το νέο κωδικό πρόσβασης:"
+
+msgid "ckdg_fi_dialog_c_passwd_pwd_protect"
+msgstr "Προστατευόμενος κωδικός πρόσβασης:"
+
+msgid "ckdg_fi_dialog_c_passwd_ver_pwd"
+msgstr "Επιβεβαίωση κωδικού πρόσβασης:"
+
+msgid "ckdg_fi_new_name"
+msgstr "Όνομα:"
+
+msgid "ckdg_fi_rename_name"
+msgstr "Όνομα:"
+
+msgid "ckdg_fi_sort_field"
+msgstr "Ταξινόμηση κατά:"
+
+msgid "ckdg_fi_sort_order"
+msgstr "Διάταξη:"
+
+msgid "ckdg_ti_dialog_c_passwd_change_password"
+msgstr "Αλλαγή κωδικού πρόσβασης"
+
+msgid "ckdg_ti_new_application"
+msgstr "Νέα εφαρμογή"
+
+msgid "ckdg_ti_new_bookmark"
+msgstr "Νέος σελιδοδείκτης"
+
+msgid "ckdg_ti_new_certificate"
+msgstr "Νέο πιστοποιητικό"
+
+msgid "ckdg_ti_new_default"
+msgstr "Νέο"
+
+msgid "ckdg_ti_new_document"
+msgstr "Νέο έγγραφο"
+
+msgid "ckdg_ti_new_folder"
+msgstr "Νέος φάκελος"
+
+msgid "ckdg_ti_new_html"
+msgstr "Νέο έγγραφο HTML"
+
+msgid "ckdg_ti_new_image"
+msgstr "Νέα εικόνα"
+
+msgid "ckdg_ti_new_link"
+msgstr "Νέα συντόμευση"
+
+msgid "ckdg_ti_new_message"
+msgstr "Νέο μήνυμα"
+
+msgid "ckdg_ti_new_presentation"
+msgstr "Νέα παρουσίαση"
+
+msgid "ckdg_ti_new_sound"
+msgstr "Νέο κλιπ ήχου"
+
+msgid "ckdg_ti_new_video"
+msgstr "Νέο βίντεο κλιπ"
+
+msgid "ckdg_ti_new_workbook"
+msgstr "Νέο βιβλίο εργασιών"
+
+msgid "ckdg_ti_new_xml"
+msgstr "Νέο έγγραφο XML"
+
+msgid "ckdg_ti_rename_application"
+msgstr "Μετονομασία εφαρμογής"
+
+msgid "ckdg_ti_rename_bookmark"
+msgstr "Μετονομασία σελιδοδείκτη"
+
+msgid "ckdg_ti_rename_certificate"
+msgstr "Μετονομασία πιστοποιητικού"
+
+msgid "ckdg_ti_rename_default"
+msgstr "Μετονομασία"
+
+msgid "ckdg_ti_rename_document"
+msgstr "Μετονομασία εγγράφου"
+
+msgid "ckdg_ti_rename_folder"
+msgstr "Μετονομασία φακέλου"
+
+msgid "ckdg_ti_rename_html"
+msgstr "Μετονομασία εγγράφου HTML"
+
+msgid "ckdg_ti_rename_image"
+msgstr "Μετονομασία εικόνας"
+
+msgid "ckdg_ti_rename_link"
+msgstr "Μετονομασία συντόμευσης"
+
+msgid "ckdg_ti_rename_message"
+msgstr "Μετονομασία μηνύματος"
+
+msgid "ckdg_ti_rename_presentation"
+msgstr "Μετονομασία παρουσίασης"
+
+msgid "ckdg_ti_rename_sound"
+msgstr "Μετονομασία κλιπ ήχου"
+
+msgid "ckdg_ti_rename_video"
+msgstr "Μετονομασία βίντεο κλιπ"
+
+msgid "ckdg_ti_rename_workbook"
+msgstr "Μετονομασία βιβλίου εργασιών"
+
+msgid "ckdg_ti_rename_xml"
+msgstr "Μετονομασία εγγράφου XML"
+
+msgid "ckdg_ti_sort"
+msgstr "Ταξινόμηση"
+
+msgid "ckdg_va_sort_ascending"
+msgstr "Αύξουσα"
+
+msgid "ckdg_va_sort_date"
+msgstr "Ημερομηνία"
+
+msgid "ckdg_va_sort_descending"
+msgstr "Φθίνουσα"
+
+msgid "ckdg_va_sort_name"
+msgstr "Όνομα"
+
+msgid "ckdg_va_sort_size"
+msgstr "Μέγεθος"
+
+msgid "ecdg_bd_colour_selector_modify"
+msgstr "Τροποποίηση"
+
+msgid "ecdg_bd_font_dialog_preview"
+msgstr "Προεπισκόπηση"
+
+msgid "ecdg_fi_5bit_colour_selector_blue"
+msgstr "Μπλε"
+
+msgid "ecdg_fi_5bit_colour_selector_green"
+msgstr "Πράσινο"
+
+msgid "ecdg_fi_5bit_colour_selector_red"
+msgstr "Κόκκινο"
+
+msgid "ecdg_fi_font_bold"
+msgstr "Έντονα:"
+
+msgid "ecdg_fi_font_colour_selector"
+msgstr "Χρώμα:"
+
+msgid "ecdg_fi_font_font"
+msgstr "Όψη γραμματοσειράς:"
+
+msgid "ecdg_fi_font_italic"
+msgstr "Πλάγια:"
+
+msgid "ecdg_fi_font_size"
+msgstr "Μέγεθος γραμματοσειράς:"
+
+msgid "ecdg_fi_font_special"
+msgstr "Τοποθέτηση:"
+
+msgid "ecdg_fi_font_strikethrough"
+msgstr "Διακριτή διαγραφή:"
+
+msgid "ecdg_fi_font_underline"
+msgstr "Υπογράμμιση:"
+
+msgid "ecdg_fi_get_old_pwd_enter_pwd"
+msgstr "Κωδικός πρόσβασης:"
+
+msgid "ecdg_fi_preview_font_preview_reference"
+msgstr "Αναφορά:"
+
+msgid "ecdg_fi_preview_font_preview_text"
+msgstr "Η σύσκεψη θα γίνει το μεσημέρι"
+
+msgid "ecdg_fi_set_passwd_confirm"
+msgstr "Επιβεβαίωση κωδικού πρόσβασης"
+
+msgid "ecdg_fi_set_passwd_enter_pwd"
+msgstr "Εισαγωγή νέου κωδικού πρόσβασης"
+
+msgid "ecdg_fi_verify_pwd_enter_pwd"
+msgstr "Κωδικός πρόσβασης:"
+
+msgid "ecdg_fi_wizard_description"
+msgstr "Ο οδηγός %s σας επιτρέπει να %s.\n\nΠατήστε 'Επόμενο' για να συνεχίσετε."
+
+msgid "ecdg_ib_colour_selector_predefined"
+msgstr "Αδύνατη η τροποποίηση του χρώματος"
+
+msgid "ecdg_ti_5bit_colour_selector"
+msgstr "Τροποποίηση χρώματος"
+
+msgid "ecdg_ti_aboutdialog_title"
+msgstr "Σχετικά με την εφαρμογή"
+
+msgid "ecdg_ti_caption_separator"
+msgstr ":"
+
+msgid "ecdg_ti_colour_selector"
+msgstr "Παλέτα χρωμάτων"
+
+msgid "ecdg_ti_duration_editor_separator"
+msgstr ":"
+
+msgid "ecdg_ti_find_toolbar_label"
+msgstr "Εύρεση:"
+
+msgid "ecdg_ti_font"
+msgstr "Γραμματοσειρά"
+
+msgid "ecdg_ti_font_dialog_format"
+msgstr "Διαμόρφωση"
+
+msgid "ecdg_ti_font_dialog_other"
+msgstr "Άλλα"
+
+msgid "ecdg_ti_font_dialog_style"
+msgstr "Στυλ"
+
+msgid "ecdg_ti_get_old_password"
+msgstr "Τρέχων κωδικός πρόσβασης"
+
+msgid "ecdg_ti_preview_font"
+msgstr "Προεπισκόπηση"
+
+msgid "ecdg_ti_set_password"
+msgstr "Ορισμός κωδικού πρόσβασης"
+
+msgid "ecdg_ti_time_picker_separator"
+msgstr ":"
+
+msgid "ecdg_ti_verify_password"
+msgstr "Απαιτείται κωδικός πρόσβασης"
+
+msgid "ecdg_ti_wizard_welcome"
+msgstr "%s: Καλώς ορίσατε"
+
+msgid "ecdg_va_font_printpos_1"
+msgstr "Κανονική"
+
+msgid "ecdg_va_font_printpos_2"
+msgstr "Εκθέτης"
+
+msgid "ecdg_va_font_printpos_3"
+msgstr "Δείκτης"
+
+msgid "ecdg_va_font_size_trailer"
+msgstr " pt"
+
+msgid "frw_ti_get_user_name_and_pwd"
+msgstr "Απαιτείται κωδικός πρόσβασης"
+
+msgid "frw_ti_get_user_name_and_pwd_enter_pwd"
+msgstr "Κωδικός πρόσβασης:"
+
+msgid "frw_ti_get_user_name_and_pwd_enter_user_name"
+msgstr "Όνομα χρήστη"
+
+msgid "wdgt_bd_add"
+msgstr "Περισσότερα"
+
+msgid "wdgt_bd_back"
+msgstr "Πίσω"
+
+msgid "wdgt_bd_delete"
+msgstr "Διαγραφή"
+
+msgid "wdgt_bd_done"
+msgstr "Εντάξει"
+
+msgid "wdgt_bd_edit"
+msgstr "Επεξεργασία"
+
+msgid "wdgt_bd_finish"
+msgstr "Τέλος"
+
+msgid "wdgt_bd_move"
+msgstr "Μετακίνηση"
+
+msgid "wdgt_bd_new"
+msgstr "Νέο"
+
+msgid "wdgt_bd_next"
+msgstr "Επόμενο"
+
+msgid "wdgt_bd_no"
+msgstr "Όχι"
+
+msgid "wdgt_bd_previous"
+msgstr "Προηγούμενο"
+
+msgid "wdgt_bd_rename"
+msgstr "Μετονομασία"
+
+msgid "wdgt_bd_save"
+msgstr "Αποθήκευση"
+
+msgid "wdgt_bd_search"
+msgstr "Αναζήτηση"
+
+msgid "wdgt_bd_share"
+msgstr "Κοινή χρήση"
+
+msgid "wdgt_bd_sort"
+msgstr "Ταξινόμηση"
+
+msgid "wdgt_bd_stop"
+msgstr "Διακοπή"
+
+msgid "wdgt_bd_view"
+msgstr "Προβολή"
+
+msgid "wdgt_bd_yes"
+msgstr "Ναι"
+
+msgid "wdgt_ib_volume"
+msgstr "Ένταση %d%%"
+
+msgid "wdgt_ib_zoom"
+msgstr "Μεγέθυνση %d%%"
+
+msgid "wdgt_ti_date"
+msgstr "Ημερομηνία"
+
+msgid "wdgt_ti_time"
+msgstr "Ώρα"
+
+msgid "wdgt_va_12h_hours"
+msgstr "%l"
+
+msgid "wdgt_va_12h_time_am"
+msgstr "%l:%M π.μ."
+
+msgid "wdgt_va_12h_time_pm"
+msgstr "%l:%M μ.μ."
+
+msgid "wdgt_va_24h_hours"
+msgstr "%H"
+
+msgid "wdgt_va_24h_time"
+msgstr "%H:%M"
+
+msgid "wdgt_va_ago_one_day"
+msgid_plural "wdgt_va_ago_days"
+msgstr[0] "Μια ημέρα πριν"
+msgstr[1] "%d μέρες πριν"
+
+msgid "wdgt_va_ago_one_hour"
+msgid_plural "wdgt_va_ago_hours"
+msgstr[0] "Μια ώρα πριν"
+msgstr[1] "%d ώρες πριν"
+
+msgid "wdgt_va_ago_one_minute"
+msgid_plural "wdgt_va_ago_minutes"
+msgstr[0] "Ένα λεπτό πριν"
+msgstr[1] "%d λεπτά πριν"
+
+msgid "wdgt_va_ago_one_year"
+msgid_plural "wdgt_va_ago_years"
+msgstr[0] "Ένα χρόνο πριν"
+msgstr[1] "%d χρόνια πριν"
+
+msgid "wdgt_va_am"
+msgstr "π.μ."
+
+msgid "wdgt_va_date"
+msgstr "%d/%m/%Y"
+
+msgid "wdgt_va_date_day_name_short"
+msgstr "%a %d/%m"
+
+msgid "wdgt_va_date_long"
+msgstr "%A %e %b %Y"
+
+msgid "wdgt_va_date_medium"
+msgstr "%e %b %Y"
+
+msgid "wdgt_va_date_short"
+msgstr "%d/%m"
+
+msgid "wdgt_va_day_numeric"
+msgstr "%e"
+
+msgid "wdgt_va_full_24h_time"
+msgstr "%T"
+
+msgid "wdgt_va_fulldate_day_name_short"
+msgstr "%a %d/%m/%y"
+
+msgid "wdgt_va_fullmonth_year"
+msgstr "%B %Y"
+
+msgid "wdgt_va_minutes"
+msgstr "%M"
+
+msgid "wdgt_va_minutes_seconds"
+msgstr "%M:%S"
+
+msgid "wdgt_va_month"
+msgstr "%B"
+
+msgid "wdgt_va_month_name_short"
+msgstr "%b"
+
+msgid "wdgt_va_pm"
+msgstr "μ.μ."
+
+msgid "wdgt_va_seconds"
+msgstr "%S"
+
+msgid "wdgt_va_week"
+msgstr "%A"
+
+msgid "wdgt_va_week_name_short"
+msgstr "%a"
+
+msgid "wdgt_va_week_number"
+msgstr "%V"
+
+msgid "wdgt_va_week_number_sunday_first"
+msgstr "%U"
+
+msgid "wdgt_va_year"
+msgstr "%Y"
