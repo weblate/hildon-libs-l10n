@@ -1,0 +1,497 @@
+# 
+# Translators:
+msgid ""
+msgstr ""
+"Project-Id-Version: n900 extra translations\n"
+"Report-Msgid-Bugs-To: http://code.google.com/p/n900-extra-translations/issues/list\n"
+"POT-Creation-Date: 2009.11.09 11:44+0200\n"
+"PO-Revision-Date: 2010-11-30 11:30+0000\n"
+"Last-Translator: \n"
+"Language-Team: Panjabi (Punjabi) (http://www.transifex.net/projects/p/n900-extra-translations/language/pa/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: pa\n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+
+msgid "ckct_ib_date_does_not_exist"
+msgstr "ਗਲਤ ਮਿਤੀ"
+
+msgid "ckct_ib_find_enter_the_text"
+msgstr "ਲੱਭਣ ਲਈ ਟੈਕਸਟ ਇੱਥੇ ਦਿਓ"
+
+msgid "ckct_ib_find_no_matches"
+msgstr "ਕੋਈ ਮੇਲ ਨਹੀਂ ਲੱਭਿਆ"
+
+msgid "ckct_ib_find_search_complete"
+msgstr "ਖੋਜ ਪੂਰੀ"
+
+msgid "ckct_ib_max_allowed_duration_d"
+msgstr "Maximum allowed duration is %d"
+
+msgid "ckct_ib_max_allowed_duration_ddd"
+msgstr "Maximum allowed duration is %1$02d:%2$02d:%3$02d"
+
+msgid "ckct_ib_max_allowed_duration_hts"
+msgstr "Maximum allowed duration is %1$02d:%2$02d:%3$02d"
+
+msgid "ckct_ib_maximum_value"
+msgstr "Maximum value is %d"
+
+msgid "ckct_ib_min_allowed_duration_d"
+msgstr "Minimum allowed duration is %d"
+
+msgid "ckct_ib_min_allowed_duration_ddd"
+msgstr "Minimum allowed duration is %1$02d:%2$02d:%3$02d"
+
+msgid "ckct_ib_min_allowed_duration_hts"
+msgstr "Minimum allowed duration is %1$02d:%2$02d:%3$02d"
+
+msgid "ckct_ib_minimum_value"
+msgstr "Minimum value is %d"
+
+msgid "ckct_ib_set_a_value_within_range"
+msgstr "Value must be between %1$d and %2$d"
+
+msgid "ckct_wi_grid_no_icons"
+msgstr "ਆਈਕਾਨ ਨਹੀਂ"
+
+msgid "ckct_wi_grid_no_items"
+msgstr "ਆਈਟਮਾਂ ਨਹੀਂ"
+
+msgid "ckct_wi_range_separator"
+msgstr "-"
+
+msgid "ckdg_bd_rename_object_dialog_ok"
+msgstr "ਨਾਂ ਬਦਲੋ"
+
+msgid "ckdg_fi_dialog_c_passwd_new_pwd"
+msgstr "ਨਵਾਂ ਪਾਸਵਰਡ ਦਿਓ:"
+
+msgid "ckdg_fi_dialog_c_passwd_pwd_protect"
+msgstr "ਪਾਸਵਰਡ ਸੁਰੱਖਿਅਤ:"
+
+msgid "ckdg_fi_dialog_c_passwd_ver_pwd"
+msgstr "ਪਾਸਵਰਡ ਪੁਸ਼ਟੀ:"
+
+msgid "ckdg_fi_new_name"
+msgstr "ਨਾਂ:"
+
+msgid "ckdg_fi_rename_name"
+msgstr "ਨਾਂ:"
+
+msgid "ckdg_fi_sort_field"
+msgstr "ਲੜੀਬੱਧ:"
+
+msgid "ckdg_fi_sort_order"
+msgstr "ਕ੍ਰਮ:"
+
+msgid "ckdg_ti_dialog_c_passwd_change_password"
+msgstr "ਪਾਸਵਰਡ ਬਦਲੋ"
+
+msgid "ckdg_ti_new_application"
+msgstr "ਨਵੀਂ ਐਪਲੀਕੇਸ਼ਨ"
+
+msgid "ckdg_ti_new_bookmark"
+msgstr "ਨਵਾਂ ਬੁੱਕਮਾਰਕ"
+
+msgid "ckdg_ti_new_certificate"
+msgstr "ਨਵਾਂ ਸਰਟੀਫਿਕੇਟ"
+
+msgid "ckdg_ti_new_default"
+msgstr "ਨਵਾਂ"
+
+msgid "ckdg_ti_new_document"
+msgstr "ਨਵਾਂ ਡੌਕੂਮੈਂਟ"
+
+msgid "ckdg_ti_new_folder"
+msgstr "ਨਵਾਂ ਫੋਲਡਰ"
+
+msgid "ckdg_ti_new_html"
+msgstr "ਨਵਾਂ HTML ਡੌਕੂਮੈਂਟ"
+
+msgid "ckdg_ti_new_image"
+msgstr "ਨਵਾਂ ਚਿੱਤਰ"
+
+msgid "ckdg_ti_new_link"
+msgstr "ਨਵਾਂ ਸ਼ਾਰਟਕੱਟ"
+
+msgid "ckdg_ti_new_message"
+msgstr "ਨਵਾਂ ਸੁਨੇਹਾ"
+
+msgid "ckdg_ti_new_presentation"
+msgstr "ਨਵੀਂ ਪਰਿਜੈਂਟੇਸ਼ਨ"
+
+msgid "ckdg_ti_new_sound"
+msgstr "ਨਵੀਂ ਆਡੀਓ ਕਲਿੱਪ"
+
+msgid "ckdg_ti_new_video"
+msgstr "ਨਵੀਂ ਵਿਡੀਓ ਕਲਿੱਪ"
+
+msgid "ckdg_ti_new_workbook"
+msgstr "ਨਵੀਂ ਵਰਕਬੁੱਕ"
+
+msgid "ckdg_ti_new_xml"
+msgstr "ਨਵਾਂ XML ਡੌਕੂਮੈਂਟ"
+
+msgid "ckdg_ti_rename_application"
+msgstr "ਐਪਲੀਕੇਸ਼ਨ ਨਾਂ ਬਦਲੋ"
+
+msgid "ckdg_ti_rename_bookmark"
+msgstr "ਬੁੱਕਮਾਰਕ ਨਾਂ ਬਦਲੋ"
+
+msgid "ckdg_ti_rename_certificate"
+msgstr "ਸਰਟੀਫਿਕੇਟ ਨਾਂ ਬਦਲੋ"
+
+msgid "ckdg_ti_rename_default"
+msgstr "ਨਾਂ ਬਦਲੋ"
+
+msgid "ckdg_ti_rename_document"
+msgstr "ਡੌਕੂਮੈਂਟ ਨਾਂ ਬਦਲੋ"
+
+msgid "ckdg_ti_rename_folder"
+msgstr "ਫੋਲਡਰ ਨਾਂ ਬਦਲੋ"
+
+msgid "ckdg_ti_rename_html"
+msgstr "HTML ਡੌਕੂਮੈਂਟ ਨਾਂ ਬਦਲੋ"
+
+msgid "ckdg_ti_rename_image"
+msgstr "ਚਿੱਤਰ ਨਾਂ ਬਦਲੋ"
+
+msgid "ckdg_ti_rename_link"
+msgstr "ਸ਼ਾਰਟਕੱਟ ਨਾਂ ਬਦਲੋ"
+
+msgid "ckdg_ti_rename_message"
+msgstr "ਸੁਨੇਹਾ ਨਾਂ ਬਦਲੋ"
+
+msgid "ckdg_ti_rename_presentation"
+msgstr "ਪਰਿਜੈੱਟੇਸ਼ਨ ਨਾਂ ਬਦਲੋ"
+
+msgid "ckdg_ti_rename_sound"
+msgstr "ਆਡੀਓ ਕਲਿੱਪ ਨਾਂ ਬਦਲੋ"
+
+msgid "ckdg_ti_rename_video"
+msgstr "ਵਿਡੀਓ ਕਲਿੱਪ ਨਾਂ ਬਦਲੋ"
+
+msgid "ckdg_ti_rename_workbook"
+msgstr "ਵਰਕਬੁੱਕ ਨਾਂ ਬਦਲੋ"
+
+msgid "ckdg_ti_rename_xml"
+msgstr "XML ਡੌਕੂਮੈਂਟ ਨਾਂ ਬਦਲੋ"
+
+msgid "ckdg_ti_sort"
+msgstr "ਲੜੀਬੱਧ"
+
+msgid "ckdg_va_sort_ascending"
+msgstr "ਵੱਧਦਾ ਕ੍ਰਮ"
+
+msgid "ckdg_va_sort_date"
+msgstr "ਮਿਤੀ"
+
+msgid "ckdg_va_sort_descending"
+msgstr "ਘੱਟਦਾ ਕ੍ਰਮ"
+
+msgid "ckdg_va_sort_name"
+msgstr "ਨਾਂ"
+
+msgid "ckdg_va_sort_size"
+msgstr "ਆਕਾਰ"
+
+msgid "ecdg_bd_colour_selector_modify"
+msgstr "ਸੋਧ"
+
+msgid "ecdg_bd_font_dialog_preview"
+msgstr "ਝਲਕ"
+
+msgid "ecdg_fi_5bit_colour_selector_blue"
+msgstr "ਨੀਲਾ"
+
+msgid "ecdg_fi_5bit_colour_selector_green"
+msgstr "ਹਰਾ"
+
+msgid "ecdg_fi_5bit_colour_selector_red"
+msgstr "ਲਾਲ"
+
+msgid "ecdg_fi_font_bold"
+msgstr "ਗੂੜ੍ਹੇ:"
+
+msgid "ecdg_fi_font_colour_selector"
+msgstr "ਰੰਗ:"
+
+msgid "ecdg_fi_font_font"
+msgstr "ਫੋਂਟ ਸ਼ਕਲ:"
+
+msgid "ecdg_fi_font_italic"
+msgstr "ਤਿਰਛੇ:"
+
+msgid "ecdg_fi_font_size"
+msgstr "ਫੋਂਟ ਆਕਾਰ:"
+
+msgid "ecdg_fi_font_special"
+msgstr "ਸਥਿਤੀ:"
+
+msgid "ecdg_fi_font_strikethrough"
+msgstr "ਵਿੰਨ੍ਹੇ:"
+
+msgid "ecdg_fi_font_underline"
+msgstr "ਹੇਠਾਂ ਲਾਈਨ:"
+
+msgid "ecdg_fi_get_old_pwd_enter_pwd"
+msgstr "ਪਾਸਵਰਡ:"
+
+msgid "ecdg_fi_preview_font_preview_reference"
+msgstr "ਹਵਾਲਾ:"
+
+msgid "ecdg_fi_preview_font_preview_text"
+msgstr "The quick brown fox jumps over the lazy dog"
+
+msgid "ecdg_fi_set_passwd_confirm"
+msgstr "ਪਾਸਵਰਡ ਪੁਸ਼ਟੀ"
+
+msgid "ecdg_fi_set_passwd_enter_pwd"
+msgstr "ਨਵਾਂ ਪਾਸਵਰਡ ਦਿਓ"
+
+msgid "ecdg_fi_verify_pwd_enter_pwd"
+msgstr "ਪਾਸਵਰਡ:"
+
+msgid "ecdg_fi_wizard_description"
+msgstr "%s ਸਹਾਇਕ ਤੁਹਾਨੂੰ %s ਵਾਸਤੇ ਮੱਦਦ ਕਰੇਗਾ।\n\nਜਾਰੀ ਰੱਖਣ ਲਈ 'ਅੱਗੇ' ਛੂਹੋ।"
+
+msgid "ecdg_ib_colour_selector_predefined"
+msgstr "ਰੰਗ ਸੋਧਣ ਲਈ ਅਸਮਰੱਥ"
+
+msgid "ecdg_ti_5bit_colour_selector"
+msgstr "ਰੰਗ ਸੋਧ"
+
+msgid "ecdg_ti_aboutdialog_title"
+msgstr "ਐਪਲੀਕੇਸ਼ਨ ਬਾਰੇ"
+
+msgid "ecdg_ti_caption_separator"
+msgstr ":"
+
+msgid "ecdg_ti_colour_selector"
+msgstr "ਰੰਗ ਪਲੇਅਟ"
+
+msgid "ecdg_ti_duration_editor_separator"
+msgstr ":"
+
+msgid "ecdg_ti_find_toolbar_label"
+msgstr "ਲੱਭੋ:"
+
+msgid "ecdg_ti_font"
+msgstr "ਫੋਂਟ"
+
+msgid "ecdg_ti_font_dialog_format"
+msgstr "ਫਾਰਮੈਟ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ"
+
+msgid "ecdg_ti_font_dialog_other"
+msgstr "ਹੋਰ"
+
+msgid "ecdg_ti_font_dialog_style"
+msgstr "ਸਟਾਈਲ"
+
+msgid "ecdg_ti_get_old_password"
+msgstr "ਮੌਜੂਦਾ ਪਾਸਵਰਡ"
+
+msgid "ecdg_ti_preview_font"
+msgstr "ਝਲਕ"
+
+msgid "ecdg_ti_set_password"
+msgstr "ਪਾਸਵਰਡ ਸੈੱਟ ਕਰੋ"
+
+msgid "ecdg_ti_time_picker_separator"
+msgstr ":"
+
+msgid "ecdg_ti_verify_password"
+msgstr "ਪਾਸਵਰਡ ਚਾਹੀਦਾ ਹੈ"
+
+msgid "ecdg_ti_wizard_welcome"
+msgstr "%s: ਜੀ ਆਇਆਂ ਨੂੰ"
+
+msgid "ecdg_va_font_printpos_1"
+msgstr "ਸਧਾਰਨ"
+
+msgid "ecdg_va_font_printpos_2"
+msgstr "ਘਾਤ"
+
+msgid "ecdg_va_font_printpos_3"
+msgstr "ਪੈਰ ਵਿੱਚ"
+
+msgid "ecdg_va_font_size_trailer"
+msgstr " pt"
+
+msgid "frw_ti_get_user_name_and_pwd"
+msgstr "ਪਾਸਵਰਡ ਚਾਹੀਦਾ ਹੈ"
+
+msgid "frw_ti_get_user_name_and_pwd_enter_pwd"
+msgstr "ਪਾਸਵਰਡ:"
+
+msgid "frw_ti_get_user_name_and_pwd_enter_user_name"
+msgstr "ਯੂਜ਼ਰ ਨਾਂ"
+
+msgid "wdgt_bd_add"
+msgstr "ਹੋਰ"
+
+msgid "wdgt_bd_back"
+msgstr "ਪਿੱਛੇ"
+
+msgid "wdgt_bd_delete"
+msgstr "ਹਟਾਓ"
+
+msgid "wdgt_bd_done"
+msgstr "ਮੁਕੰਮਲ"
+
+msgid "wdgt_bd_edit"
+msgstr "ਸੋਧ"
+
+msgid "wdgt_bd_finish"
+msgstr "ਮੁਕੰਮਲ"
+
+msgid "wdgt_bd_move"
+msgstr "ਭੇਜੋ"
+
+msgid "wdgt_bd_new"
+msgstr "ਨਵਾਂ"
+
+msgid "wdgt_bd_next"
+msgstr "ਅੱਗੇ"
+
+msgid "wdgt_bd_no"
+msgstr "ਨਹੀਂ"
+
+msgid "wdgt_bd_previous"
+msgstr "ਪਿੱਛੇ"
+
+msgid "wdgt_bd_rename"
+msgstr "ਨਾਂ ਬਦਲੋ"
+
+msgid "wdgt_bd_save"
+msgstr "ਸੰਭਾਲੋ"
+
+msgid "wdgt_bd_search"
+msgstr "ਖੋਜ"
+
+msgid "wdgt_bd_share"
+msgstr "ਸਾਂਝਾ"
+
+msgid "wdgt_bd_sort"
+msgstr "ਲੜੀਬੱਧ"
+
+msgid "wdgt_bd_stop"
+msgstr "ਰੋਕੋ"
+
+msgid "wdgt_bd_view"
+msgstr "ਵੇਖੋ"
+
+msgid "wdgt_bd_yes"
+msgstr "ਹਾਂ"
+
+msgid "wdgt_ib_volume"
+msgstr "ਆਵਾਜ਼ %d%%"
+
+msgid "wdgt_ib_zoom"
+msgstr "ਜ਼ੂਮ %d%%"
+
+msgid "wdgt_ti_date"
+msgstr "ਮਿਤੀ"
+
+msgid "wdgt_ti_time"
+msgstr "ਸਮਾਂ"
+
+msgid "wdgt_va_12h_hours"
+msgstr "%l"
+
+msgid "wdgt_va_12h_time_am"
+msgstr "%l:%M ਸਵੇਰ"
+
+msgid "wdgt_va_12h_time_pm"
+msgstr "%l:%M ਸ਼ਾਮ"
+
+msgid "wdgt_va_24h_hours"
+msgstr "%H"
+
+msgid "wdgt_va_24h_time"
+msgstr "%H:%M"
+
+msgid "wdgt_va_ago_one_day"
+msgid_plural "wdgt_va_ago_days"
+msgstr[0] "੧ ਦਿਨ ਪਹਿਲਾਂ"
+msgstr[1] "%d ਦਿਨ ਪਹਿਲਾਂ"
+
+msgid "wdgt_va_ago_one_hour"
+msgid_plural "wdgt_va_ago_hours"
+msgstr[0] "੧ ਘੰਟਾ ਪਹਿਲਾਂ"
+msgstr[1] "%d ਘੰਟੇ ਪਹਿਲਾਂ"
+
+msgid "wdgt_va_ago_one_minute"
+msgid_plural "wdgt_va_ago_minutes"
+msgstr[0] "੧ ਮਿੰਟ ਪਹਿਲਾਂ"
+msgstr[1] "%d ਮਿੰਟ ਪਹਿਲਾਂ"
+
+msgid "wdgt_va_ago_one_year"
+msgid_plural "wdgt_va_ago_years"
+msgstr[0] "੧ ਸਾਲ ਪਹਿਲਾਂ"
+msgstr[1] "%d ਸਾਲ ਪਹਿਲਾਂ"
+
+msgid "wdgt_va_am"
+msgstr "ਸਵੇਰ"
+
+msgid "wdgt_va_date"
+msgstr "%d/%m/%Y"
+
+msgid "wdgt_va_date_day_name_short"
+msgstr "%a %d/%m"
+
+msgid "wdgt_va_date_long"
+msgstr "%A,  %e %B %Y"
+
+msgid "wdgt_va_date_medium"
+msgstr "%e %B  %Y"
+
+msgid "wdgt_va_date_short"
+msgstr "%d/%m"
+
+msgid "wdgt_va_day_numeric"
+msgstr "%e"
+
+msgid "wdgt_va_full_24h_time"
+msgstr "%T"
+
+msgid "wdgt_va_fulldate_day_name_short"
+msgstr "%a %%d/m/%y"
+
+msgid "wdgt_va_fullmonth_year"
+msgstr "%B %Y"
+
+msgid "wdgt_va_minutes"
+msgstr "%M"
+
+msgid "wdgt_va_minutes_seconds"
+msgstr "%M:%S"
+
+msgid "wdgt_va_month"
+msgstr "%B"
+
+msgid "wdgt_va_month_name_short"
+msgstr "%b"
+
+msgid "wdgt_va_pm"
+msgstr "ਸ਼ਾਮ"
+
+msgid "wdgt_va_seconds"
+msgstr "%S"
+
+msgid "wdgt_va_week"
+msgstr "%A"
+
+msgid "wdgt_va_week_name_short"
+msgstr "%a"
+
+msgid "wdgt_va_week_number"
+msgstr "%V"
+
+msgid "wdgt_va_week_number_sunday_first"
+msgstr "%U"
+
+msgid "wdgt_va_year"
+msgstr "%Y"
