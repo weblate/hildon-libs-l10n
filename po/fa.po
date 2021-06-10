@@ -1,0 +1,494 @@
+# 
+# Translators:
+# jeco <maemosoft@yahoo.com>, 2011.
+msgid ""
+msgstr ""
+"Project-Id-Version: n900 extra translations\n"
+"Report-Msgid-Bugs-To: http://code.google.com/p/n900-extra-translations/issues/list\n"
+"POT-Creation-Date: 2009.11.09 11:44+0200\n"
+"PO-Revision-Date: 2011-11-06 15:33+0000\n"
+"Last-Translator: jeco <maemosoft@yahoo.com>\n"
+"Language-Team: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: fa\n"
+"Plural-Forms: nplurals=1; plural=0\n"
+
+msgid "ckct_ib_date_does_not_exist"
+msgstr "تاریخ نامعتبر است"
+
+msgid "ckct_ib_find_enter_the_text"
+msgstr "متن را برای جستجو وارد کنید"
+
+msgid "ckct_ib_find_no_matches"
+msgstr "جستجو حاصلی در بر نداشت"
+
+msgid "ckct_ib_find_search_complete"
+msgstr "جستجو کامل شد"
+
+msgid "ckct_ib_max_allowed_duration_d"
+msgstr "حداکثر مدت زمان مجاز %d  است "
+
+msgid "ckct_ib_max_allowed_duration_ddd"
+msgstr "حداکثر مدت زمان مجاز%1$02d:%2$02d:%3$02d است"
+
+msgid "ckct_ib_max_allowed_duration_hts"
+msgstr "حداکثر مدت زمان مجاز %1$02d:%2$02d:%3$02d است "
+
+msgid "ckct_ib_maximum_value"
+msgstr "حداکثر میزان مجاز %d است"
+
+msgid "ckct_ib_min_allowed_duration_d"
+msgstr "حداقل میزان مجاز %d است"
+
+msgid "ckct_ib_min_allowed_duration_ddd"
+msgstr " حداقل مدت زمان مجاز %1$02 d:%2$02d:%3$02d است"
+
+msgid "ckct_ib_min_allowed_duration_hts"
+msgstr "حداقل مدت زمان مجاز  %1$02d:%2$02d:%3$02d است"
+
+msgid "ckct_ib_minimum_value"
+msgstr "حداقل میزان مجاز %d است"
+
+msgid "ckct_ib_set_a_value_within_range"
+msgstr "مقدار  باید مابین %1$d و %2$d باشد"
+
+msgid "ckct_wi_grid_no_icons"
+msgstr "هیچ آیکونی نیست"
+
+msgid "ckct_wi_grid_no_items"
+msgstr "هیچ آیتمی نیست"
+
+msgid "ckct_wi_range_separator"
+msgstr "-"
+
+msgid "ckdg_bd_rename_object_dialog_ok"
+msgstr "تغییر نام"
+
+msgid "ckdg_fi_dialog_c_passwd_new_pwd"
+msgstr "رمز جدید را وارد کنید"
+
+msgid "ckdg_fi_dialog_c_passwd_pwd_protect"
+msgstr "رمز عبور حفاظت شده :"
+
+msgid "ckdg_fi_dialog_c_passwd_ver_pwd"
+msgstr "تکرار رمز عبور:"
+
+msgid "ckdg_fi_new_name"
+msgstr "نام:"
+
+msgid "ckdg_fi_rename_name"
+msgstr "نام:"
+
+msgid "ckdg_fi_sort_field"
+msgstr "مرتب سازی بر اساس :"
+
+msgid "ckdg_fi_sort_order"
+msgstr "چینش براساس:"
+
+msgid "ckdg_ti_dialog_c_passwd_change_password"
+msgstr "تغییر رمز"
+
+msgid "ckdg_ti_new_application"
+msgstr "برنامه جدید"
+
+msgid "ckdg_ti_new_bookmark"
+msgstr "بوک‌مارک جدید"
+
+msgid "ckdg_ti_new_certificate"
+msgstr "گواهینامه‌ی جدید"
+
+msgid "ckdg_ti_new_default"
+msgstr "جدید"
+
+msgid "ckdg_ti_new_document"
+msgstr "پرونده جدید"
+
+msgid "ckdg_ti_new_folder"
+msgstr "پوشه جدید"
+
+msgid "ckdg_ti_new_html"
+msgstr "فایل وب جدید"
+
+msgid "ckdg_ti_new_image"
+msgstr "تصویر جدید"
+
+msgid "ckdg_ti_new_link"
+msgstr "میانبر جدید"
+
+msgid "ckdg_ti_new_message"
+msgstr "پیام جدید"
+
+msgid "ckdg_ti_new_presentation"
+msgstr "معرفی جدید"
+
+msgid "ckdg_ti_new_sound"
+msgstr "کلیپ صوتی جدید"
+
+msgid "ckdg_ti_new_video"
+msgstr "کلیپ ویدئویی جدید"
+
+msgid "ckdg_ti_new_workbook"
+msgstr "ورک بوک جدید"
+
+msgid "ckdg_ti_new_xml"
+msgstr "فایل ایکس ام ال جدید"
+
+msgid "ckdg_ti_rename_application"
+msgstr "تغییر نام برنامه"
+
+msgid "ckdg_ti_rename_bookmark"
+msgstr "تغییر نام بوک‌مارک"
+
+msgid "ckdg_ti_rename_certificate"
+msgstr "تغییر نام گواهینامه "
+
+msgid "ckdg_ti_rename_default"
+msgstr "تغییر نام"
+
+msgid "ckdg_ti_rename_document"
+msgstr "تغییر نام پرونده"
+
+msgid "ckdg_ti_rename_folder"
+msgstr "تغییر نام پوشه"
+
+msgid "ckdg_ti_rename_html"
+msgstr "تغییر نام فایل وب"
+
+msgid "ckdg_ti_rename_image"
+msgstr "تغییر نام تصویر"
+
+msgid "ckdg_ti_rename_link"
+msgstr "تغییر نام میانبر"
+
+msgid "ckdg_ti_rename_message"
+msgstr "تغییر نام پیام"
+
+msgid "ckdg_ti_rename_presentation"
+msgstr "تغییر نام معرفی"
+
+msgid "ckdg_ti_rename_sound"
+msgstr "تغییر نام کلیپ صوتی"
+
+msgid "ckdg_ti_rename_video"
+msgstr "تغییر نام کلیپ ویدئویی"
+
+msgid "ckdg_ti_rename_workbook"
+msgstr "تغییر نام ورک بوک"
+
+msgid "ckdg_ti_rename_xml"
+msgstr "تغییر نام فایل ایکس ام ال"
+
+msgid "ckdg_ti_sort"
+msgstr "طبقه بندی کردن"
+
+msgid "ckdg_va_sort_ascending"
+msgstr "صعودی"
+
+msgid "ckdg_va_sort_date"
+msgstr "تاریخ"
+
+msgid "ckdg_va_sort_descending"
+msgstr "نزولی"
+
+msgid "ckdg_va_sort_name"
+msgstr "نام"
+
+msgid "ckdg_va_sort_size"
+msgstr "سایز"
+
+msgid "ecdg_bd_colour_selector_modify"
+msgstr "تغییر دادن"
+
+msgid "ecdg_bd_font_dialog_preview"
+msgstr "پیش‌نمایش"
+
+msgid "ecdg_fi_5bit_colour_selector_blue"
+msgstr "آبی"
+
+msgid "ecdg_fi_5bit_colour_selector_green"
+msgstr "سبز"
+
+msgid "ecdg_fi_5bit_colour_selector_red"
+msgstr "قرمز"
+
+msgid "ecdg_fi_font_bold"
+msgstr "پر رنگ"
+
+msgid "ecdg_fi_font_colour_selector"
+msgstr "رنگ"
+
+msgid "ecdg_fi_font_font"
+msgstr "چهره فونت"
+
+msgid "ecdg_fi_font_italic"
+msgstr "کج"
+
+msgid "ecdg_fi_font_size"
+msgstr "سایز فونت"
+
+msgid "ecdg_fi_font_special"
+msgstr "تثبیت موقعیت"
+
+msgid "ecdg_fi_font_strikethrough"
+msgstr "خط خورده"
+
+msgid "ecdg_fi_font_underline"
+msgstr "زیرخط"
+
+msgid "ecdg_fi_get_old_pwd_enter_pwd"
+msgstr "رمز عبور:"
+
+msgid "ecdg_fi_preview_font_preview_reference"
+msgstr "مرجع:"
+
+msgid "ecdg_fi_preview_font_preview_text"
+msgstr "به دریا شکوه بردم از شب دشت - وزین عمری که تلخ تلخ بگذشت\nبه هر موجی که می‌گفتم غم خویش - سری میزد به سنگ و باز می‌گشت"
+
+msgid "ecdg_fi_set_passwd_confirm"
+msgstr "تکرار رمز عبور"
+
+msgid "ecdg_fi_set_passwd_enter_pwd"
+msgstr "وارد کردن رمز جدید"
+
+msgid "ecdg_fi_verify_pwd_enter_pwd"
+msgstr "رمز عبور:"
+
+msgid "ecdg_fi_wizard_description"
+msgstr "%sجادوگر به شما اجازه می دهد تا %s.\n\nبرای ادامه دادن ، دکمهء \" بعدی \" را فشار دهید"
+
+msgid "ecdg_ib_colour_selector_predefined"
+msgstr "امکان تغییر رنگ وجود ندارد"
+
+msgid "ecdg_ti_5bit_colour_selector"
+msgstr "تغییر رنگ"
+
+msgid "ecdg_ti_aboutdialog_title"
+msgstr "درباره برنامه"
+
+msgid "ecdg_ti_caption_separator"
+msgstr ":"
+
+msgid "ecdg_ti_colour_selector"
+msgstr "پالت رنگ"
+
+msgid "ecdg_ti_duration_editor_separator"
+msgstr ":"
+
+msgid "ecdg_ti_find_toolbar_label"
+msgstr "پیدا شده:"
+
+msgid "ecdg_ti_font"
+msgstr "فونت"
+
+msgid "ecdg_ti_font_dialog_format"
+msgstr "قالب بندی"
+
+msgid "ecdg_ti_font_dialog_other"
+msgstr "دیگر"
+
+msgid "ecdg_ti_font_dialog_style"
+msgstr "سبک"
+
+msgid "ecdg_ti_get_old_password"
+msgstr "کلمه عبور فعلی"
+
+msgid "ecdg_ti_preview_font"
+msgstr "پیش‌نمایش"
+
+msgid "ecdg_ti_set_password"
+msgstr "قرار دادن رمز عبور"
+
+msgid "ecdg_ti_time_picker_separator"
+msgstr ":"
+
+msgid "ecdg_ti_verify_password"
+msgstr "نیاز به رمز دارد"
+
+msgid "ecdg_ti_wizard_welcome"
+msgstr "%s:خوش آمدید"
+
+msgid "ecdg_va_font_printpos_1"
+msgstr "عادی"
+
+msgid "ecdg_va_font_printpos_2"
+msgstr "بالانویس"
+
+msgid "ecdg_va_font_printpos_3"
+msgstr "زیرنویس"
+
+msgid "ecdg_va_font_size_trailer"
+msgstr " pt"
+
+msgid "frw_ti_get_user_name_and_pwd"
+msgstr "نیاز به رمز عبور دارد"
+
+msgid "frw_ti_get_user_name_and_pwd_enter_pwd"
+msgstr "رمز عبور:"
+
+msgid "frw_ti_get_user_name_and_pwd_enter_user_name"
+msgstr "نام کاربری:"
+
+msgid "wdgt_bd_add"
+msgstr "بیشتر"
+
+msgid "wdgt_bd_back"
+msgstr "برگشتن"
+
+msgid "wdgt_bd_delete"
+msgstr "پاک کردن"
+
+msgid "wdgt_bd_done"
+msgstr "تایید"
+
+msgid "wdgt_bd_edit"
+msgstr "ویرایش"
+
+msgid "wdgt_bd_finish"
+msgstr "پایان"
+
+msgid "wdgt_bd_move"
+msgstr "منتقل کردن"
+
+msgid "wdgt_bd_new"
+msgstr "جدید"
+
+msgid "wdgt_bd_next"
+msgstr "بعدی"
+
+msgid "wdgt_bd_no"
+msgstr "خیر"
+
+msgid "wdgt_bd_previous"
+msgstr "قبلی"
+
+msgid "wdgt_bd_rename"
+msgstr "تغییر نام"
+
+msgid "wdgt_bd_save"
+msgstr "ذخیره"
+
+msgid "wdgt_bd_search"
+msgstr "جستجو"
+
+msgid "wdgt_bd_share"
+msgstr "اشتراک گذاری"
+
+msgid "wdgt_bd_sort"
+msgstr "مرتب‌سازی بر حسب"
+
+msgid "wdgt_bd_stop"
+msgstr "توقف"
+
+msgid "wdgt_bd_view"
+msgstr "نمایش"
+
+msgid "wdgt_bd_yes"
+msgstr "بله"
+
+msgid "wdgt_ib_volume"
+msgstr "درجه صدا %d%%"
+
+msgid "wdgt_ib_zoom"
+msgstr "بزرگنمایی %d%%"
+
+msgid "wdgt_ti_date"
+msgstr "تاریخ"
+
+msgid "wdgt_ti_time"
+msgstr "زمان"
+
+msgid "wdgt_va_12h_hours"
+msgstr "%l"
+
+msgid "wdgt_va_12h_time_am"
+msgstr "%l:%M ق.ظ"
+
+msgid "wdgt_va_12h_time_pm"
+msgstr "%l:%M ب.ظ"
+
+msgid "wdgt_va_24h_hours"
+msgstr "%H"
+
+msgid "wdgt_va_24h_time"
+msgstr "%H:%M"
+
+msgid "wdgt_va_ago_one_day"
+msgid_plural "wdgt_va_ago_days"
+msgstr[0] ""
+
+msgid "wdgt_va_ago_one_hour"
+msgid_plural "wdgt_va_ago_hours"
+msgstr[0] ""
+
+msgid "wdgt_va_ago_one_minute"
+msgid_plural "wdgt_va_ago_minutes"
+msgstr[0] ""
+
+msgid "wdgt_va_ago_one_year"
+msgid_plural "wdgt_va_ago_years"
+msgstr[0] ""
+
+msgid "wdgt_va_am"
+msgstr "ق.ظ"
+
+msgid "wdgt_va_date"
+msgstr "%m/%d/%Y"
+
+msgid "wdgt_va_date_day_name_short"
+msgstr "%a %m/%d"
+
+msgid "wdgt_va_date_long"
+msgstr "%A, %B %e, %Y"
+
+msgid "wdgt_va_date_medium"
+msgstr "%B %e, %Y"
+
+msgid "wdgt_va_date_short"
+msgstr "%m/%d"
+
+msgid "wdgt_va_day_numeric"
+msgstr "%e"
+
+msgid "wdgt_va_full_24h_time"
+msgstr "%T"
+
+msgid "wdgt_va_fulldate_day_name_short"
+msgstr "%a %m/%d/%y"
+
+msgid "wdgt_va_fullmonth_year"
+msgstr "%B %Y"
+
+msgid "wdgt_va_minutes"
+msgstr "%M"
+
+msgid "wdgt_va_minutes_seconds"
+msgstr "%M:%S"
+
+msgid "wdgt_va_month"
+msgstr "%B"
+
+msgid "wdgt_va_month_name_short"
+msgstr "%b"
+
+msgid "wdgt_va_pm"
+msgstr "ب.ظ"
+
+msgid "wdgt_va_seconds"
+msgstr "%S"
+
+msgid "wdgt_va_week"
+msgstr "%A"
+
+msgid "wdgt_va_week_name_short"
+msgstr "%a"
+
+msgid "wdgt_va_week_number"
+msgstr "%V"
+
+msgid "wdgt_va_week_number_sunday_first"
+msgstr "%U"
+
+msgid "wdgt_va_year"
+msgstr "%Y"
