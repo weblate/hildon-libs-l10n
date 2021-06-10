@@ -1,0 +1,493 @@
+# 
+# Translators:
+msgid ""
+msgstr ""
+"Project-Id-Version: n900 extra translations\n"
+"Report-Msgid-Bugs-To: http://code.google.com/p/n900-extra-translations/issues/list\n"
+"POT-Creation-Date: 2009.11.09 11:44+0200\n"
+"PO-Revision-Date: 2012-05-30 14:34+0000\n"
+"Last-Translator: firstfan <firstfan@gmail.com>\n"
+"Language-Team: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: zh_CN\n"
+"Plural-Forms: nplurals=1; plural=0\n"
+
+msgid "ckct_ib_date_does_not_exist"
+msgstr "无效的日期"
+
+msgid "ckct_ib_find_enter_the_text"
+msgstr "输入关键字"
+
+msgid "ckct_ib_find_no_matches"
+msgstr "没有找到"
+
+msgid "ckct_ib_find_search_complete"
+msgstr "搜索完成"
+
+msgid "ckct_ib_max_allowed_duration_d"
+msgstr "允许的最大期限是 %d"
+
+msgid "ckct_ib_max_allowed_duration_ddd"
+msgstr "允许的最大期限是 %1$02d:%2$02d:%3$02d"
+
+msgid "ckct_ib_max_allowed_duration_hts"
+msgstr "允许的最大期限是 %1$02d:%2$02d:%3$02d"
+
+msgid "ckct_ib_maximum_value"
+msgstr "最大值是 %d"
+
+msgid "ckct_ib_min_allowed_duration_d"
+msgstr "允许的最小期限是 %d"
+
+msgid "ckct_ib_min_allowed_duration_ddd"
+msgstr "允许的最小期限是 %1$02d:%2$02d:%3$02d"
+
+msgid "ckct_ib_min_allowed_duration_hts"
+msgstr "允许的最小期限是 %1$02d:%2$02d:%3$02d"
+
+msgid "ckct_ib_minimum_value"
+msgstr "最小值是 %d"
+
+msgid "ckct_ib_set_a_value_within_range"
+msgstr "值必须介于 %1$d 和 %2$d 之间"
+
+msgid "ckct_wi_grid_no_icons"
+msgstr "没有图标"
+
+msgid "ckct_wi_grid_no_items"
+msgstr "没有项目"
+
+msgid "ckct_wi_range_separator"
+msgstr "–"
+
+msgid "ckdg_bd_rename_object_dialog_ok"
+msgstr "确定"
+
+msgid "ckdg_fi_dialog_c_passwd_new_pwd"
+msgstr "新密码:"
+
+msgid "ckdg_fi_dialog_c_passwd_pwd_protect"
+msgstr "密码保护:"
+
+msgid "ckdg_fi_dialog_c_passwd_ver_pwd"
+msgstr "再次输入新密码:"
+
+msgid "ckdg_fi_new_name"
+msgstr "名称:"
+
+msgid "ckdg_fi_rename_name"
+msgstr "名称:"
+
+msgid "ckdg_fi_sort_field"
+msgstr "排序:"
+
+msgid "ckdg_fi_sort_order"
+msgstr "顺序:"
+
+msgid "ckdg_ti_dialog_c_passwd_change_password"
+msgstr "修改密码"
+
+msgid "ckdg_ti_new_application"
+msgstr "新建程序"
+
+msgid "ckdg_ti_new_bookmark"
+msgstr "新建书签"
+
+msgid "ckdg_ti_new_certificate"
+msgstr "新建证书"
+
+msgid "ckdg_ti_new_default"
+msgstr "新建"
+
+msgid "ckdg_ti_new_document"
+msgstr "新建文档"
+
+msgid "ckdg_ti_new_folder"
+msgstr "新建文件夹"
+
+msgid "ckdg_ti_new_html"
+msgstr "新建 HTML 文档"
+
+msgid "ckdg_ti_new_image"
+msgstr "新建图片"
+
+msgid "ckdg_ti_new_link"
+msgstr "新建快捷方式"
+
+msgid "ckdg_ti_new_message"
+msgstr "新建消息"
+
+msgid "ckdg_ti_new_presentation"
+msgstr "新建简报"
+
+msgid "ckdg_ti_new_sound"
+msgstr "新建录音"
+
+msgid "ckdg_ti_new_video"
+msgstr "新建视频"
+
+msgid "ckdg_ti_new_workbook"
+msgstr "新建工作簿"
+
+msgid "ckdg_ti_new_xml"
+msgstr "新建 XML 文档"
+
+msgid "ckdg_ti_rename_application"
+msgstr "程序重命名"
+
+msgid "ckdg_ti_rename_bookmark"
+msgstr "书签重命名"
+
+msgid "ckdg_ti_rename_certificate"
+msgstr "证书重命名"
+
+msgid "ckdg_ti_rename_default"
+msgstr "重命名"
+
+msgid "ckdg_ti_rename_document"
+msgstr "文档重命名"
+
+msgid "ckdg_ti_rename_folder"
+msgstr "文件夹重命名"
+
+msgid "ckdg_ti_rename_html"
+msgstr "HTML 文档重命名"
+
+msgid "ckdg_ti_rename_image"
+msgstr "图片重命名"
+
+msgid "ckdg_ti_rename_link"
+msgstr "快捷方式重命名"
+
+msgid "ckdg_ti_rename_message"
+msgstr "消息重命名"
+
+msgid "ckdg_ti_rename_presentation"
+msgstr "简报重命名"
+
+msgid "ckdg_ti_rename_sound"
+msgstr "录音重命名"
+
+msgid "ckdg_ti_rename_video"
+msgstr "视频重命名"
+
+msgid "ckdg_ti_rename_workbook"
+msgstr "工作簿重命名"
+
+msgid "ckdg_ti_rename_xml"
+msgstr "XML文档重命名"
+
+msgid "ckdg_ti_sort"
+msgstr "排序"
+
+msgid "ckdg_va_sort_ascending"
+msgstr "升序"
+
+msgid "ckdg_va_sort_date"
+msgstr "日期"
+
+msgid "ckdg_va_sort_descending"
+msgstr "降序"
+
+msgid "ckdg_va_sort_name"
+msgstr "名称"
+
+msgid "ckdg_va_sort_size"
+msgstr "大小"
+
+msgid "ecdg_bd_colour_selector_modify"
+msgstr "修改"
+
+msgid "ecdg_bd_font_dialog_preview"
+msgstr "预览"
+
+msgid "ecdg_fi_5bit_colour_selector_blue"
+msgstr "蓝色"
+
+msgid "ecdg_fi_5bit_colour_selector_green"
+msgstr "绿色"
+
+msgid "ecdg_fi_5bit_colour_selector_red"
+msgstr "红色"
+
+msgid "ecdg_fi_font_bold"
+msgstr "粗体:"
+
+msgid "ecdg_fi_font_colour_selector"
+msgstr "颜色:"
+
+msgid "ecdg_fi_font_font"
+msgstr "字体:"
+
+msgid "ecdg_fi_font_italic"
+msgstr "斜体:"
+
+msgid "ecdg_fi_font_size"
+msgstr "字体大小:"
+
+msgid "ecdg_fi_font_special"
+msgstr "定位:"
+
+msgid "ecdg_fi_font_strikethrough"
+msgstr "删除线:"
+
+msgid "ecdg_fi_font_underline"
+msgstr "下划线:"
+
+msgid "ecdg_fi_get_old_pwd_enter_pwd"
+msgstr "密码:"
+
+msgid "ecdg_fi_preview_font_preview_reference"
+msgstr "参考:"
+
+msgid "ecdg_fi_preview_font_preview_text"
+msgstr "The quick brown fox jumps over the lazy dog"
+
+msgid "ecdg_fi_set_passwd_confirm"
+msgstr "重新输入新密码"
+
+msgid "ecdg_fi_set_passwd_enter_pwd"
+msgstr "新密码"
+
+msgid "ecdg_fi_verify_pwd_enter_pwd"
+msgstr "密码:"
+
+msgid "ecdg_fi_wizard_description"
+msgstr "%s\n点击"
+
+msgid "ecdg_ib_colour_selector_predefined"
+msgstr "颜色无法被修改"
+
+msgid "ecdg_ti_5bit_colour_selector"
+msgstr "修改颜色"
+
+msgid "ecdg_ti_aboutdialog_title"
+msgstr "程序自述"
+
+msgid "ecdg_ti_caption_separator"
+msgstr ":"
+
+msgid "ecdg_ti_colour_selector"
+msgstr "颜色选择"
+
+msgid "ecdg_ti_duration_editor_separator"
+msgstr ":"
+
+msgid "ecdg_ti_find_toolbar_label"
+msgstr "寻找"
+
+msgid "ecdg_ti_font"
+msgstr "字体"
+
+msgid "ecdg_ti_font_dialog_format"
+msgstr "格式"
+
+msgid "ecdg_ti_font_dialog_other"
+msgstr "其他"
+
+msgid "ecdg_ti_font_dialog_style"
+msgstr "风格"
+
+msgid "ecdg_ti_get_old_password"
+msgstr "当前密码"
+
+msgid "ecdg_ti_preview_font"
+msgstr "预览"
+
+msgid "ecdg_ti_set_password"
+msgstr "设置密码"
+
+msgid "ecdg_ti_time_picker_separator"
+msgstr ":"
+
+msgid "ecdg_ti_verify_password"
+msgstr "需要密码"
+
+msgid "ecdg_ti_wizard_welcome"
+msgstr "%s: 欢迎"
+
+msgid "ecdg_va_font_printpos_1"
+msgstr "正常"
+
+msgid "ecdg_va_font_printpos_2"
+msgstr "上角标"
+
+msgid "ecdg_va_font_printpos_3"
+msgstr "下角标"
+
+msgid "ecdg_va_font_size_trailer"
+msgstr "pt"
+
+msgid "frw_ti_get_user_name_and_pwd"
+msgstr "需要密码"
+
+msgid "frw_ti_get_user_name_and_pwd_enter_pwd"
+msgstr "密码:"
+
+msgid "frw_ti_get_user_name_and_pwd_enter_user_name"
+msgstr "用户名"
+
+msgid "wdgt_bd_add"
+msgstr "更多"
+
+msgid "wdgt_bd_back"
+msgstr "返回"
+
+msgid "wdgt_bd_delete"
+msgstr "删除"
+
+msgid "wdgt_bd_done"
+msgstr "完成"
+
+msgid "wdgt_bd_edit"
+msgstr "编辑"
+
+msgid "wdgt_bd_finish"
+msgstr "结束"
+
+msgid "wdgt_bd_move"
+msgstr "移动"
+
+msgid "wdgt_bd_new"
+msgstr "新建"
+
+msgid "wdgt_bd_next"
+msgstr "下一步"
+
+msgid "wdgt_bd_no"
+msgstr "否"
+
+msgid "wdgt_bd_previous"
+msgstr "上一步"
+
+msgid "wdgt_bd_rename"
+msgstr "重命名"
+
+msgid "wdgt_bd_save"
+msgstr "保存"
+
+msgid "wdgt_bd_search"
+msgstr "搜索"
+
+msgid "wdgt_bd_share"
+msgstr "共享"
+
+msgid "wdgt_bd_sort"
+msgstr "排序"
+
+msgid "wdgt_bd_stop"
+msgstr "停止"
+
+msgid "wdgt_bd_view"
+msgstr "查看"
+
+msgid "wdgt_bd_yes"
+msgstr "是"
+
+msgid "wdgt_ib_volume"
+msgstr "音量 %d%%"
+
+msgid "wdgt_ib_zoom"
+msgstr "缩放 %d%%"
+
+msgid "wdgt_ti_date"
+msgstr "日期"
+
+msgid "wdgt_ti_time"
+msgstr "时间"
+
+msgid "wdgt_va_12h_hours"
+msgstr "%l"
+
+msgid "wdgt_va_12h_time_am"
+msgstr "%l:%M 上午"
+
+msgid "wdgt_va_12h_time_pm"
+msgstr "%l:%M pm"
+
+msgid "wdgt_va_24h_hours"
+msgstr "%H"
+
+msgid "wdgt_va_24h_time"
+msgstr "%H:%M"
+
+msgid "wdgt_va_ago_one_day"
+msgid_plural "wdgt_va_ago_days"
+msgstr[0] "1 天前"
+
+msgid "wdgt_va_ago_one_hour"
+msgid_plural "wdgt_va_ago_hours"
+msgstr[0] "1 小时前"
+
+msgid "wdgt_va_ago_one_minute"
+msgid_plural "wdgt_va_ago_minutes"
+msgstr[0] "1 分钟前"
+
+msgid "wdgt_va_ago_one_year"
+msgid_plural "wdgt_va_ago_years"
+msgstr[0] "1 年前"
+
+msgid "wdgt_va_am"
+msgstr "上午"
+
+msgid "wdgt_va_date"
+msgstr "%x"
+
+msgid "wdgt_va_date_day_name_short"
+msgstr "%m/%d %a"
+
+msgid "wdgt_va_date_long"
+msgstr "%A, %x"
+
+msgid "wdgt_va_date_medium"
+msgstr "%x"
+
+msgid "wdgt_va_date_short"
+msgstr "%m/%d"
+
+msgid "wdgt_va_day_numeric"
+msgstr "%e"
+
+msgid "wdgt_va_full_24h_time"
+msgstr "%T"
+
+msgid "wdgt_va_fulldate_day_name_short"
+msgstr "%y/%m/%d %a"
+
+msgid "wdgt_va_fullmonth_year"
+msgstr "%Y年%d月"
+
+msgid "wdgt_va_minutes"
+msgstr "%M"
+
+msgid "wdgt_va_minutes_seconds"
+msgstr "%M:%S"
+
+msgid "wdgt_va_month"
+msgstr "%B"
+
+msgid "wdgt_va_month_name_short"
+msgstr "%b"
+
+msgid "wdgt_va_pm"
+msgstr "pm"
+
+msgid "wdgt_va_seconds"
+msgstr "%S"
+
+msgid "wdgt_va_week"
+msgstr "%A"
+
+msgid "wdgt_va_week_name_short"
+msgstr "%a"
+
+msgid "wdgt_va_week_number"
+msgstr "%V"
+
+msgid "wdgt_va_week_number_sunday_first"
+msgstr "%U"
+
+msgid "wdgt_va_year"
+msgstr "%Y"
