@@ -1,0 +1,506 @@
+# 
+# Translators:
+# Geraint Rowlands <ansbaradigeidfran@gmail.com>, 2012.
+msgid ""
+msgstr ""
+"Project-Id-Version: n900 extra translations\n"
+"Report-Msgid-Bugs-To: http://code.google.com/p/n900-extra-translations/issues/list\n"
+"POT-Creation-Date: 2009.11.09 11:44+0200\n"
+"PO-Revision-Date: 2012-02-07 10:13+0000\n"
+"Last-Translator: Geraint Rowlands <ansbaradigeidfran@gmail.com>\n"
+"Language-Team: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: cy\n"
+"Plural-Forms: nplurals=4; plural=(n==1) ? 0 : (n==2) ? 1 : (n != 8 && n != 11) ? 2 : 3\n"
+
+msgid "ckct_ib_date_does_not_exist"
+msgstr " Dyddiad annilys"
+
+msgid "ckct_ib_find_enter_the_text"
+msgstr "Rhowch y testun i'w ganfod"
+
+msgid "ckct_ib_find_no_matches"
+msgstr "Dim testun yn cydweddu"
+
+msgid "ckct_ib_find_search_complete"
+msgstr "Gorffennwyd chwilio"
+
+msgid "ckct_ib_max_allowed_duration_d"
+msgstr "Ystod hiraf a ganiateir yw %d"
+
+msgid "ckct_ib_max_allowed_duration_ddd"
+msgstr "Ystod hiraf a ganiateir yw %1$02d:%2$02d:%3$02d"
+
+msgid "ckct_ib_max_allowed_duration_hts"
+msgstr "Ystod hiraf a ganiateir yw %1$02d:%2$02d:%3$02d"
+
+msgid "ckct_ib_maximum_value"
+msgstr "Gwerth uchafsymol yw %d"
+
+msgid "ckct_ib_min_allowed_duration_d"
+msgstr "Ystod byrraf a ganiateir yw %d"
+
+msgid "ckct_ib_min_allowed_duration_ddd"
+msgstr "Ystod byrraf a ganiateir yw %1$02d:%2$02d:%3$02d"
+
+msgid "ckct_ib_min_allowed_duration_hts"
+msgstr "Ystod byrraf a ganiateir yw %1$02d:%2$02d:%3$02d"
+
+msgid "ckct_ib_minimum_value"
+msgstr "Gwerth lleiafsymiol yw %d"
+
+msgid "ckct_ib_set_a_value_within_range"
+msgstr "Rhaid i'r gwerth fod rhwng %1$d a %2$d"
+
+msgid "ckct_wi_grid_no_icons"
+msgstr "Dim eiconau"
+
+msgid "ckct_wi_grid_no_items"
+msgstr "Dim eitemau"
+
+msgid "ckct_wi_range_separator"
+msgstr "-"
+
+msgid "ckdg_bd_rename_object_dialog_ok"
+msgstr "Ailenwi"
+
+msgid "ckdg_fi_dialog_c_passwd_new_pwd"
+msgstr "Rhowch gyfrinair newydd"
+
+msgid "ckdg_fi_dialog_c_passwd_pwd_protect"
+msgstr "Amddiffynnir gan gyfrinair:"
+
+msgid "ckdg_fi_dialog_c_passwd_ver_pwd"
+msgstr "Gwirio cyfrinair:"
+
+msgid "ckdg_fi_new_name"
+msgstr "Enw:"
+
+msgid "ckdg_fi_rename_name"
+msgstr "Enw:"
+
+msgid "ckdg_fi_sort_field"
+msgstr "Trefnu'n ôl:"
+
+msgid "ckdg_fi_sort_order"
+msgstr "Trefn:"
+
+msgid "ckdg_ti_dialog_c_passwd_change_password"
+msgstr "Newid cyfrinair"
+
+msgid "ckdg_ti_new_application"
+msgstr "Rhaglen newydd"
+
+msgid "ckdg_ti_new_bookmark"
+msgstr "Tudnod newydd"
+
+msgid "ckdg_ti_new_certificate"
+msgstr "Tystysgrif newydd"
+
+msgid "ckdg_ti_new_default"
+msgstr "Newydd"
+
+msgid "ckdg_ti_new_document"
+msgstr "Dogfen newydd"
+
+msgid "ckdg_ti_new_folder"
+msgstr "Ffolder newydd"
+
+msgid "ckdg_ti_new_html"
+msgstr "Dogfen HTML newydd"
+
+msgid "ckdg_ti_new_image"
+msgstr "Llun newydd"
+
+msgid "ckdg_ti_new_link"
+msgstr "Byrlwybr newydd"
+
+msgid "ckdg_ti_new_message"
+msgstr "Neges newydd"
+
+msgid "ckdg_ti_new_presentation"
+msgstr "Cyflwyniad newydd"
+
+msgid "ckdg_ti_new_sound"
+msgstr "Clip sain newydd"
+
+msgid "ckdg_ti_new_video"
+msgstr "Clip fideo newydd"
+
+msgid "ckdg_ti_new_workbook"
+msgstr "Llyfr gwaith newydd"
+
+msgid "ckdg_ti_new_xml"
+msgstr "Dogfen XML newydd"
+
+msgid "ckdg_ti_rename_application"
+msgstr "Ailenwi rhaglen"
+
+msgid "ckdg_ti_rename_bookmark"
+msgstr "Ailenwi tudnod"
+
+msgid "ckdg_ti_rename_certificate"
+msgstr "Ailenwi tystysgrif"
+
+msgid "ckdg_ti_rename_default"
+msgstr "Ailenwi"
+
+msgid "ckdg_ti_rename_document"
+msgstr "Ailenwi dogfen"
+
+msgid "ckdg_ti_rename_folder"
+msgstr "Ailenwi ffolder"
+
+msgid "ckdg_ti_rename_html"
+msgstr "Ailenwi dogfen HTML"
+
+msgid "ckdg_ti_rename_image"
+msgstr "Ailenwi llun"
+
+msgid "ckdg_ti_rename_link"
+msgstr "Ailenwi byrlwybr"
+
+msgid "ckdg_ti_rename_message"
+msgstr "Ailenwi neges"
+
+msgid "ckdg_ti_rename_presentation"
+msgstr "Ailenwi cyflwyniad"
+
+msgid "ckdg_ti_rename_sound"
+msgstr "Ailenwi clip sain"
+
+msgid "ckdg_ti_rename_video"
+msgstr "Ailenwi clip fideo"
+
+msgid "ckdg_ti_rename_workbook"
+msgstr "Ailenwi llyfr gwaith"
+
+msgid "ckdg_ti_rename_xml"
+msgstr "Ailenwi dogfen XML"
+
+msgid "ckdg_ti_sort"
+msgstr "Trefnu"
+
+msgid "ckdg_va_sort_ascending"
+msgstr "Esgynnol"
+
+msgid "ckdg_va_sort_date"
+msgstr "Dyddiad"
+
+msgid "ckdg_va_sort_descending"
+msgstr "Disgynnol"
+
+msgid "ckdg_va_sort_name"
+msgstr "Enw"
+
+msgid "ckdg_va_sort_size"
+msgstr "Maint"
+
+msgid "ecdg_bd_colour_selector_modify"
+msgstr "Addasu"
+
+msgid "ecdg_bd_font_dialog_preview"
+msgstr "Rhagolwg"
+
+msgid "ecdg_fi_5bit_colour_selector_blue"
+msgstr "Glas"
+
+msgid "ecdg_fi_5bit_colour_selector_green"
+msgstr "Gwyrdd"
+
+msgid "ecdg_fi_5bit_colour_selector_red"
+msgstr "Coch"
+
+msgid "ecdg_fi_font_bold"
+msgstr "Bras:"
+
+msgid "ecdg_fi_font_colour_selector"
+msgstr "Lliw:"
+
+msgid "ecdg_fi_font_font"
+msgstr "Wynebfath:"
+
+msgid "ecdg_fi_font_italic"
+msgstr "Italig:"
+
+msgid "ecdg_fi_font_size"
+msgstr "Maint ffont"
+
+msgid "ecdg_fi_font_special"
+msgstr "Lleoliad:"
+
+msgid "ecdg_fi_font_strikethrough"
+msgstr "Llinell drwodd:"
+
+msgid "ecdg_fi_font_underline"
+msgstr "Tanlinellu:"
+
+msgid "ecdg_fi_get_old_pwd_enter_pwd"
+msgstr "Cyfrinair:"
+
+msgid "ecdg_fi_preview_font_preview_reference"
+msgstr "Cyfeiriad:"
+
+msgid "ecdg_fi_preview_font_preview_text"
+msgstr "Nid wy'n gofyn bywyd moethus,aur y byd, na'i pherlau mân"
+
+msgid "ecdg_fi_set_passwd_confirm"
+msgstr "Gwirio cyfrinair"
+
+msgid "ecdg_fi_set_passwd_enter_pwd"
+msgstr "Rhowch gyfrinair newydd"
+
+msgid "ecdg_fi_verify_pwd_enter_pwd"
+msgstr "Cyfrinair:"
+
+msgid "ecdg_fi_wizard_description"
+msgstr "Mae'r dewin %s yn caniatáu i chi %s. Tarwch 'Nesaf' i barhau."
+
+msgid "ecdg_ib_colour_selector_predefined"
+msgstr "Methu newid lliw"
+
+msgid "ecdg_ti_5bit_colour_selector"
+msgstr "Newid lliw"
+
+msgid "ecdg_ti_aboutdialog_title"
+msgstr "Am y rhaglen"
+
+msgid "ecdg_ti_caption_separator"
+msgstr ":"
+
+msgid "ecdg_ti_colour_selector"
+msgstr "Paled lliw"
+
+msgid "ecdg_ti_duration_editor_separator"
+msgstr ":"
+
+msgid "ecdg_ti_find_toolbar_label"
+msgstr "Canfod:"
+
+msgid "ecdg_ti_font"
+msgstr "Ffont"
+
+msgid "ecdg_ti_font_dialog_format"
+msgstr "Fformadu"
+
+msgid "ecdg_ti_font_dialog_other"
+msgstr "Arall"
+
+msgid "ecdg_ti_font_dialog_style"
+msgstr "Arddull"
+
+msgid "ecdg_ti_get_old_password"
+msgstr "Cyfrinair presennol"
+
+msgid "ecdg_ti_preview_font"
+msgstr "Rhagolwg"
+
+msgid "ecdg_ti_set_password"
+msgstr "Gosod cyfrinair"
+
+msgid "ecdg_ti_time_picker_separator"
+msgstr ":"
+
+msgid "ecdg_ti_verify_password"
+msgstr "Angen cyfrinair"
+
+msgid "ecdg_ti_wizard_welcome"
+msgstr "%s: Croeso"
+
+msgid "ecdg_va_font_printpos_1"
+msgstr "Arferol"
+
+msgid "ecdg_va_font_printpos_2"
+msgstr "Uwchnod"
+
+msgid "ecdg_va_font_printpos_3"
+msgstr "Isnod"
+
+msgid "ecdg_va_font_size_trailer"
+msgstr "pt"
+
+msgid "frw_ti_get_user_name_and_pwd"
+msgstr "Angen cyfrinair"
+
+msgid "frw_ti_get_user_name_and_pwd_enter_pwd"
+msgstr "Cyfrinair:"
+
+msgid "frw_ti_get_user_name_and_pwd_enter_user_name"
+msgstr "Enw defnyddiwr"
+
+msgid "wdgt_bd_add"
+msgstr "Mwy"
+
+msgid "wdgt_bd_back"
+msgstr "Yn ôl"
+
+msgid "wdgt_bd_delete"
+msgstr "Dileu"
+
+msgid "wdgt_bd_done"
+msgstr "Diwedd"
+
+msgid "wdgt_bd_edit"
+msgstr "Golygu"
+
+msgid "wdgt_bd_finish"
+msgstr "Gorffen"
+
+msgid "wdgt_bd_move"
+msgstr "Symud"
+
+msgid "wdgt_bd_new"
+msgstr "Newydd"
+
+msgid "wdgt_bd_next"
+msgstr "Newydd"
+
+msgid "wdgt_bd_no"
+msgstr "Na"
+
+msgid "wdgt_bd_previous"
+msgstr "Cynt"
+
+msgid "wdgt_bd_rename"
+msgstr "Ailenwi"
+
+msgid "wdgt_bd_save"
+msgstr "Cadw"
+
+msgid "wdgt_bd_search"
+msgstr "Chwilio"
+
+msgid "wdgt_bd_share"
+msgstr "Rhannu"
+
+msgid "wdgt_bd_sort"
+msgstr "Hidlo"
+
+msgid "wdgt_bd_stop"
+msgstr "Atal"
+
+msgid "wdgt_bd_view"
+msgstr "Gweld"
+
+msgid "wdgt_bd_yes"
+msgstr "Ia"
+
+msgid "wdgt_ib_volume"
+msgstr "Lefel sain %d%%"
+
+msgid "wdgt_ib_zoom"
+msgstr "Lefel mwyhau %d%%"
+
+msgid "wdgt_ti_date"
+msgstr "Dyddiad"
+
+msgid "wdgt_ti_time"
+msgstr "Amser"
+
+msgid "wdgt_va_12h_hours"
+msgstr "%l"
+
+msgid "wdgt_va_12h_time_am"
+msgstr "%l:%M yb"
+
+msgid "wdgt_va_12h_time_pm"
+msgstr "%l:%M yh"
+
+msgid "wdgt_va_24h_hours"
+msgstr "%H"
+
+msgid "wdgt_va_24h_time"
+msgstr "%H:%M"
+
+msgid "wdgt_va_ago_one_day"
+msgid_plural "wdgt_va_ago_days"
+msgstr[0] "1 diwrnod yn ôl"
+msgstr[1] "%d diwrnod yn ôl"
+msgstr[2] "%d diwrnod yn ôl"
+msgstr[3] "%d diwrnod yn ôl"
+
+msgid "wdgt_va_ago_one_hour"
+msgid_plural "wdgt_va_ago_hours"
+msgstr[0] "1 awr yn ôl"
+msgstr[1] "%d awr yn ôl"
+msgstr[2] "%d awr yn ôl"
+msgstr[3] "%d awr yn ôl"
+
+msgid "wdgt_va_ago_one_minute"
+msgid_plural "wdgt_va_ago_minutes"
+msgstr[0] "1 funud yn ôl"
+msgstr[1] "2 funud yn ôl"
+msgstr[2] "%d munud yn ôl"
+msgstr[3] "%d munud yn ôl"
+
+msgid "wdgt_va_ago_one_year"
+msgid_plural "wdgt_va_ago_years"
+msgstr[0] "1 blwyddyn yn ôl"
+msgstr[1] "2 flwyddyn yn ôl"
+msgstr[2] "%d blwyddyn yn ôl"
+msgstr[3] "%d blwyddyn yn ôl"
+
+msgid "wdgt_va_am"
+msgstr "yb"
+
+msgid "wdgt_va_date"
+msgstr "%m/%d/%Y"
+
+msgid "wdgt_va_date_day_name_short"
+msgstr "%a %m/%d"
+
+msgid "wdgt_va_date_long"
+msgstr "%A, %B %e, %Y"
+
+msgid "wdgt_va_date_medium"
+msgstr "%B %e, %Y"
+
+msgid "wdgt_va_date_short"
+msgstr "%m/%d"
+
+msgid "wdgt_va_day_numeric"
+msgstr "%e"
+
+msgid "wdgt_va_full_24h_time"
+msgstr "%T"
+
+msgid "wdgt_va_fulldate_day_name_short"
+msgstr "%a %m/%d/%y"
+
+msgid "wdgt_va_fullmonth_year"
+msgstr "%B %Y"
+
+msgid "wdgt_va_minutes"
+msgstr "%M"
+
+msgid "wdgt_va_minutes_seconds"
+msgstr "%M:%S"
+
+msgid "wdgt_va_month"
+msgstr "%B"
+
+msgid "wdgt_va_month_name_short"
+msgstr "%b"
+
+msgid "wdgt_va_pm"
+msgstr "yh"
+
+msgid "wdgt_va_seconds"
+msgstr "%S"
+
+msgid "wdgt_va_week"
+msgstr "%A"
+
+msgid "wdgt_va_week_name_short"
+msgstr "%a"
+
+msgid "wdgt_va_week_number"
+msgstr "%V"
+
+msgid "wdgt_va_week_number_sunday_first"
+msgstr "%U"
+
+msgid "wdgt_va_year"
+msgstr "%Y"
