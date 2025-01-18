@@ -3,493 +3,498 @@ msgstr ""
 "Project-Id-Version: hildon-libs 20091109114411\n"
 "Report-Msgid-Bugs-To: parazyd@dyne.org\n"
 "POT-Creation-Date: 2009.11.09 11:44+0200\n"
-"PO-Revision-Date: 2009.11.09 11:44+0200\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"PO-Revision-Date: 2025-01-19 14:00+0000\n"
+"Last-Translator: தமிழ்நேரம் <anishprabu.t@gmail.com>\n"
+"Language-Team: Tamil <https://hosted.weblate.org/projects/maemo-leste/"
+"hildon-libs-l10n/ta/>\n"
 "Language: ta\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 5.10-dev\n"
 
 msgid "ckct_ib_date_does_not_exist"
-msgstr ""
+msgstr "தவறான தேதி"
 
 msgid "ckct_ib_find_enter_the_text"
-msgstr ""
+msgstr "காணப்பட வேண்டிய உரையை உள்ளிடவும்"
 
 msgid "ckct_ib_find_no_matches"
-msgstr ""
+msgstr "போட்டிகள் எதுவும் கிடைக்கவில்லை"
 
 msgid "ckct_ib_find_search_complete"
-msgstr ""
+msgstr "முழுமையான தேடல்"
 
 msgid "ckct_ib_max_allowed_duration_d"
-msgstr ""
+msgstr "அதிகபட்சமாக அனுமதிக்கப்பட்ட காலம் %d"
 
 msgid "ckct_ib_max_allowed_duration_ddd"
-msgstr ""
+msgstr "அதிகபட்சமாக அனுமதிக்கப்பட்ட காலம்%1 $ 02 டி:%2 $ 02 டி:%3 $ 02 டி"
 
 msgid "ckct_ib_max_allowed_duration_hts"
-msgstr ""
+msgstr "அதிகபட்சமாக அனுமதிக்கப்பட்ட காலம்%1 $ 02 டி:%2 $ 02 டி:%3 $ 02 டி"
 
 msgid "ckct_ib_maximum_value"
-msgstr ""
+msgstr "அதிகபட்ச மதிப்பு %d"
 
 msgid "ckct_ib_min_allowed_duration_d"
-msgstr ""
+msgstr "குறைந்தபட்ச அனுமதிக்கப்பட்ட காலம் %d"
 
 msgid "ckct_ib_min_allowed_duration_ddd"
-msgstr ""
+msgstr "குறைந்தபட்ச அனுமதிக்கப்பட்ட காலம்%1 $ 02 டி:%2 $ 02 டி:%3 $ 02 டி"
 
 msgid "ckct_ib_min_allowed_duration_hts"
-msgstr ""
+msgstr "குறைந்தபட்ச அனுமதிக்கப்பட்ட காலம்%1 $ 02 டி:%2 $ 02 டி:%3 $ 02 டி"
 
 msgid "ckct_ib_minimum_value"
-msgstr ""
+msgstr "குறைந்தபட்ச மதிப்பு %d"
 
 msgid "ckct_ib_set_a_value_within_range"
-msgstr ""
+msgstr "மதிப்பு %1$d மற்றும் %2$d க்கு இடையில் இருக்க வேண்டும்"
 
 msgid "ckct_wi_grid_no_icons"
-msgstr ""
+msgstr "சின்னங்கள் இல்லை"
 
 msgid "ckct_wi_grid_no_items"
-msgstr ""
+msgstr "உருப்படிகள் இல்லை"
 
 msgid "ckct_wi_range_separator"
-msgstr ""
+msgstr "-"
 
 msgid "ckdg_bd_rename_object_dialog_ok"
-msgstr ""
+msgstr "மறுபெயரிடுங்கள்"
 
 msgid "ckdg_fi_dialog_c_passwd_new_pwd"
-msgstr ""
+msgstr "புதிய கடவுச்சொல்லை உள்ளிடவும்:"
 
 msgid "ckdg_fi_dialog_c_passwd_pwd_protect"
-msgstr ""
+msgstr "கடவுச்சொல் பாதுகாக்கப்பட்டது:"
 
 msgid "ckdg_fi_dialog_c_passwd_ver_pwd"
-msgstr ""
+msgstr "கடவுச்சொல்லை சரிபார்க்கவும்:"
 
 msgid "ckdg_fi_new_name"
-msgstr ""
+msgstr "பெயர்:"
 
 msgid "ckdg_fi_rename_name"
-msgstr ""
+msgstr "பெயர்:"
 
 msgid "ckdg_fi_sort_field"
-msgstr ""
+msgstr "வழங்கியவர்:"
 
 msgid "ckdg_fi_sort_order"
-msgstr ""
+msgstr "ஒழுங்கு:"
 
 msgid "ckdg_ti_dialog_c_passwd_change_password"
-msgstr ""
+msgstr "கடவுச்சொல்லை மாற்றவும்"
 
 msgid "ckdg_ti_new_application"
-msgstr ""
+msgstr "புதிய பயன்பாடு"
 
 msgid "ckdg_ti_new_bookmark"
-msgstr ""
+msgstr "புதிய புக்மார்க்கு"
 
 msgid "ckdg_ti_new_certificate"
-msgstr ""
+msgstr "புதிய சான்றிதழ்"
 
 msgid "ckdg_ti_new_default"
-msgstr ""
+msgstr "புதிய"
 
 msgid "ckdg_ti_new_document"
-msgstr ""
+msgstr "புதிய ஆவணம்"
 
 msgid "ckdg_ti_new_folder"
-msgstr ""
+msgstr "புதிய கோப்புறை"
 
 msgid "ckdg_ti_new_html"
-msgstr ""
+msgstr "புதிய உஉகுமொ ஆவணம்"
 
 msgid "ckdg_ti_new_image"
-msgstr ""
+msgstr "புதிய படம்"
 
 msgid "ckdg_ti_new_link"
-msgstr ""
+msgstr "புதிய குறுக்குவழி"
 
 msgid "ckdg_ti_new_message"
-msgstr ""
+msgstr "புதிய செய்தி"
 
 msgid "ckdg_ti_new_presentation"
-msgstr ""
+msgstr "புதிய விளக்கக்காட்சி"
 
 msgid "ckdg_ti_new_sound"
-msgstr ""
+msgstr "புதிய ஆடியோ கிளிப்"
 
 msgid "ckdg_ti_new_video"
-msgstr ""
+msgstr "புதிய வீடியோ கிளிப்"
 
 msgid "ckdg_ti_new_workbook"
-msgstr ""
+msgstr "புதிய பணிப்புத்தகம்"
 
 msgid "ckdg_ti_new_xml"
-msgstr ""
+msgstr "புதிய எக்ச்எம்எல் ஆவணம்"
 
 msgid "ckdg_ti_rename_application"
-msgstr ""
+msgstr "விண்ணப்பத்தை மறுபெயரிடுங்கள்"
 
 msgid "ckdg_ti_rename_bookmark"
-msgstr ""
+msgstr "புத்தகக்குறியை மறுபெயரிடுங்கள்"
 
 msgid "ckdg_ti_rename_certificate"
-msgstr ""
+msgstr "சான்றிதழ் மறுபெயரிடுங்கள்"
 
 msgid "ckdg_ti_rename_default"
-msgstr ""
+msgstr "மறுபெயரிடுங்கள்"
 
 msgid "ckdg_ti_rename_document"
-msgstr ""
+msgstr "ஆவணத்தை மறுபெயரிடுங்கள்"
 
 msgid "ckdg_ti_rename_folder"
-msgstr ""
+msgstr "கோப்புறை மறுபெயரிடுங்கள்"
 
 msgid "ckdg_ti_rename_html"
-msgstr ""
+msgstr "உஉகுமொ ஆவணத்தை மறுபெயரிடுங்கள்"
 
 msgid "ckdg_ti_rename_image"
-msgstr ""
+msgstr "படத்தை மறுபெயரிடுங்கள்"
 
 msgid "ckdg_ti_rename_link"
-msgstr ""
+msgstr "குறுக்குவழியை மறுபெயரிடுங்கள்"
 
 msgid "ckdg_ti_rename_message"
-msgstr ""
+msgstr "செய்தியை மறுபெயரிடுங்கள்"
 
 msgid "ckdg_ti_rename_presentation"
-msgstr ""
+msgstr "விளக்கக்காட்சியை மறுபெயரிடுங்கள்"
 
 msgid "ckdg_ti_rename_sound"
-msgstr ""
+msgstr "ஆடியோ கிளிப்பை மறுபெயரிடுங்கள்"
 
 msgid "ckdg_ti_rename_video"
-msgstr ""
+msgstr "வீடியோ கிளிப்பை மறுபெயரிடுங்கள்"
 
 msgid "ckdg_ti_rename_workbook"
-msgstr ""
+msgstr "பணிப்புத்தகத்தை மறுபெயரிடுங்கள்"
 
 msgid "ckdg_ti_rename_xml"
-msgstr ""
+msgstr "எக்ச்எம்எல் ஆவணத்தை மறுபெயரிடுங்கள்"
 
 msgid "ckdg_ti_sort"
-msgstr ""
+msgstr "வரிசைப்படுத்து"
 
 msgid "ckdg_va_sort_ascending"
-msgstr ""
+msgstr "ஏறுதல்"
 
 msgid "ckdg_va_sort_date"
-msgstr ""
+msgstr "திகதி"
 
 msgid "ckdg_va_sort_descending"
-msgstr ""
+msgstr "இறங்கு"
 
 msgid "ckdg_va_sort_name"
-msgstr ""
+msgstr "பெயர்"
 
 msgid "ckdg_va_sort_size"
-msgstr ""
+msgstr "அளவு"
 
 msgid "ecdg_bd_colour_selector_modify"
-msgstr ""
+msgstr "மாற்றவும்"
 
 msgid "ecdg_bd_font_dialog_preview"
-msgstr ""
+msgstr "முன்னோட்டம்"
 
 msgid "ecdg_fi_5bit_colour_selector_blue"
-msgstr ""
+msgstr "நீலம்"
 
 msgid "ecdg_fi_5bit_colour_selector_green"
-msgstr ""
+msgstr "பச்சை"
 
 msgid "ecdg_fi_5bit_colour_selector_red"
-msgstr ""
+msgstr "சிவப்பு"
 
 msgid "ecdg_fi_font_bold"
-msgstr ""
+msgstr "தடிமான"
 
 msgid "ecdg_fi_font_colour_selector"
-msgstr ""
+msgstr "நிறம்"
 
 msgid "ecdg_fi_font_font"
-msgstr ""
+msgstr "எழுத்துரு முகம்"
 
 msgid "ecdg_fi_font_italic"
-msgstr ""
+msgstr "சாய்வு"
 
 msgid "ecdg_fi_font_size"
-msgstr ""
+msgstr "எழுத்துரு அளவு"
 
 msgid "ecdg_fi_font_special"
-msgstr ""
+msgstr "பொருத்துதல்"
 
 msgid "ecdg_fi_font_strikethrough"
-msgstr ""
+msgstr "ச்ட்ரைகெத்ரோ"
 
 msgid "ecdg_fi_font_underline"
-msgstr ""
+msgstr "அடிக்கோடிட்டு"
 
 msgid "ecdg_fi_get_old_pwd_enter_pwd"
-msgstr ""
+msgstr "கடவுச்சொல்:"
 
 msgid "ecdg_fi_preview_font_preview_reference"
-msgstr ""
+msgstr "குறிப்பு: "
 
 msgid "ecdg_fi_preview_font_preview_text"
-msgstr ""
+msgstr "விரைவான பழுப்பு நரி சோம்பேறி நாய் மீது குதிக்கிறது"
 
 msgid "ecdg_fi_set_passwd_confirm"
-msgstr ""
+msgstr "கடவுச்சொல்லை சரிபார்க்கவும்"
 
 msgid "ecdg_fi_set_passwd_enter_pwd"
-msgstr ""
+msgstr "புதிய கடவுச்சொல்லை உள்ளிடவும்"
 
 msgid "ecdg_fi_verify_pwd_enter_pwd"
-msgstr ""
+msgstr "கடவுச்சொல்:"
 
 msgid "ecdg_fi_wizard_description"
 msgstr ""
+"%s வழிகாட்டி உங்களை %s க்கு அனுமதிக்கிறது.\n"
+"\n"
+" தொடர 'அடுத்து' தட்டவும்."
 
 msgid "ecdg_ib_colour_selector_predefined"
-msgstr ""
+msgstr "வண்ணத்தை மாற்ற முடியவில்லை"
 
 msgid "ecdg_ti_5bit_colour_selector"
-msgstr ""
+msgstr "வண்ணத்தை மாற்றவும்"
 
 msgid "ecdg_ti_aboutdialog_title"
-msgstr ""
+msgstr "பயன்பாடு பற்றி"
 
 msgid "ecdg_ti_caption_separator"
-msgstr ""
+msgstr ":"
 
 msgid "ecdg_ti_colour_selector"
-msgstr ""
+msgstr "வண்ண தட்டு"
 
 msgid "ecdg_ti_duration_editor_separator"
-msgstr ""
+msgstr ":"
 
 msgid "ecdg_ti_find_toolbar_label"
-msgstr ""
+msgstr "கண்டுபிடி:"
 
 msgid "ecdg_ti_font"
-msgstr ""
+msgstr "எழுத்துரு"
 
 msgid "ecdg_ti_font_dialog_format"
-msgstr ""
+msgstr "வடிவமைப்பு"
 
 msgid "ecdg_ti_font_dialog_other"
-msgstr ""
+msgstr "மற்றொன்று"
 
 msgid "ecdg_ti_font_dialog_style"
-msgstr ""
+msgstr "சூல் தண்டு"
 
 msgid "ecdg_ti_get_old_password"
-msgstr ""
+msgstr "தற்போதைய கடவுச்சொல்"
 
 msgid "ecdg_ti_preview_font"
-msgstr ""
+msgstr "முன்னோட்டம்"
 
 msgid "ecdg_ti_set_password"
-msgstr ""
+msgstr "கடவுச்சொல்லை அமைக்கவும்"
 
 msgid "ecdg_ti_time_picker_separator"
-msgstr ""
+msgstr ":"
 
 msgid "ecdg_ti_verify_password"
-msgstr ""
+msgstr "கடவுச்சொல் தேவை"
 
 msgid "ecdg_ti_wizard_welcome"
-msgstr ""
+msgstr "%s: வரவேற்கிறோம்"
 
 msgid "ecdg_va_font_printpos_1"
-msgstr ""
+msgstr "சாதாரண"
 
 msgid "ecdg_va_font_printpos_2"
-msgstr ""
+msgstr "சூப்பர்ச்கிரிப்ட்"
 
 msgid "ecdg_va_font_printpos_3"
-msgstr ""
+msgstr "சந்தா"
 
 msgid "ecdg_va_font_size_trailer"
-msgstr ""
+msgstr " பக்"
 
 msgid "frw_ti_get_user_name_and_pwd"
-msgstr ""
+msgstr "கடவுச்சொல் தேவை"
 
 msgid "frw_ti_get_user_name_and_pwd_enter_pwd"
-msgstr ""
+msgstr "கடவுச்சொல்:"
 
 msgid "frw_ti_get_user_name_and_pwd_enter_user_name"
-msgstr ""
+msgstr "பயனர் பெயர்"
 
 msgid "wdgt_bd_add"
-msgstr ""
+msgstr "மேலும்"
 
 msgid "wdgt_bd_back"
-msgstr ""
+msgstr "பின்"
 
 msgid "wdgt_bd_delete"
-msgstr ""
+msgstr "நீக்கு"
 
 msgid "wdgt_bd_done"
-msgstr ""
+msgstr "முடிந்தது"
 
 msgid "wdgt_bd_edit"
-msgstr ""
+msgstr "தொகு"
 
 msgid "wdgt_bd_finish"
-msgstr ""
+msgstr "முடிக்க"
 
 msgid "wdgt_bd_move"
-msgstr ""
+msgstr "நகர்த்தவும்"
 
 msgid "wdgt_bd_new"
-msgstr ""
+msgstr "புதிய"
 
 msgid "wdgt_bd_next"
-msgstr ""
+msgstr "அடுத்தது"
 
 msgid "wdgt_bd_no"
-msgstr ""
+msgstr "இல்லை"
 
 msgid "wdgt_bd_previous"
-msgstr ""
+msgstr "முந்தைய"
 
 msgid "wdgt_bd_rename"
-msgstr ""
+msgstr "மறுபெயரிடுங்கள்"
 
 msgid "wdgt_bd_save"
-msgstr ""
+msgstr "சேமி"
 
 msgid "wdgt_bd_search"
-msgstr ""
+msgstr "தேடல்"
 
 msgid "wdgt_bd_share"
-msgstr ""
+msgstr "பங்கு"
 
 msgid "wdgt_bd_sort"
-msgstr ""
+msgstr "வரிசைப்படுத்து"
 
 msgid "wdgt_bd_stop"
-msgstr ""
+msgstr "நிறுத்து"
 
 msgid "wdgt_bd_view"
-msgstr ""
+msgstr "பார்வை"
 
 msgid "wdgt_bd_yes"
-msgstr ""
+msgstr "ஆம்"
 
 msgid "wdgt_ib_volume"
-msgstr ""
+msgstr "தொகுதி%d %%"
 
 msgid "wdgt_ib_zoom"
-msgstr ""
+msgstr "சூம்%d %%"
 
 msgid "wdgt_ti_date"
-msgstr ""
+msgstr "திகதி"
 
 msgid "wdgt_ti_time"
-msgstr ""
+msgstr "நேரம்"
 
 msgid "wdgt_va_12h_hours"
-msgstr ""
+msgstr "%எல்"
 
 msgid "wdgt_va_12h_time_am"
-msgstr ""
+msgstr "%எல்:%மீ"
 
 msgid "wdgt_va_12h_time_pm"
-msgstr ""
+msgstr "%எல்:%மீ பி.எம்"
 
 msgid "wdgt_va_24h_hours"
-msgstr ""
+msgstr "%ம"
 
 msgid "wdgt_va_24h_time"
-msgstr ""
+msgstr "%எச்:%மீ"
 
 msgid "wdgt_va_ago_one_day"
 msgid_plural "wdgt_va_ago_days"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "1 நாள் முன்பு"
+msgstr[1] "%d சில நாட்களுக்கு முன்பு"
 
 msgid "wdgt_va_ago_one_hour"
 msgid_plural "wdgt_va_ago_hours"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "1 மணி நேரத்திற்கு முன்பு"
+msgstr[1] "%d மணிநேரங்களுக்கு முன்பு"
 
 msgid "wdgt_va_ago_one_minute"
 msgid_plural "wdgt_va_ago_minutes"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "1 மணித்துளி முன்பு"
+msgstr[1] "%d நிமிடங்களுக்கு முன்பு"
 
 msgid "wdgt_va_ago_one_year"
 msgid_plural "wdgt_va_ago_years"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "1 வருடம் முன்பு"
+msgstr[1] "%d ஆண்டுகளுக்கு முன்பு"
 
 msgid "wdgt_va_am"
-msgstr ""
+msgstr "ஆம்"
 
 msgid "wdgt_va_date"
-msgstr ""
+msgstr "%d/%m/%y"
 
 msgid "wdgt_va_date_day_name_short"
-msgstr ""
+msgstr "%a %d/ %m"
 
 msgid "wdgt_va_date_long"
-msgstr ""
+msgstr "%A %e %b %y"
 
 msgid "wdgt_va_date_medium"
-msgstr ""
+msgstr "%e %b %y"
 
 msgid "wdgt_va_date_short"
-msgstr ""
+msgstr "%d/%மீ"
 
 msgid "wdgt_va_day_numeric"
-msgstr ""
+msgstr "%இ"
 
 msgid "wdgt_va_full_24h_time"
-msgstr ""
+msgstr "%டி"
 
 msgid "wdgt_va_fulldate_day_name_short"
-msgstr ""
+msgstr "%a%d/%m/%y"
 
 msgid "wdgt_va_fullmonth_year"
-msgstr ""
+msgstr "%B %y"
 
 msgid "wdgt_va_minutes"
-msgstr ""
+msgstr "%மீ"
 
 msgid "wdgt_va_minutes_seconds"
-msgstr ""
+msgstr "%மீ:%கள்"
 
 msgid "wdgt_va_month"
-msgstr ""
+msgstr "%B"
 
 msgid "wdgt_va_month_name_short"
-msgstr ""
+msgstr "%b"
 
 msgid "wdgt_va_pm"
-msgstr ""
+msgstr "பி.எம்"
 
 msgid "wdgt_va_seconds"
-msgstr ""
+msgstr "%கள்"
 
 msgid "wdgt_va_week"
-msgstr ""
+msgstr "%A"
 
 msgid "wdgt_va_week_name_short"
-msgstr ""
+msgstr "%a"
 
 msgid "wdgt_va_week_number"
-msgstr ""
+msgstr "%V"
 
 msgid "wdgt_va_week_number_sunday_first"
-msgstr ""
+msgstr "%U"
 
 msgid "wdgt_va_year"
-msgstr ""
+msgstr "%Y"
