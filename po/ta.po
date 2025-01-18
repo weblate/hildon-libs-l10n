@@ -1,0 +1,495 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: hildon-libs 20091109114411\n"
+"Report-Msgid-Bugs-To: parazyd@dyne.org\n"
+"POT-Creation-Date: 2009.11.09 11:44+0200\n"
+"PO-Revision-Date: 2009.11.09 11:44+0200\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"Language: ta\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+
+msgid "ckct_ib_date_does_not_exist"
+msgstr ""
+
+msgid "ckct_ib_find_enter_the_text"
+msgstr ""
+
+msgid "ckct_ib_find_no_matches"
+msgstr ""
+
+msgid "ckct_ib_find_search_complete"
+msgstr ""
+
+msgid "ckct_ib_max_allowed_duration_d"
+msgstr ""
+
+msgid "ckct_ib_max_allowed_duration_ddd"
+msgstr ""
+
+msgid "ckct_ib_max_allowed_duration_hts"
+msgstr ""
+
+msgid "ckct_ib_maximum_value"
+msgstr ""
+
+msgid "ckct_ib_min_allowed_duration_d"
+msgstr ""
+
+msgid "ckct_ib_min_allowed_duration_ddd"
+msgstr ""
+
+msgid "ckct_ib_min_allowed_duration_hts"
+msgstr ""
+
+msgid "ckct_ib_minimum_value"
+msgstr ""
+
+msgid "ckct_ib_set_a_value_within_range"
+msgstr ""
+
+msgid "ckct_wi_grid_no_icons"
+msgstr ""
+
+msgid "ckct_wi_grid_no_items"
+msgstr ""
+
+msgid "ckct_wi_range_separator"
+msgstr ""
+
+msgid "ckdg_bd_rename_object_dialog_ok"
+msgstr ""
+
+msgid "ckdg_fi_dialog_c_passwd_new_pwd"
+msgstr ""
+
+msgid "ckdg_fi_dialog_c_passwd_pwd_protect"
+msgstr ""
+
+msgid "ckdg_fi_dialog_c_passwd_ver_pwd"
+msgstr ""
+
+msgid "ckdg_fi_new_name"
+msgstr ""
+
+msgid "ckdg_fi_rename_name"
+msgstr ""
+
+msgid "ckdg_fi_sort_field"
+msgstr ""
+
+msgid "ckdg_fi_sort_order"
+msgstr ""
+
+msgid "ckdg_ti_dialog_c_passwd_change_password"
+msgstr ""
+
+msgid "ckdg_ti_new_application"
+msgstr ""
+
+msgid "ckdg_ti_new_bookmark"
+msgstr ""
+
+msgid "ckdg_ti_new_certificate"
+msgstr ""
+
+msgid "ckdg_ti_new_default"
+msgstr ""
+
+msgid "ckdg_ti_new_document"
+msgstr ""
+
+msgid "ckdg_ti_new_folder"
+msgstr ""
+
+msgid "ckdg_ti_new_html"
+msgstr ""
+
+msgid "ckdg_ti_new_image"
+msgstr ""
+
+msgid "ckdg_ti_new_link"
+msgstr ""
+
+msgid "ckdg_ti_new_message"
+msgstr ""
+
+msgid "ckdg_ti_new_presentation"
+msgstr ""
+
+msgid "ckdg_ti_new_sound"
+msgstr ""
+
+msgid "ckdg_ti_new_video"
+msgstr ""
+
+msgid "ckdg_ti_new_workbook"
+msgstr ""
+
+msgid "ckdg_ti_new_xml"
+msgstr ""
+
+msgid "ckdg_ti_rename_application"
+msgstr ""
+
+msgid "ckdg_ti_rename_bookmark"
+msgstr ""
+
+msgid "ckdg_ti_rename_certificate"
+msgstr ""
+
+msgid "ckdg_ti_rename_default"
+msgstr ""
+
+msgid "ckdg_ti_rename_document"
+msgstr ""
+
+msgid "ckdg_ti_rename_folder"
+msgstr ""
+
+msgid "ckdg_ti_rename_html"
+msgstr ""
+
+msgid "ckdg_ti_rename_image"
+msgstr ""
+
+msgid "ckdg_ti_rename_link"
+msgstr ""
+
+msgid "ckdg_ti_rename_message"
+msgstr ""
+
+msgid "ckdg_ti_rename_presentation"
+msgstr ""
+
+msgid "ckdg_ti_rename_sound"
+msgstr ""
+
+msgid "ckdg_ti_rename_video"
+msgstr ""
+
+msgid "ckdg_ti_rename_workbook"
+msgstr ""
+
+msgid "ckdg_ti_rename_xml"
+msgstr ""
+
+msgid "ckdg_ti_sort"
+msgstr ""
+
+msgid "ckdg_va_sort_ascending"
+msgstr ""
+
+msgid "ckdg_va_sort_date"
+msgstr ""
+
+msgid "ckdg_va_sort_descending"
+msgstr ""
+
+msgid "ckdg_va_sort_name"
+msgstr ""
+
+msgid "ckdg_va_sort_size"
+msgstr ""
+
+msgid "ecdg_bd_colour_selector_modify"
+msgstr ""
+
+msgid "ecdg_bd_font_dialog_preview"
+msgstr ""
+
+msgid "ecdg_fi_5bit_colour_selector_blue"
+msgstr ""
+
+msgid "ecdg_fi_5bit_colour_selector_green"
+msgstr ""
+
+msgid "ecdg_fi_5bit_colour_selector_red"
+msgstr ""
+
+msgid "ecdg_fi_font_bold"
+msgstr ""
+
+msgid "ecdg_fi_font_colour_selector"
+msgstr ""
+
+msgid "ecdg_fi_font_font"
+msgstr ""
+
+msgid "ecdg_fi_font_italic"
+msgstr ""
+
+msgid "ecdg_fi_font_size"
+msgstr ""
+
+msgid "ecdg_fi_font_special"
+msgstr ""
+
+msgid "ecdg_fi_font_strikethrough"
+msgstr ""
+
+msgid "ecdg_fi_font_underline"
+msgstr ""
+
+msgid "ecdg_fi_get_old_pwd_enter_pwd"
+msgstr ""
+
+msgid "ecdg_fi_preview_font_preview_reference"
+msgstr ""
+
+msgid "ecdg_fi_preview_font_preview_text"
+msgstr ""
+
+msgid "ecdg_fi_set_passwd_confirm"
+msgstr ""
+
+msgid "ecdg_fi_set_passwd_enter_pwd"
+msgstr ""
+
+msgid "ecdg_fi_verify_pwd_enter_pwd"
+msgstr ""
+
+msgid "ecdg_fi_wizard_description"
+msgstr ""
+
+msgid "ecdg_ib_colour_selector_predefined"
+msgstr ""
+
+msgid "ecdg_ti_5bit_colour_selector"
+msgstr ""
+
+msgid "ecdg_ti_aboutdialog_title"
+msgstr ""
+
+msgid "ecdg_ti_caption_separator"
+msgstr ""
+
+msgid "ecdg_ti_colour_selector"
+msgstr ""
+
+msgid "ecdg_ti_duration_editor_separator"
+msgstr ""
+
+msgid "ecdg_ti_find_toolbar_label"
+msgstr ""
+
+msgid "ecdg_ti_font"
+msgstr ""
+
+msgid "ecdg_ti_font_dialog_format"
+msgstr ""
+
+msgid "ecdg_ti_font_dialog_other"
+msgstr ""
+
+msgid "ecdg_ti_font_dialog_style"
+msgstr ""
+
+msgid "ecdg_ti_get_old_password"
+msgstr ""
+
+msgid "ecdg_ti_preview_font"
+msgstr ""
+
+msgid "ecdg_ti_set_password"
+msgstr ""
+
+msgid "ecdg_ti_time_picker_separator"
+msgstr ""
+
+msgid "ecdg_ti_verify_password"
+msgstr ""
+
+msgid "ecdg_ti_wizard_welcome"
+msgstr ""
+
+msgid "ecdg_va_font_printpos_1"
+msgstr ""
+
+msgid "ecdg_va_font_printpos_2"
+msgstr ""
+
+msgid "ecdg_va_font_printpos_3"
+msgstr ""
+
+msgid "ecdg_va_font_size_trailer"
+msgstr ""
+
+msgid "frw_ti_get_user_name_and_pwd"
+msgstr ""
+
+msgid "frw_ti_get_user_name_and_pwd_enter_pwd"
+msgstr ""
+
+msgid "frw_ti_get_user_name_and_pwd_enter_user_name"
+msgstr ""
+
+msgid "wdgt_bd_add"
+msgstr ""
+
+msgid "wdgt_bd_back"
+msgstr ""
+
+msgid "wdgt_bd_delete"
+msgstr ""
+
+msgid "wdgt_bd_done"
+msgstr ""
+
+msgid "wdgt_bd_edit"
+msgstr ""
+
+msgid "wdgt_bd_finish"
+msgstr ""
+
+msgid "wdgt_bd_move"
+msgstr ""
+
+msgid "wdgt_bd_new"
+msgstr ""
+
+msgid "wdgt_bd_next"
+msgstr ""
+
+msgid "wdgt_bd_no"
+msgstr ""
+
+msgid "wdgt_bd_previous"
+msgstr ""
+
+msgid "wdgt_bd_rename"
+msgstr ""
+
+msgid "wdgt_bd_save"
+msgstr ""
+
+msgid "wdgt_bd_search"
+msgstr ""
+
+msgid "wdgt_bd_share"
+msgstr ""
+
+msgid "wdgt_bd_sort"
+msgstr ""
+
+msgid "wdgt_bd_stop"
+msgstr ""
+
+msgid "wdgt_bd_view"
+msgstr ""
+
+msgid "wdgt_bd_yes"
+msgstr ""
+
+msgid "wdgt_ib_volume"
+msgstr ""
+
+msgid "wdgt_ib_zoom"
+msgstr ""
+
+msgid "wdgt_ti_date"
+msgstr ""
+
+msgid "wdgt_ti_time"
+msgstr ""
+
+msgid "wdgt_va_12h_hours"
+msgstr ""
+
+msgid "wdgt_va_12h_time_am"
+msgstr ""
+
+msgid "wdgt_va_12h_time_pm"
+msgstr ""
+
+msgid "wdgt_va_24h_hours"
+msgstr ""
+
+msgid "wdgt_va_24h_time"
+msgstr ""
+
+msgid "wdgt_va_ago_one_day"
+msgid_plural "wdgt_va_ago_days"
+msgstr[0] ""
+msgstr[1] ""
+
+msgid "wdgt_va_ago_one_hour"
+msgid_plural "wdgt_va_ago_hours"
+msgstr[0] ""
+msgstr[1] ""
+
+msgid "wdgt_va_ago_one_minute"
+msgid_plural "wdgt_va_ago_minutes"
+msgstr[0] ""
+msgstr[1] ""
+
+msgid "wdgt_va_ago_one_year"
+msgid_plural "wdgt_va_ago_years"
+msgstr[0] ""
+msgstr[1] ""
+
+msgid "wdgt_va_am"
+msgstr ""
+
+msgid "wdgt_va_date"
+msgstr ""
+
+msgid "wdgt_va_date_day_name_short"
+msgstr ""
+
+msgid "wdgt_va_date_long"
+msgstr ""
+
+msgid "wdgt_va_date_medium"
+msgstr ""
+
+msgid "wdgt_va_date_short"
+msgstr ""
+
+msgid "wdgt_va_day_numeric"
+msgstr ""
+
+msgid "wdgt_va_full_24h_time"
+msgstr ""
+
+msgid "wdgt_va_fulldate_day_name_short"
+msgstr ""
+
+msgid "wdgt_va_fullmonth_year"
+msgstr ""
+
+msgid "wdgt_va_minutes"
+msgstr ""
+
+msgid "wdgt_va_minutes_seconds"
+msgstr ""
+
+msgid "wdgt_va_month"
+msgstr ""
+
+msgid "wdgt_va_month_name_short"
+msgstr ""
+
+msgid "wdgt_va_pm"
+msgstr ""
+
+msgid "wdgt_va_seconds"
+msgstr ""
+
+msgid "wdgt_va_week"
+msgstr ""
+
+msgid "wdgt_va_week_name_short"
+msgstr ""
+
+msgid "wdgt_va_week_number"
+msgstr ""
+
+msgid "wdgt_va_week_number_sunday_first"
+msgstr ""
+
+msgid "wdgt_va_year"
+msgstr ""
